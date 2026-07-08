@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>&quot;&quot;gen z&quot; brand trend spending&quot; - Google News</title>
+<link>https://news.google.com/search?q=%22gen+z%22+brand+trend+spending&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</link>
+<description><![CDATA[Google News]]></description>
+<item>
+<title><![CDATA[State of the Consumer 2026: When tech acceleration and cost pressures collide - McKinsey & Company]]></title>
+<link>https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmgxNmF5TjA0LUU5Yi1nekhZVnRwTWwtSG5yMzZjOTM5VjRJdVpQNGVGQVZBekdZdUh2dFN5SDZRUmFVYWxBbW5DTEZuQVpGVUowc0loOHJEMlRfLXVZOTdjVnkxUmk4WDdnUzJPeF9zQ2FFOTRyb29paEFaMzNFYkhhQ1NlTzJ0UnVPMUVlcU1wZnF0?oc=5</link>
+<pubDate>Mon, 22 Jun 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNbmgxNmF5TjA0LUU5Yi1nekhZVnRwTWwtSG5yMzZjOTM5VjRJdVpQNGVGQVZBekdZdUh2dFN5SDZRUmFVYWxBbW5DTEZuQVpGVUowc0loOHJEMlRfLXVZOTdjVnkxUmk4WDdnUzJPeF9zQ2FFOTRyb29paEFaMzNFYkhhQ1NlTzJ0UnVPMUVlcU1wZnF0?oc=5" target="_blank">State of the Consumer 2026: When tech acceleration and cost pressures collide</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>]]></description>
+</item>
+<item>
+<title><![CDATA[How brands can reach Gen Z: Where they spend time and what drives discovery - YouGov]]></title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVdtTHIwUjVmd005VlVSTWw1XzVUY2F0NEJlTzRyMy1pRUt2ZmdDMEg5cHdmdk4wMjlydG1iSDB5WTAyYjdHVlptUXVTRmY0VV9GQ2I2dHhKWW0tZmwyUU1oUkd1RmE4RDhZdTZPVnduZXoyMll2cVJEaUQ4X0RWQTVUNXA2Q2xVcVBNUXJPQmNkWl9kdFYtNzF6RWtsMzZIUFRFdW5IV2h5cmhZQU9RSFk3Vkw?oc=5</link>
+<pubDate>Sun, 05 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxPOVdtTHIwUjVmd005VlVSTWw1XzVUY2F0NEJlTzRyMy1pRUt2ZmdDMEg5cHdmdk4wMjlydG1iSDB5WTAyYjdHVlptUXVTRmY0VV9GQ2I2dHhKWW0tZmwyUU1oUkd1RmE4RDhZdTZPVnduZXoyMll2cVJEaUQ4X0RWQTVUNXA2Q2xVcVBNUXJPQmNkWl9kdFYtNzF6RWtsMzZIUFRFdW5IV2h5cmhZQU9RSFk3Vkw?oc=5" target="_blank">How brands can reach Gen Z: Where they spend time and what drives discovery</a>&nbsp;&nbsp;<font color="#6f6f6f">YouGov</font>]]></description>
+</item>
+<item>
+<title><![CDATA[The Gen Z paradox: Spending less, expecting more - PwC]]></title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVp1YndCMXFSdTdrSmVQUkQ5S2dFaXdqeUtkUmprQXcyYmZ2Q3g4MHdkQ2M5ZUtDNEVoSnY2bFl1WlVrMU9hUjhDUjZ1bWVXWUI3RnZqYmZJaDV5QV9NNHZ3SFQ2Tk5ZeEZPVWlSVTBwd2RjcHVYc0xUT210NU9WZGQ3S2xDQkRlclpMYkxvZzVjdw?oc=5</link>
+<pubDate>Mon, 06 Oct 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPLVp1YndCMXFSdTdrSmVQUkQ5S2dFaXdqeUtkUmprQXcyYmZ2Q3g4MHdkQ2M5ZUtDNEVoSnY2bFl1WlVrMU9hUjhDUjZ1bWVXWUI3RnZqYmZJaDV5QV9NNHZ3SFQ2Tk5ZeEZPVWlSVTBwd2RjcHVYc0xUT210NU9WZGQ3S2xDQkRlclpMYkxvZzVjdw?oc=5" target="_blank">The Gen Z paradox: Spending less, expecting more</a>&nbsp;&nbsp;<font color="#6f6f6f">PwC</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Latest Gen Z Spend Trend: Trading Down To Glow Up - Forbes]]></title>
+<link>https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWV5NkM5TER4M1ZGaDlDVmRCT2EzWGh6UWxkNkN6enp5ZWNCOWlRTU00TDYyc0NQc3BqY2JGNlBKOWxBTzdDRlpfSF9FRE5SX0t0Wm5tVzdfOVEzUmM0MGtCajB5TWowMnR3eDFpX2V3RGlkR296UjhFNDd2X1REVWlfZ3djcmlaeVBjVEZJTEdla0tFTndvRzQ3ellZSXU0?oc=5</link>
+<pubDate>Wed, 08 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWV5NkM5TER4M1ZGaDlDVmRCT2EzWGh6UWxkNkN6enp5ZWNCOWlRTU00TDYyc0NQc3BqY2JGNlBKOWxBTzdDRlpfSF9FRE5SX0t0Wm5tVzdfOVEzUmM0MGtCajB5TWowMnR3eDFpX2V3RGlkR296UjhFNDd2X1REVWlfZ3djcmlaeVBjVEZJTEdla0tFTndvRzQ3ellZSXU0?oc=5" target="_blank">Latest Gen Z Spend Trend: Trading Down To Glow Up</a>&nbsp;&nbsp;<font color="#6f6f6f">Forbes</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Extreme Budget Eating: The Food Trend Brands Can’t Ignore - The Food Institute]]></title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOamVqalpLYmpjbmx0cEkyZ3RseVhXdG1RbHJUWlBNRTZPM0pOWmYtdWZ3UTBtWWhvU2dSblJEdWg0UThoZmRCNUhMdUdXY21fU2hWMHRPS0Z6YUpuNFJ0TGp2WWljbXdjdWpqbEJldEJ2RFBvejNwWTlqQ1RIeHVBVmNYMnFjN0dRWTAxMlIzcHFyQQ?oc=5</link>
+<pubDate>Mon, 15 Jun 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOamVqalpLYmpjbmx0cEkyZ3RseVhXdG1RbHJUWlBNRTZPM0pOWmYtdWZ3UTBtWWhvU2dSblJEdWg0UThoZmRCNUhMdUdXY21fU2hWMHRPS0Z6YUpuNFJ0TGp2WWljbXdjdWpqbEJldEJ2RFBvejNwWTlqQ1RIeHVBVmNYMnFjN0dRWTAxMlIzcHFyQQ?oc=5" target="_blank">Extreme Budget Eating: The Food Trend Brands Can’t Ignore</a>&nbsp;&nbsp;<font color="#6f6f6f">The Food Institute</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z mass fashion brands reshaping India’s retail landscape - JLL]]></title>
+<link>https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEstYnRfUnpyeGdOQlFYMXJac3FjY1VteDJkTE8zUTJ0b3JLY1RITklwY2R5SkJEcGxrNWFRaFBsWlpMSm1EaEhaRVN0S0JfbnM2U1h2RVEzV1NNLUFfMkFsZXZvZkY2eXl3UGh2LThtdTVtTWtmNGtWOWhlU3dydDFsMFlRM05RTVNTczA2cjdjNTFkUU01ag?oc=5</link>
+<pubDate>Tue, 05 May 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxOcEstYnRfUnpyeGdOQlFYMXJac3FjY1VteDJkTE8zUTJ0b3JLY1RITklwY2R5SkJEcGxrNWFRaFBsWlpMSm1EaEhaRVN0S0JfbnM2U1h2RVEzV1NNLUFfMkFsZXZvZkY2eXl3UGh2LThtdTVtTWtmNGtWOWhlU3dydDFsMFlRM05RTVNTczA2cjdjNTFkUU01ag?oc=5" target="_blank">Gen Z mass fashion brands reshaping India’s retail landscape</a>&nbsp;&nbsp;<font color="#6f6f6f">JLL</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z are still the most sought-after beauty demographic, but for influence, not spend - Cosmetics Business]]></title>
+<link>https://news.google.com/rss/articles/CBMihgFBVV95cUxONGxoRWlEWUhuYmFsS0hvaTFoa280cVBVa01CbzhTOHZ2UEdrS01KNlBBX3QtYjd5ZmpIVVFLWnB6ZDhLY2dCYTVwS0FzNHdNMmxoT3VHOS1oWTMxSWR4RWR5R0JEZjVhV2dYU1llTC1rekxZbFd3RXlQT2daZWdaMVdPNlE0dw?oc=5</link>
+<pubDate>Tue, 19 May 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxONGxoRWlEWUhuYmFsS0hvaTFoa280cVBVa01CbzhTOHZ2UEdrS01KNlBBX3QtYjd5ZmpIVVFLWnB6ZDhLY2dCYTVwS0FzNHdNMmxoT3VHOS1oWTMxSWR4RWR5R0JEZjVhV2dYU1llTC1rekxZbFd3RXlQT2daZWdaMVdPNlE0dw?oc=5" target="_blank">Gen Z are still the most sought-after beauty demographic, but for influence, not spend</a>&nbsp;&nbsp;<font color="#6f6f6f">Cosmetics Business</font>]]></description>
+</item>
+<item>
+<title><![CDATA[The Future 100: Gen Z Trends & Insights 2026 - VML]]></title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSWJON0pURlVFc29PMGJBTC1NMDc4bHlvaGhWWHFaRmNlSXNfZWxrM2s0V3NmWlczNkVmS0o3V0tlc3NybmVnYUNBZHpNbVFoREdSLVF5NVBwZHN2SkV0akZzbFRQdkt2ZFF5ZA?oc=5</link>
+<pubDate>Mon, 09 Feb 2026 20:56:05 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSWJON0pURlVFc29PMGJBTC1NMDc4bHlvaGhWWHFaRmNlSXNfZWxrM2s0V3NmWlczNkVmS0o3V0tlc3NybmVnYUNBZHpNbVFoREdSLVF5NVBwZHN2SkV0akZzbFRQdkt2ZFF5ZA?oc=5" target="_blank">The Future 100: Gen Z Trends & Insights 2026</a>&nbsp;&nbsp;<font color="#6f6f6f">VML</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Study finds Gen Z still prefers national brands, but shifts spending across categories - Supermarket News]]></title>
+<link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0Q5YVRaQ1d1M2U5TGxpVVVyVWlaWTVtdW1aQXV4N25kTWkwWDhLdlRkMGVrRUxJLXhHNWNJd2dTbEdybkFXc0xwZ3JUa091WFF2LTI3Vm5iNGV2YzZSUTZlQ090aWVBRHpoME5FZFVVNE1ZRkpXTzMxdzZMUlZLWUNpMWxteDU5RHVZNUdxVVdYWkFtcFNKZ1llUm1wVUhmVjBVc3o3Y2ctZ1RLMkpTLXdwSWd6cWZrVWt3LWo5SVNGODdNWW05ZFlqTTVlR3ZtS3hR?oc=5</link>
+<pubDate>Thu, 19 Mar 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxNN0Q5YVRaQ1d1M2U5TGxpVVVyVWlaWTVtdW1aQXV4N25kTWkwWDhLdlRkMGVrRUxJLXhHNWNJd2dTbEdybkFXc0xwZ3JUa091WFF2LTI3Vm5iNGV2YzZSUTZlQ090aWVBRHpoME5FZFVVNE1ZRkpXTzMxdzZMUlZLWUNpMWxteDU5RHVZNUdxVVdYWkFtcFNKZ1llUm1wVUhmVjBVc3o3Y2ctZ1RLMkpTLXdwSWd6cWZrVWt3LWo5SVNGODdNWW05ZFlqTTVlR3ZtS3hR?oc=5" target="_blank">Study finds Gen Z still prefers national brands, but shifts spending across categories</a>&nbsp;&nbsp;<font color="#6f6f6f">Supermarket News</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Alcohol brands are shifting spending to brunch, daytime events as Gen Z drinks 'differently' - Business Insider]]></title>
+<link>https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUdkM0RnWWJFR2R0eG9lT24wb011MTR3QlJUS25DYWlpVFR6Njg5N0VwU1pQY2wyazdpNHBXeGlGM2lfU011TGpveDBDODBiSmJLZ2JQMnRUdXB5Q0hOaDdkUVNKQ2tqeEQ5dmg3YnhfSUlnZXlJczl1Uy04UjRBUVRhU0dLOGlNeEdkeGUyYmd5YjZlZ19rUm1Yd2Y?oc=5</link>
+<pubDate>Sun, 15 Mar 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUdkM0RnWWJFR2R0eG9lT24wb011MTR3QlJUS25DYWlpVFR6Njg5N0VwU1pQY2wyazdpNHBXeGlGM2lfU011TGpveDBDODBiSmJLZ2JQMnRUdXB5Q0hOaDdkUVNKQ2tqeEQ5dmg3YnhfSUlnZXlJczl1Uy04UjRBUVRhU0dLOGlNeEdkeGUyYmd5YjZlZ19rUm1Yd2Y?oc=5" target="_blank">Alcohol brands are shifting spending to brunch, daytime events as Gen Z drinks 'differently'</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font>]]></description>
+</item>
+<item>
+<title><![CDATA[How Gen Z and Gen Alpha Are Slowing Down the Beauty Playbook - BeautyMatter]]></title>
+<link>https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmJERlJidVRWYjE2OGVoX245TUttdEhWSmZUSVphYUE1VTRKQk1JX0hPWWNNeFJQOGFZQURwemN4WGdBcVV6VmJQNTNwcHU4OUREV19zZnFBMEVJSTkyQnl6UE93bUdNYVF1b0pZWjdfd3BUcGlhSHFPM2pQaFpENXp1X2J1QTdXaTVXMm5EUjlHaG8wSHhnRjdR?oc=5</link>
+<pubDate>Thu, 26 Feb 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmJERlJidVRWYjE2OGVoX245TUttdEhWSmZUSVphYUE1VTRKQk1JX0hPWWNNeFJQOGFZQURwemN4WGdBcVV6VmJQNTNwcHU4OUREV19zZnFBMEVJSTkyQnl6UE93bUdNYVF1b0pZWjdfd3BUcGlhSHFPM2pQaFpENXp1X2J1QTdXaTVXMm5EUjlHaG8wSHhnRjdR?oc=5" target="_blank">How Gen Z and Gen Alpha Are Slowing Down the Beauty Playbook</a>&nbsp;&nbsp;<font color="#6f6f6f">BeautyMatter</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Report: How Gen Z’s $1.3 Trillion Spending Power Will Reshape Beauty, Fashion, And Fitness By 2030 - Outlook Luxe]]></title>
+<link>https://news.google.com/rss/articles/CBMi3gFBVV95cUxONy1HaW1EajFTMlh6X1FTZTFmb3VOUW1ObUNiQTBzZlR0R19PRGlmOVMxVkRaV0JyQTl0a1dtOXM0TS14WmoyVDNsREJ3N1dqcm5mUXI4SWhTTUdpM2t0Wnd4aC15Z0hDNXJvS0doaXRINmh4WlFvcTlwSWkzVndWcnhYWERKOGJodnFBWEFNbnBVb19maXNVNzl0U2VyRmphbTNyZDFWVUZpYXE3Q015MEdxUVFwYWU5M0VnbjJBZ2hSamdBWVQybW1LM3ZScmIybUpBTXB4cmIzc1pDM3fSAesBQVVfeXFMTXpQYklMWGZPZndqTGRwZ0I1dzl4RGltSl94dFBkcUpIMjZPQXIyQWVRTU5uTi12R1NBN2pzQkRmTjNUTmJkMWJOaHdxdG1jQk1qbVpDaGNxeUdVSWpnV1VfdzhlVWhCTlM4MHFSV04xYW9uM2Z4M3FXMFZINUphdExOVGh5Um5QaGhQeWhVUE1jVW9JdjFGaDJDNDF0NEhsN0tmTm1mUlJhSERNNVV3VEN1Mmo1TkxWM21jSlZ0Q29ZN2VWeWtVU0lzTDI3NkFmcXBDa3A3UzRqcUcwU0wyWjdTVDVBMGNkeTBqdw?oc=5</link>
+<pubDate>Wed, 18 Mar 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxONy1HaW1EajFTMlh6X1FTZTFmb3VOUW1ObUNiQTBzZlR0R19PRGlmOVMxVkRaV0JyQTl0a1dtOXM0TS14WmoyVDNsREJ3N1dqcm5mUXI4SWhTTUdpM2t0Wnd4aC15Z0hDNXJvS0doaXRINmh4WlFvcTlwSWkzVndWcnhYWERKOGJodnFBWEFNbnBVb19maXNVNzl0U2VyRmphbTNyZDFWVUZpYXE3Q015MEdxUVFwYWU5M0VnbjJBZ2hSamdBWVQybW1LM3ZScmIybUpBTXB4cmIzc1pDM3fSAesBQVVfeXFMTXpQYklMWGZPZndqTGRwZ0I1dzl4RGltSl94dFBkcUpIMjZPQXIyQWVRTU5uTi12R1NBN2pzQkRmTjNUTmJkMWJOaHdxdG1jQk1qbVpDaGNxeUdVSWpnV1VfdzhlVWhCTlM4MHFSV04xYW9uM2Z4M3FXMFZINUphdExOVGh5Um5QaGhQeWhVUE1jVW9JdjFGaDJDNDF0NEhsN0tmTm1mUlJhSERNNVV3VEN1Mmo1TkxWM21jSlZ0Q29ZN2VWeWtVU0lzTDI3NkFmcXBDa3A3UzRqcUcwU0wyWjdTVDVBMGNkeTBqdw?oc=5" target="_blank">Report: How Gen Z’s $1.3 Trillion Spending Power Will Reshape Beauty, Fashion, And Fitness By 2030</a>&nbsp;&nbsp;<font color="#6f6f6f">Outlook Luxe</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z consumer trends and key insights for 2026 success - ContentGrip]]></title>
+<link>https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDaXd5SjBmR3dIUFVGLUFFdkxpaHVVQXNMemQtOHZqNlNCRWhjeHJ5NExwam9IZnZuWHZSUVI5dUtmN1ZRbVhWcHpqaHJfemtmWFBsNHlVZl9Ma1Vub052RzNVNVJJdw?oc=5</link>
+<pubDate>Thu, 11 Jun 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDaXd5SjBmR3dIUFVGLUFFdkxpaHVVQXNMemQtOHZqNlNCRWhjeHJ5NExwam9IZnZuWHZSUVI5dUtmN1ZRbVhWcHpqaHJfemtmWFBsNHlVZl9Ma1Vub052RzNVNVJJdw?oc=5" target="_blank">Gen Z consumer trends and key insights for 2026 success</a>&nbsp;&nbsp;<font color="#6f6f6f">ContentGrip</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Mind the Gap: Does Gen Z want more from fashion? - McKinsey & Company]]></title>
+<link>https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXpybkd1bzVneE9GYWlBTGNteDBTSnpYc3hnbEdPOEhiZGE0UndWbThBUXc4WHdoUG1td2d0QW5QbExHRDlDenNEWVFiUXpqa3ZyUHNnb05FeUpPWFByaDhXSFhVbmRYWW1oMTBBUk9SUUFydkViRFhwcEVZZFY2VU9IZw?oc=5</link>
+<pubDate>Tue, 02 Dec 2025 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXpybkd1bzVneE9GYWlBTGNteDBTSnpYc3hnbEdPOEhiZGE0UndWbThBUXc4WHdoUG1td2d0QW5QbExHRDlDenNEWVFiUXpqa3ZyUHNnb05FeUpPWFByaDhXSFhVbmRYWW1oMTBBUk9SUUFydkViRFhwcEVZZFY2VU9IZw?oc=5" target="_blank">Mind the Gap: Does Gen Z want more from fashion?</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z is cutting back on doomscrolling—how it’s connecting with brands and creators IRL - Ad Age]]></title>
+<link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnM0MncwZTBrSU1LQ0dBaFRXbzBMcWplRVBJMWtjLUdGZ3NZTk5tanNocmVFLUtXWkw2OUROeU50T1RPaEM3S3BrT1lESkFGcm5OcDBPcjgtUjZ6VVJtUDVPdkJCRTdIZGtEOUk1VlNHVFhRVjJ3clMxbXNHRmRIREdpaWxZQW8?oc=5</link>
+<pubDate>Thu, 30 Oct 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPYnM0MncwZTBrSU1LQ0dBaFRXbzBMcWplRVBJMWtjLUdGZ3NZTk5tanNocmVFLUtXWkw2OUROeU50T1RPaEM3S3BrT1lESkFGcm5OcDBPcjgtUjZ6VVJtUDVPdkJCRTdIZGtEOUk1VlNHVFhRVjJ3clMxbXNHRmRIREdpaWxZQW8?oc=5" target="_blank">Gen Z is cutting back on doomscrolling—how it’s connecting with brands and creators IRL</a>&nbsp;&nbsp;<font color="#6f6f6f">Ad Age</font>]]></description>
+</item>
+<item>
+<title><![CDATA[10 Surprising Gen Z Consumer Trends You Should Know - Small Business Trends]]></title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zSUR0eTQ4em9XdEVaTnBUZUlGcHFyU2JTaXQ2QnRhRG9SZ0hrOHduOHRSWnBjZ3h6LWFpNktBSTBnVnoxc0YtTER5RkdCQ29TVk8xRUxWbnpqRmhOc3c?oc=5</link>
+<pubDate>Sun, 07 Jun 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zSUR0eTQ4em9XdEVaTnBUZUlGcHFyU2JTaXQ2QnRhRG9SZ0hrOHduOHRSWnBjZ3h6LWFpNktBSTBnVnoxc0YtTER5RkdCQ29TVk8xRUxWbnpqRmhOc3c?oc=5" target="_blank">10 Surprising Gen Z Consumer Trends You Should Know</a>&nbsp;&nbsp;<font color="#6f6f6f">Small Business Trends</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z Spending Habits Are Changing The Rules Of Luxury… Brands Need To Listen - DMARGE]]></title>
+<link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBPc3hTTWlucl9seE1CaU1GYzFWSm5NOFh6MVNjcnNLdFNtOXdGMmM3MmY3QnpfazU4ZDhXYVo1VXV5ZWRNT0RHSzRkdlN4YkRxYm0zcG44WmI5Z2pxS0RWM2EwYTFaQUQ3MmdkenR3Q29pR1A2WlRiZGZB?oc=5</link>
+<pubDate>Tue, 11 Nov 2025 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBPc3hTTWlucl9seE1CaU1GYzFWSm5NOFh6MVNjcnNLdFNtOXdGMmM3MmY3QnpfazU4ZDhXYVo1VXV5ZWRNT0RHSzRkdlN4YkRxYm0zcG44WmI5Z2pxS0RWM2EwYTFaQUQ3MmdkenR3Q29pR1A2WlRiZGZB?oc=5" target="_blank">Gen Z Spending Habits Are Changing The Rules Of Luxury… Brands Need To Listen</a>&nbsp;&nbsp;<font color="#6f6f6f">DMARGE</font>]]></description>
+</item>
+<item>
+<title><![CDATA[The Diwali Pulse 2025: Gen Z and Millennial Shopping Trends - YouGov]]></title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUVELWtsLWRoajI5dGFNQkNyZC02VklpTk9VZDRBMVFHYnJWaGJPUzA2YmtnN3dibEpwSW4yb2NFMkpKM2phcXRUMHA2QUpkRUZkeHhYMk9MdUpUOUlSbDZCOGpqQnpIQkFUY3RRQTA0RWtFal9Zem9SWWZURmJETHU0OXhXSzJGLXdPNVNobzlHTU4zS1E?oc=5</link>
+<pubDate>Wed, 08 Oct 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUVELWtsLWRoajI5dGFNQkNyZC02VklpTk9VZDRBMVFHYnJWaGJPUzA2YmtnN3dibEpwSW4yb2NFMkpKM2phcXRUMHA2QUpkRUZkeHhYMk9MdUpUOUlSbDZCOGpqQnpIQkFUY3RRQTA0RWtFal9Zem9SWWZURmJETHU0OXhXSzJGLXdPNVNobzlHTU4zS1E?oc=5" target="_blank">The Diwali Pulse 2025: Gen Z and Millennial Shopping Trends</a>&nbsp;&nbsp;<font color="#6f6f6f">YouGov</font>]]></description>
+</item>
+<item>
+<title><![CDATA[An update on US consumer sentiment: Gloomier outlook ahead of sunnier days - McKinsey & Company]]></title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxtYVB1U1hSTF9vOUIwM2V4MnFqLWUzRGxjOFpPMk1Na2J2NHBKNVpucjRBRlgyTk9MZ3QzRk1sdFpwekJHMXBTYVVnWlJpc2dxUmM0TzZPcmoyczREUXVsdDVUV013Z1N1VkRHSHYtY1ZnaHlvY2hLNFdQd2dyNUY1NlgwcG9yeS1vMURYWW9uMHNFanJjb0JGTFBZQUdwRVYw?oc=5</link>
+<pubDate>Thu, 28 May 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxQTGxtYVB1U1hSTF9vOUIwM2V4MnFqLWUzRGxjOFpPMk1Na2J2NHBKNVpucjRBRlgyTk9MZ3QzRk1sdFpwekJHMXBTYVVnWlJpc2dxUmM0TzZPcmoyczREUXVsdDVUV013Z1N1VkRHSHYtY1ZnaHlvY2hLNFdQd2dyNUY1NlgwcG9yeS1vMURYWW9uMHNFanJjb0JGTFBZQUdwRVYw?oc=5" target="_blank">An update on US consumer sentiment: Gloomier outlook ahead of sunnier days</a>&nbsp;&nbsp;<font color="#6f6f6f">McKinsey & Company</font>]]></description>
+</item>
+<item>
+<title><![CDATA[What Gen Z is actually wanting and buying when it comes to fashion, beauty products, and tech - Business Insider]]></title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE96LWx0TDM2UGE3THlJY3FuUjlMaUFQcmw2UzdNd1BsbzNZTTRCbFJrbUprX1hTSWJCQjBFTTJlMlNSV3FBRXR6RE1YWUE1Q1BJeEIzaFVDdXhXa3Y5aDFuRkZtaWlXMGNjVFhWMVZqR0ZVMklSR0E?oc=5</link>
+<pubDate>Thu, 01 Jan 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE96LWx0TDM2UGE3THlJY3FuUjlMaUFQcmw2UzdNd1BsbzNZTTRCbFJrbUprX1hTSWJCQjBFTTJlMlNSV3FBRXR6RE1YWUE1Q1BJeEIzaFVDdXhXa3Y5aDFuRkZtaWlXMGNjVFhWMVZqR0ZVMklSR0E?oc=5" target="_blank">What Gen Z is actually wanting and buying when it comes to fashion, beauty products, and tech</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font>]]></description>
+</item>
+<item>
+<title><![CDATA['Exit 8' and liminal space horror: A low-budget movie trend shaped by Gen Z's most traumatic formative years - Fast Company]]></title>
+<link>https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjduTmxUTVUtRmdmSncycnJqbExKZjVYRU1UQ3JsUXBGeHRKanBja3VabFVUUnZVcFNyS21QVHFQLU9GZkQzX2tNTTd3Rm43Nkk3OHRZQ0dTQjlpbVFhTEh4SFBOdHRZSG93ZHpqV1B6V1VVc3lCM0NzdTZzZ3Z6Yk9LWEVZVS1BaC1KbXZBbW1iMUk?oc=5</link>
+<pubDate>Fri, 10 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjduTmxUTVUtRmdmSncycnJqbExKZjVYRU1UQ3JsUXBGeHRKanBja3VabFVUUnZVcFNyS21QVHFQLU9GZkQzX2tNTTd3Rm43Nkk3OHRZQ0dTQjlpbVFhTEh4SFBOdHRZSG93ZHpqV1B6V1VVc3lCM0NzdTZzZ3Z6Yk9LWEVZVS1BaC1KbXZBbW1iMUk?oc=5" target="_blank">'Exit 8' and liminal space horror: A low-budget movie trend shaped by Gen Z's most traumatic formative years</a>&nbsp;&nbsp;<font color="#6f6f6f">Fast Company</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Key Consumer Trends Shaping the Future of Luxury Retail - Mintel]]></title>
+<link>https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUGdmR0ZiLW1WZEN5VnJQTXJjM1VoMEN2TnpjdW9OdVFnWFFJT0JBTzI5YlRlR29vUEhRNzNUSHgyeGxFMlZTdkV1My1jc0czOGJVakozRms2ZHloOVVFMkNFY2VaT21QMHFVOQ?oc=5</link>
+<pubDate>Tue, 30 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTFBGUGdmR0ZiLW1WZEN5VnJQTXJjM1VoMEN2TnpjdW9OdVFnWFFJT0JBTzI5YlRlR29vUEhRNzNUSHgyeGxFMlZTdkV1My1jc0czOGJVakozRms2ZHloOVVFMkNFY2VaT21QMHFVOQ?oc=5" target="_blank">Key Consumer Trends Shaping the Future of Luxury Retail</a>&nbsp;&nbsp;<font color="#6f6f6f">Mintel</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Loud budgeting: how Gen Z’s money habits are changing ecommerce - Startups.co.uk]]></title>
+<link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE10anlDWkthUmpGbllOeEczSTRMNUhKZF9kN2w0SHRYQnozcjBuakJ2ZlFvdFRvYVh0ZVZiZGlvMElkRDlyTTNXbklhZFgzbFo1ajh4ckJGejRiQUpKU1pvMlhPbw?oc=5</link>
+<pubDate>Thu, 16 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE10anlDWkthUmpGbllOeEczSTRMNUhKZF9kN2w0SHRYQnozcjBuakJ2ZlFvdFRvYVh0ZVZiZGlvMElkRDlyTTNXbklhZFgzbFo1ajh4ckJGejRiQUpKU1pvMlhPbw?oc=5" target="_blank">Loud budgeting: how Gen Z’s money habits are changing ecommerce</a>&nbsp;&nbsp;<font color="#6f6f6f">Startups.co.uk</font>]]></description>
+</item>
+<item>
+<title><![CDATA[China's Gen Z spending is fueling sustainable growth - China.org.cn]]></title>
+<link>https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeUVLemVMSTY2YTNGZm1fZ0lXNm03ckNQWWhSaGx5bG5LLXlvTndDMGl5b21yZlVVdWFLQzZhSzZxTTA3dmdreUhMZVlyS3N1aFpYTkluMkN3emlRai1UaVpSY3JRYWZHeGc?oc=5</link>
+<pubDate>Tue, 19 Aug 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeUVLemVMSTY2YTNGZm1fZ0lXNm03ckNQWWhSaGx5bG5LLXlvTndDMGl5b21yZlVVdWFLQzZhSzZxTTA3dmdreUhMZVlyS3N1aFpYTkluMkN3emlRai1UaVpSY3JRYWZHeGc?oc=5" target="_blank">China's Gen Z spending is fueling sustainable growth</a>&nbsp;&nbsp;<font color="#6f6f6f">China.org.cn</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gen Z Marketing Statistics 2026: Spending, Social & Trends - AFFiNCO]]></title>
+<link>https://news.google.com/rss/articles/CBMiW0FVX3lxTE50c3VSeVY2Mm1sRGVaWjBYN0tuc2hlRjNyc212UzdRcmdEMGJZMmFjVE1lNl8tZ3ZXYUpUM0gwWjJpUTJwMzJMUGVxSWVjd2llaG5MZnkzRU1jNkE?oc=5</link>
+<pubDate>Fri, 27 Feb 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE50c3VSeVY2Mm1sRGVaWjBYN0tuc2hlRjNyc212UzdRcmdEMGJZMmFjVE1lNl8tZ3ZXYUpUM0gwWjJpUTJwMzJMUGVxSWVjd2llaG5MZnkzRU1jNkE?oc=5" target="_blank">Gen Z Marketing Statistics 2026: Spending, Social & Trends</a>&nbsp;&nbsp;<font color="#6f6f6f">AFFiNCO</font>]]></description>
+</item>
+</channel>
+</rss>

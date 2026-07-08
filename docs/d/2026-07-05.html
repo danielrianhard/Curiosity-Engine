@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Engine — 2026-07-05 · Thames Capital Management</title>
+<style>
+  /* Thames Capital Management house palette */
+  :root {
+    --deep:#4A1A6B; --mid:#69398D; --band1:#2D0F4D; --band2:#6D2EA3;
+    --gold:#C5A421; --green:#1E8050; --red:#B3261E; --teal:#1F6F6B;
+    --zebra:#F6F4F9; --ink:#1F1F1F; --gray:#6B6B6B; --line:#E3DEEC;
+    --signal-bd:#278050; --signal-bg:#EFF5F1;
+    --tan-bd:#C9B27A; --tan-bg:#FBF7EC; --tan-hd:#9A7B12;
+    --teal-bg:#EAF4F3;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#F2EFF6; color:var(--ink);
+         font:15.5px/1.6 Georgia,"Times New Roman",serif; }
+  .sans { font-family:Arial,"Helvetica Neue",Helvetica,sans-serif; }
+
+  /* Masthead band */
+  .band { background:linear-gradient(135deg,var(--band1),var(--band2));
+          border-bottom:4px solid var(--gold); padding:34px 0 26px; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 22px; }
+  .eyebrow { font:700 11.5px/1 Arial,sans-serif; letter-spacing:.22em;
+             color:var(--gold); text-transform:uppercase; }
+  .eyebrow span { color:#CBB8E4; }
+  .band h1 { margin:12px 0 4px; color:#fff; font:700 30px/1.1 Arial,sans-serif;
+             letter-spacing:-.01em; }
+  .band .sub { color:#CBB8E4; font:13px/1.5 Arial,sans-serif; margin:0; }
+
+  /* Day navigation */
+  .navbar { background:#fff; border-bottom:1px solid var(--line); }
+  .navrow { display:flex; align-items:center; gap:8px; padding:10px 0; overflow-x:auto; }
+  .navrow a.arrow { font:700 14px/1 Arial,sans-serif; color:var(--deep);
+                    text-decoration:none; padding:7px 11px; border:1px solid var(--line);
+                    border-radius:6px; white-space:nowrap; }
+  .navrow a.arrow.off { opacity:.3; pointer-events:none; }
+  .chips { display:flex; gap:6px; }
+  .chip { font:600 12px/1 Arial,sans-serif; text-decoration:none; color:var(--mid);
+          padding:7px 10px; border-radius:6px; border:1px solid var(--line);
+          white-space:nowrap; background:#fff; }
+  .chip.cur { background:var(--deep); color:#fff; border-color:var(--deep); }
+  .chip:hover { border-color:var(--mid); }
+
+  main { padding:26px 0 40px; }
+  .dateline { font:700 12px/1 Arial,sans-serif; letter-spacing:.18em; color:var(--gray);
+              text-transform:uppercase; margin:2px 0 16px; }
+  .dateline b { color:var(--deep); }
+
+  /* Signal cards */
+  .card { background:#fff; border:1px solid var(--line); border-left:5px solid var(--deep);
+          border-radius:8px; padding:18px 22px 15px; margin-bottom:16px;
+          box-shadow:0 1px 3px rgba(45,15,77,.06); }
+  .row1 { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .trend { font:700 17px/1.3 Arial,sans-serif; color:var(--deep); }
+  .ticker { font:700 12.5px/1 Arial,sans-serif; background:var(--deep); color:var(--gold);
+            border-radius:4px; padding:5px 8px; letter-spacing:.04em; }
+  .badge { font:700 10px/1 Arial,sans-serif; text-transform:uppercase;
+           letter-spacing:.09em; border-radius:4px; padding:4px 8px; }
+  .badge.new { background:var(--signal-bg); color:var(--signal-bd); border:1px solid var(--signal-bd); }
+  .badge.accelerating { background:var(--tan-bg); color:var(--tan-hd); border:1px solid var(--tan-bd); }
+  .badge.repeat { background:var(--zebra); color:var(--gray); border:1px solid var(--line); }
+  .badge.watch { background:var(--teal-bg); color:var(--teal); border:1px solid var(--teal); }
+  .strength { margin-left:auto; font:600 11px/1 Arial,sans-serif; color:var(--gray);
+              white-space:nowrap; }
+  .bar { display:inline-block; width:76px; height:7px; background:#EAE5F1;
+         border-radius:3px; vertical-align:-1px; margin-left:7px; overflow:hidden; }
+  .bar i { display:block; height:100%; background:linear-gradient(90deg,var(--gold),#E0C34A); }
+  .meta { font:11.5px/1.5 Arial,sans-serif; color:var(--gray); margin-top:5px; }
+  .why { margin:10px 0 4px; }
+  .quote { color:#3D3D3D; font-size:14px; font-style:italic;
+           border-left:3px solid var(--mid); padding:2px 0 2px 12px; margin:10px 0; }
+  .srcs { font:12.5px/1.7 Arial,sans-serif; color:var(--gray); margin-top:8px;
+          border-top:1px solid var(--zebra); padding-top:8px; }
+  .srcs a { color:var(--mid); text-decoration:none; }
+  .srcs a:hover { text-decoration:underline; color:var(--deep); }
+  .srcs .lbl { font-weight:700; text-transform:uppercase; font-size:10px;
+               letter-spacing:.1em; margin-right:6px; }
+
+  h2.sect { font:700 13px/1 Arial,sans-serif; letter-spacing:.16em; color:var(--deep);
+            text-transform:uppercase; margin:32px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sect::before { content:""; width:12px; height:12px; background:var(--deep); }
+  .card.watch { border-left-color:var(--teal); }
+  .empty { background:var(--tan-bg); border:1px solid var(--tan-bd); border-radius:8px;
+           padding:16px 20px; font-style:italic; }
+
+  footer { margin-top:36px; border-top:1px solid var(--line); padding-top:14px;
+           font:italic 11.5px/1.7 Georgia,serif; color:var(--gray); }
+  .status-ok { color:var(--green); font-style:normal; }
+  .status-fail { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="eyebrow">Thames Capital Management <span>· The Curiosity Engine</span></div>
+    <h1>Daily Emerging-Trend Signals</h1>
+    <p class="sub">Podcasts · app-store charts · news flow · SEC filings — distilled to the few names worth an analyst's attention. Every ticker verified; every claim sourced.</p>
+  </div>
+</div>
+
+<div class="navbar"><div class="wrap"><div class="navrow sans">
+  <a class="arrow" href="2026-07-04.html">‹ 07-04</a>
+  
+  <div class="chips">
+    
+    <a class="chip " href="2026-07-02.html">07-02</a>
+    
+    <a class="chip " href="2026-07-03.html">07-03</a>
+    
+    <a class="chip " href="2026-07-04.html">07-04</a>
+    
+    <a class="chip cur" href="2026-07-05.html">07-05</a>
+    
+    <a class="chip " href="2026-07-06.html">07-06</a>
+    
+    <a class="chip " href="2026-07-07.html">07-07</a>
+    
+    <a class="chip " href="2026-07-08.html">07-08</a>
+    
+  </div>
+  <a class="arrow" href="2026-07-06.html">07-06 ›</a>
+  
+</div></div></div>
+
+<main><div class="wrap">
+  <div class="dateline">Report · <b>Sunday, July 5, 2026</b></div>
+
+  
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">K-beauty&#39;s TikTok Shop takeover: medicube holds US #1</span>
+      <span class="ticker">278470.KS</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 73<span class="bar"><i style="width:73%"></i></span></span>
+    </div>
+    <div class="meta">APR Co., Ltd. (medicube) · KOSPI, Seoul · mkt cap ~$8-10B · ticker verified: KRX quote + brand-parent chain</div>
+    <p class="why">FastMoss Q2 rankings show APR&#39;s medicube holding three of the top-ten US TikTok Shop SKUs including #1, with June its strongest month — a direct, accelerating read-through to APR&#39;s fastest-growing market.</p>
+    <div class="quote">“The #1 best-selling product on TikTok Shop US in Q2 2026 was medicube&#39;s PDRN Pink Collagen Volume Multi Balm at $16.99M — accelerating to $6.85M in June alone.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/" target="_blank" rel="noopener">FastMoss: TikTok Shop US Q2 2026 Best Sellers: Top 10 by Revenue</a> · <a href="https://www.globalcosmeticsnews.com/medicube-maker-apr-becomes-k-beauty-powerhouse-as-tiktok-buzz-fuels-billionaire-breakthrough/" target="_blank" rel="noopener">Global Cosmetics News: Medicube Maker APR Becomes K-Beauty Powerhouse</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Mine-to-magnet rivalry turns litigious</span>
+      <span class="ticker">USAR</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 67<span class="bar"><i style="width:67%"></i></span></span>
+    </div>
+    <div class="meta">USA Rare Earth, Inc. · NASDAQ · mkt cap ~$5B · ticker verified: NASDAQ quote + index/lawsuit coverage</div>
+    <p class="why">MP Materials&#39; escalating trade-secrets lawsuit plus Russell value-index removal hit the only other US mine-to-magnet aspirant racing the DoD&#39;s Jan 2027 deadline — a legal chokepoint on the chokepoint.</p>
+    <div class="quote">“Shares slumped 23% in June and another 7.3% after index removal and MP lawsuit escalation, even as USAR commissions its Wheat Ridge hydromet demo and builds the Cherokee County magnet plant (~490 jobs).”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.fool.com/investing/2026/07/05/heres-why-shares-in-usa-rare-earth-slumped-23-in-j/" target="_blank" rel="noopener">The Motley Fool: Here&#39;s Why Shares in USA Rare Earth Slumped 23% in June</a> · <a href="https://simplywall.st/stocks/us/materials/nasdaq-usar/usa-rare-earth/news/why-usa-rare-earth-usar-is-down-73-after-index-removal-and-m" target="_blank" rel="noopener">Simply Wall St: Why USAR Is Down 7.3% After Index Removal And MP Tech Lawsuit</a>
+    </div>
+  </div>
+  
+  
+
+  
+
+  <footer>
+    Retrospective report — reconstructed on 2026-07-08 from that day&#39;s public sources (analyst-grade backfill; live daily runs are fully automated) · Generated 2026-07-08 20:51 UTC · extraction: analyst backfill
+    
+    <br>Automated research aid for Thames Capital Management — not investment advice. Signals are screening leads; verify at the primary source before acting.
+  </footer>
+</div></main>
+</body>
+</html>

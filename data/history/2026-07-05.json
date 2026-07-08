@@ -1,0 +1,65 @@
+{
+ "date": "2026-07-05",
+ "signals": [
+  {
+   "trend": "K-beauty's TikTok Shop takeover: medicube holds US #1",
+   "ticker": "278470.KS",
+   "company": "APR Co., Ltd. (medicube)",
+   "exchange": "KOSPI, Seoul",
+   "mcap": "~$8-10B",
+   "method": "KRX quote + brand-parent chain",
+   "why": "FastMoss Q2 rankings show APR's medicube holding three of the top-ten US TikTok Shop SKUs including #1, with June its strongest month \u2014 a direct, accelerating read-through to APR's fastest-growing market.",
+   "evidence": "The #1 best-selling product on TikTok Shop US in Q2 2026 was medicube's PDRN Pink Collagen Volume Multi Balm at $16.99M \u2014 accelerating to $6.85M in June alone.",
+   "score": 73,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "FastMoss",
+     "title": "TikTok Shop US Q2 2026 Best Sellers: Top 10 by Revenue",
+     "url": "https://www.fastmoss.com/blog/best-selling-tiktok-shop-products-us-q2-2026/"
+    },
+    {
+     "type": "news",
+     "name": "Global Cosmetics News",
+     "title": "Medicube Maker APR Becomes K-Beauty Powerhouse",
+     "url": "https://www.globalcosmeticsnews.com/medicube-maker-apr-becomes-k-beauty-powerhouse-as-tiktok-buzz-fuels-billionaire-breakthrough/"
+    }
+   ],
+   "first_seen": "2026-07-05"
+  },
+  {
+   "trend": "Mine-to-magnet rivalry turns litigious",
+   "ticker": "USAR",
+   "company": "USA Rare Earth, Inc.",
+   "exchange": "NASDAQ",
+   "mcap": "~$5B",
+   "method": "NASDAQ quote + index/lawsuit coverage",
+   "why": "MP Materials' escalating trade-secrets lawsuit plus Russell value-index removal hit the only other US mine-to-magnet aspirant racing the DoD's Jan 2027 deadline \u2014 a legal chokepoint on the chokepoint.",
+   "evidence": "Shares slumped 23% in June and another 7.3% after index removal and MP lawsuit escalation, even as USAR commissions its Wheat Ridge hydromet demo and builds the Cherokee County magnet plant (~490 jobs).",
+   "score": 67,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "The Motley Fool",
+     "title": "Here's Why Shares in USA Rare Earth Slumped 23% in June",
+     "url": "https://www.fool.com/investing/2026/07/05/heres-why-shares-in-usa-rare-earth-slumped-23-in-j/"
+    },
+    {
+     "type": "news",
+     "name": "Simply Wall St",
+     "title": "Why USAR Is Down 7.3% After Index Removal And MP Tech Lawsuit",
+     "url": "https://simplywall.st/stocks/us/materials/nasdaq-usar/usa-rare-earth/news/why-usa-rare-earth-usar-is-down-73-after-index-removal-and-m"
+    }
+   ],
+   "first_seen": "2026-07-05"
+  }
+ ],
+ "watchlist": [],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

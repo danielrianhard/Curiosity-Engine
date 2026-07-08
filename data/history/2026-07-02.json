@@ -1,0 +1,168 @@
+{
+ "date": "2026-07-02",
+ "signals": [
+  {
+   "trend": "Tungsten chokepoint breaks West: Sangdong begins producing",
+   "ticker": "ALM",
+   "company": "Almonty Industries Inc.",
+   "exchange": "NASDAQ (TSX: AII)",
+   "mcap": "~$4.7B",
+   "method": "company PR + NASDAQ quote",
+   "why": "Sangdong's transition to saleable tungsten concentrate makes Almonty the only integrated non-China tungsten supplier ramping ahead of the DoD's Jan 1, 2027 ban on Chinese/Russian tungsten.",
+   "evidence": "Began feeding ~139,700 tonnes of stockpiled ore through the newly commissioned Sangdong plant \u2014 ~2.6 months of Phase I feed \u2014 as China's tungsten export curbs lifted APT prices ~23%.",
+   "score": 95,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Business Wire",
+     "title": "Almonty Commences Processing Operations at Sangdong Mine",
+     "url": "https://www.businesswire.com/news/home/20260701579819/en/Almonty-Commences-Processing-Operations-at-Sangdong-Mine-Marking-Transition-to-Saleable-Tungsten-Concentrate-Production/"
+    },
+    {
+     "type": "news",
+     "name": "TipRanks/TheFly",
+     "title": "Almonty commences processing operations at Sangdong Mine",
+     "url": "https://www.tipranks.com/news/the-fly/almonty-commences-processing-operations-at-sangdong-mine-thefly-news"
+    },
+    {
+     "type": "news",
+     "name": "ad-hoc-news",
+     "title": "Sangdong Mill Begins Processing as China Ban Lifts APT Prices 23%",
+     "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/almonty-s-sangdong-mill-begins-processing-ore-as-china-s-tungsten/69718544"
+    }
+   ],
+   "first_seen": "2026-07-02"
+  },
+  {
+   "trend": "Consumer-app rollup IPO pops 40%",
+   "ticker": "BSP",
+   "company": "Bending Spoons S.p.A.",
+   "exchange": "NASDAQ",
+   "mcap": "~$25.7B post-pop",
+   "method": "company PR + IPO table",
+   "why": "A profitable Italian serial acquirer of orphaned consumer apps (AOL, Vimeo, Evernote, Eventbrite) priced at $29 and popped ~40%, closing a $1.68B offering \u2014 a new public vehicle for consumer-internet cash flows.",
+   "evidence": "Rallied 40% from its $29 IPO price to close at $40.50; Q1 2026 revenue rose 132% to $601.3M with a swing to profit.",
+   "score": 78,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Bloomberg",
+     "title": "Bending Spoons Shares Jump 40% After $1.68 Billion IPO Debut",
+     "url": "https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo"
+    },
+    {
+     "type": "news",
+     "name": "TechCrunch",
+     "title": "Bending Spoons defies SaaS slump, surges 40% on first day",
+     "url": "https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/"
+    },
+    {
+     "type": "news",
+     "name": "Business Wire",
+     "title": "Pricing of initial public offering",
+     "url": "https://www.businesswire.com/news/home/20260630780689/en/Bending-Spoons-S.p.A.-announces-pricing-of-initial-public-offering"
+    }
+   ],
+   "first_seen": "2026-07-02"
+  },
+  {
+   "trend": "Army drone-procurement funnel narrows to 19",
+   "ticker": "RCAT",
+   "company": "Red Cat Holdings, Inc.",
+   "exchange": "NASDAQ",
+   "mcap": "~$1.3B",
+   "method": "company IR + NASDAQ quote",
+   "why": "Teal's advance to Gauntlet II \u2014 49 companies cut to 19 \u2014 keeps Red Cat in the funnel for large-scale Army sUAS procurement, the concrete mechanism behind the drone-stock supercycle.",
+   "evidence": "Teal is among 19 companies invited to participate in Gauntlet II at Fort Carson, Colorado, in August 2026, after ~79 unique drones were tested at the Camp Grayling Phase 2 Qualifier.",
+   "score": 68,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "GlobeNewswire",
+     "title": "Red Cat's Teal Drones Advances to Gauntlet II of Drone Dominance Program",
+     "url": "https://www.globenewswire.com/news-release/2026/07/02/3321527/0/en/Red-Cat-s-Teal-Drones-Advances-to-Gauntlet-II-of-Drone-Dominance-Program.html"
+    },
+    {
+     "type": "news",
+     "name": "Streetwise Reports",
+     "title": "Teal Drones Advances in Army Program Amid Sector Boom",
+     "url": "https://www.streetwisereports.com/article/2026/07/06/rcat-stock-teal-drones-advances-in-army-program-amid-sector-boom.html"
+    }
+   ],
+   "first_seen": "2026-07-02"
+  },
+  {
+   "trend": "Micromobility's first pure-play US listing",
+   "ticker": "LIME",
+   "company": "Lime (Neutron Holdings, Inc.)",
+   "exchange": "NASDAQ",
+   "mcap": "~$1.7B",
+   "method": "company PR + SEC S-1/A",
+   "why": "Lime's debut ($174M raised, +8% open) creates the only listed global e-scooter/e-bike operator \u2014 a clean comp for shared-mobility economics and a live test of its profitability claims.",
+   "evidence": "Priced at $25, began trading July 1 under 'LIME'; revenue grew from $522.0M (2023) to $886.7M (2025).",
+   "score": 66,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Business Wire",
+     "title": "Lime Announces Pricing of Initial Public Offering",
+     "url": "https://www.businesswire.com/news/home/20260630995454/en/Lime-Announces-Pricing-of-Initial-Public-Offering"
+    },
+    {
+     "type": "news",
+     "name": "SEC EDGAR",
+     "title": "Neutron Holdings, Inc. \u2014 Form S-1/A",
+     "url": "https://www.sec.gov/Archives/edgar/data/0001699963/000162828026044471/neutronholdingsinc-sx1a1.htm"
+    },
+    {
+     "type": "news",
+     "name": "MLQ News",
+     "title": "Lime Raises $174 Million in Nasdaq IPO",
+     "url": "https://mlq.ai/news/lime-raises-174-million-in-nasdaq-ipo-at-16-billion-valuation/"
+    }
+   ],
+   "first_seen": "2026-07-02"
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Franchise IPO window: Jersey Mike's files S-1",
+   "ticker": null,
+   "company": "Jersey Mike's Franchise Systems (Blackstone-owned)",
+   "exchange": null,
+   "mcap": null,
+   "method": "",
+   "why": "A sandwich chain S-1 pitched partly on AI-driven operations, ~50% multi-year same-store-sales growth and eyebrow-raising related-party pay \u2014 a breadth marker for how wide the IPO window has opened.",
+   "evidence": "Filed for a US IPO on July 2; Forbes flagged '$50 million in pay for a stepson, a $41 million aircraft and a family on payroll' in the filing.",
+   "score": 58,
+   "status": "new",
+   "watchlist": true,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Reuters",
+     "title": "Sandwich chain Jersey Mike's files for US IPO",
+     "url": "https://www.reuters.com/business/sandwich-chain-jersey-mikes-files-us-ipo-2026-07-02/"
+    },
+    {
+     "type": "news",
+     "name": "CNBC",
+     "title": "Jersey Mike's files for IPO, reports 50% same-store sales growth",
+     "url": "https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html"
+    }
+   ],
+   "first_seen": "2026-07-02"
+  }
+ ],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

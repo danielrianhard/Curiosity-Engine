@@ -1,0 +1,221 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Engine — 2026-07-02 · Thames Capital Management</title>
+<style>
+  /* Thames Capital Management house palette */
+  :root {
+    --deep:#4A1A6B; --mid:#69398D; --band1:#2D0F4D; --band2:#6D2EA3;
+    --gold:#C5A421; --green:#1E8050; --red:#B3261E; --teal:#1F6F6B;
+    --zebra:#F6F4F9; --ink:#1F1F1F; --gray:#6B6B6B; --line:#E3DEEC;
+    --signal-bd:#278050; --signal-bg:#EFF5F1;
+    --tan-bd:#C9B27A; --tan-bg:#FBF7EC; --tan-hd:#9A7B12;
+    --teal-bg:#EAF4F3;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#F2EFF6; color:var(--ink);
+         font:15.5px/1.6 Georgia,"Times New Roman",serif; }
+  .sans { font-family:Arial,"Helvetica Neue",Helvetica,sans-serif; }
+
+  /* Masthead band */
+  .band { background:linear-gradient(135deg,var(--band1),var(--band2));
+          border-bottom:4px solid var(--gold); padding:34px 0 26px; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 22px; }
+  .eyebrow { font:700 11.5px/1 Arial,sans-serif; letter-spacing:.22em;
+             color:var(--gold); text-transform:uppercase; }
+  .eyebrow span { color:#CBB8E4; }
+  .band h1 { margin:12px 0 4px; color:#fff; font:700 30px/1.1 Arial,sans-serif;
+             letter-spacing:-.01em; }
+  .band .sub { color:#CBB8E4; font:13px/1.5 Arial,sans-serif; margin:0; }
+
+  /* Day navigation */
+  .navbar { background:#fff; border-bottom:1px solid var(--line); }
+  .navrow { display:flex; align-items:center; gap:8px; padding:10px 0; overflow-x:auto; }
+  .navrow a.arrow { font:700 14px/1 Arial,sans-serif; color:var(--deep);
+                    text-decoration:none; padding:7px 11px; border:1px solid var(--line);
+                    border-radius:6px; white-space:nowrap; }
+  .navrow a.arrow.off { opacity:.3; pointer-events:none; }
+  .chips { display:flex; gap:6px; }
+  .chip { font:600 12px/1 Arial,sans-serif; text-decoration:none; color:var(--mid);
+          padding:7px 10px; border-radius:6px; border:1px solid var(--line);
+          white-space:nowrap; background:#fff; }
+  .chip.cur { background:var(--deep); color:#fff; border-color:var(--deep); }
+  .chip:hover { border-color:var(--mid); }
+
+  main { padding:26px 0 40px; }
+  .dateline { font:700 12px/1 Arial,sans-serif; letter-spacing:.18em; color:var(--gray);
+              text-transform:uppercase; margin:2px 0 16px; }
+  .dateline b { color:var(--deep); }
+
+  /* Signal cards */
+  .card { background:#fff; border:1px solid var(--line); border-left:5px solid var(--deep);
+          border-radius:8px; padding:18px 22px 15px; margin-bottom:16px;
+          box-shadow:0 1px 3px rgba(45,15,77,.06); }
+  .row1 { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .trend { font:700 17px/1.3 Arial,sans-serif; color:var(--deep); }
+  .ticker { font:700 12.5px/1 Arial,sans-serif; background:var(--deep); color:var(--gold);
+            border-radius:4px; padding:5px 8px; letter-spacing:.04em; }
+  .badge { font:700 10px/1 Arial,sans-serif; text-transform:uppercase;
+           letter-spacing:.09em; border-radius:4px; padding:4px 8px; }
+  .badge.new { background:var(--signal-bg); color:var(--signal-bd); border:1px solid var(--signal-bd); }
+  .badge.accelerating { background:var(--tan-bg); color:var(--tan-hd); border:1px solid var(--tan-bd); }
+  .badge.repeat { background:var(--zebra); color:var(--gray); border:1px solid var(--line); }
+  .badge.watch { background:var(--teal-bg); color:var(--teal); border:1px solid var(--teal); }
+  .strength { margin-left:auto; font:600 11px/1 Arial,sans-serif; color:var(--gray);
+              white-space:nowrap; }
+  .bar { display:inline-block; width:76px; height:7px; background:#EAE5F1;
+         border-radius:3px; vertical-align:-1px; margin-left:7px; overflow:hidden; }
+  .bar i { display:block; height:100%; background:linear-gradient(90deg,var(--gold),#E0C34A); }
+  .meta { font:11.5px/1.5 Arial,sans-serif; color:var(--gray); margin-top:5px; }
+  .why { margin:10px 0 4px; }
+  .quote { color:#3D3D3D; font-size:14px; font-style:italic;
+           border-left:3px solid var(--mid); padding:2px 0 2px 12px; margin:10px 0; }
+  .srcs { font:12.5px/1.7 Arial,sans-serif; color:var(--gray); margin-top:8px;
+          border-top:1px solid var(--zebra); padding-top:8px; }
+  .srcs a { color:var(--mid); text-decoration:none; }
+  .srcs a:hover { text-decoration:underline; color:var(--deep); }
+  .srcs .lbl { font-weight:700; text-transform:uppercase; font-size:10px;
+               letter-spacing:.1em; margin-right:6px; }
+
+  h2.sect { font:700 13px/1 Arial,sans-serif; letter-spacing:.16em; color:var(--deep);
+            text-transform:uppercase; margin:32px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sect::before { content:""; width:12px; height:12px; background:var(--deep); }
+  .card.watch { border-left-color:var(--teal); }
+  .empty { background:var(--tan-bg); border:1px solid var(--tan-bd); border-radius:8px;
+           padding:16px 20px; font-style:italic; }
+
+  footer { margin-top:36px; border-top:1px solid var(--line); padding-top:14px;
+           font:italic 11.5px/1.7 Georgia,serif; color:var(--gray); }
+  .status-ok { color:var(--green); font-style:normal; }
+  .status-fail { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="eyebrow">Thames Capital Management <span>· The Curiosity Engine</span></div>
+    <h1>Daily Emerging-Trend Signals</h1>
+    <p class="sub">Podcasts · app-store charts · news flow · SEC filings — distilled to the few names worth an analyst's attention. Every ticker verified; every claim sourced.</p>
+  </div>
+</div>
+
+<div class="navbar"><div class="wrap"><div class="navrow sans">
+  <a class="arrow off">‹</a>
+  <div class="chips">
+    
+    <a class="chip cur" href="2026-07-02.html">07-02</a>
+    
+    <a class="chip " href="2026-07-03.html">07-03</a>
+    
+    <a class="chip " href="2026-07-04.html">07-04</a>
+    
+    <a class="chip " href="2026-07-05.html">07-05</a>
+    
+    <a class="chip " href="2026-07-06.html">07-06</a>
+    
+    <a class="chip " href="2026-07-07.html">07-07</a>
+    
+    <a class="chip " href="2026-07-08.html">07-08</a>
+    
+  </div>
+  <a class="arrow" href="2026-07-03.html">07-03 ›</a>
+  
+</div></div></div>
+
+<main><div class="wrap">
+  <div class="dateline">Report · <b>Thursday, July 2, 2026</b></div>
+
+  
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Tungsten chokepoint breaks West: Sangdong begins producing</span>
+      <span class="ticker">ALM</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 95<span class="bar"><i style="width:95%"></i></span></span>
+    </div>
+    <div class="meta">Almonty Industries Inc. · NASDAQ (TSX: AII) · mkt cap ~$4.7B · ticker verified: company PR + NASDAQ quote</div>
+    <p class="why">Sangdong&#39;s transition to saleable tungsten concentrate makes Almonty the only integrated non-China tungsten supplier ramping ahead of the DoD&#39;s Jan 1, 2027 ban on Chinese/Russian tungsten.</p>
+    <div class="quote">“Began feeding ~139,700 tonnes of stockpiled ore through the newly commissioned Sangdong plant — ~2.6 months of Phase I feed — as China&#39;s tungsten export curbs lifted APT prices ~23%.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.businesswire.com/news/home/20260701579819/en/Almonty-Commences-Processing-Operations-at-Sangdong-Mine-Marking-Transition-to-Saleable-Tungsten-Concentrate-Production/" target="_blank" rel="noopener">Business Wire: Almonty Commences Processing Operations at Sangdong Mine</a> · <a href="https://www.tipranks.com/news/the-fly/almonty-commences-processing-operations-at-sangdong-mine-thefly-news" target="_blank" rel="noopener">TipRanks/TheFly: Almonty commences processing operations at Sangdong Mine</a> · <a href="https://www.ad-hoc-news.de/boerse/news/ueberblick/almonty-s-sangdong-mill-begins-processing-ore-as-china-s-tungsten/69718544" target="_blank" rel="noopener">ad-hoc-news: Sangdong Mill Begins Processing as China Ban Lifts APT Prices 23%</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Consumer-app rollup IPO pops 40%</span>
+      <span class="ticker">BSP</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 78<span class="bar"><i style="width:78%"></i></span></span>
+    </div>
+    <div class="meta">Bending Spoons S.p.A. · NASDAQ · mkt cap ~$25.7B post-pop · ticker verified: company PR + IPO table</div>
+    <p class="why">A profitable Italian serial acquirer of orphaned consumer apps (AOL, Vimeo, Evernote, Eventbrite) priced at $29 and popped ~40%, closing a $1.68B offering — a new public vehicle for consumer-internet cash flows.</p>
+    <div class="quote">“Rallied 40% from its $29 IPO price to close at $40.50; Q1 2026 revenue rose 132% to $601.3M with a swing to profit.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.bloomberg.com/news/articles/2026-07-01/aol-owner-bending-spoons-jumps-6-9-after-1-68-billion-ipo" target="_blank" rel="noopener">Bloomberg: Bending Spoons Shares Jump 40% After $1.68 Billion IPO Debut</a> · <a href="https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/" target="_blank" rel="noopener">TechCrunch: Bending Spoons defies SaaS slump, surges 40% on first day</a> · <a href="https://www.businesswire.com/news/home/20260630780689/en/Bending-Spoons-S.p.A.-announces-pricing-of-initial-public-offering" target="_blank" rel="noopener">Business Wire: Pricing of initial public offering</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Army drone-procurement funnel narrows to 19</span>
+      <span class="ticker">RCAT</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 68<span class="bar"><i style="width:68%"></i></span></span>
+    </div>
+    <div class="meta">Red Cat Holdings, Inc. · NASDAQ · mkt cap ~$1.3B · ticker verified: company IR + NASDAQ quote</div>
+    <p class="why">Teal&#39;s advance to Gauntlet II — 49 companies cut to 19 — keeps Red Cat in the funnel for large-scale Army sUAS procurement, the concrete mechanism behind the drone-stock supercycle.</p>
+    <div class="quote">“Teal is among 19 companies invited to participate in Gauntlet II at Fort Carson, Colorado, in August 2026, after ~79 unique drones were tested at the Camp Grayling Phase 2 Qualifier.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.globenewswire.com/news-release/2026/07/02/3321527/0/en/Red-Cat-s-Teal-Drones-Advances-to-Gauntlet-II-of-Drone-Dominance-Program.html" target="_blank" rel="noopener">GlobeNewswire: Red Cat&#39;s Teal Drones Advances to Gauntlet II of Drone...</a> · <a href="https://www.streetwisereports.com/article/2026/07/06/rcat-stock-teal-drones-advances-in-army-program-amid-sector-boom.html" target="_blank" rel="noopener">Streetwise Reports: Teal Drones Advances in Army Program Amid Sector Boom</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Micromobility&#39;s first pure-play US listing</span>
+      <span class="ticker">LIME</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 66<span class="bar"><i style="width:66%"></i></span></span>
+    </div>
+    <div class="meta">Lime (Neutron Holdings, Inc.) · NASDAQ · mkt cap ~$1.7B · ticker verified: company PR + SEC S-1/A</div>
+    <p class="why">Lime&#39;s debut ($174M raised, +8% open) creates the only listed global e-scooter/e-bike operator — a clean comp for shared-mobility economics and a live test of its profitability claims.</p>
+    <div class="quote">“Priced at $25, began trading July 1 under &#39;LIME&#39;; revenue grew from $522.0M (2023) to $886.7M (2025).”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.businesswire.com/news/home/20260630995454/en/Lime-Announces-Pricing-of-Initial-Public-Offering" target="_blank" rel="noopener">Business Wire: Lime Announces Pricing of Initial Public Offering</a> · <a href="https://www.sec.gov/Archives/edgar/data/0001699963/000162828026044471/neutronholdingsinc-sx1a1.htm" target="_blank" rel="noopener">SEC EDGAR: Neutron Holdings, Inc. — Form S-1/A</a> · <a href="https://mlq.ai/news/lime-raises-174-million-in-nasdaq-ipo-at-16-billion-valuation/" target="_blank" rel="noopener">MLQ News: Lime Raises $174 Million in Nasdaq IPO</a>
+    </div>
+  </div>
+  
+  
+
+  
+  <h2 class="sect">Watchlist — private / no verified ticker yet</h2>
+  
+  <div class="card watch">
+    <div class="row1">
+      <span class="trend">Franchise IPO window: Jersey Mike&#39;s files S-1</span>
+      <span class="badge watch">new</span>
+      <span class="strength">SIGNAL 58<span class="bar"><i style="width:58%"></i></span></span>
+    </div>
+    <div class="meta">Jersey Mike&#39;s Franchise Systems (Blackstone-owned)</div>
+    <p class="why">A sandwich chain S-1 pitched partly on AI-driven operations, ~50% multi-year same-store-sales growth and eyebrow-raising related-party pay — a breadth marker for how wide the IPO window has opened.</p>
+    <div class="quote">“Filed for a US IPO on July 2; Forbes flagged &#39;$50 million in pay for a stepson, a $41 million aircraft and a family on payroll&#39; in the filing.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.reuters.com/business/sandwich-chain-jersey-mikes-files-us-ipo-2026-07-02/" target="_blank" rel="noopener">Reuters: Sandwich chain Jersey Mike&#39;s files for US IPO</a> · <a href="https://www.cnbc.com/2026/07/02/jersey-mikes-files-for-ipo.html" target="_blank" rel="noopener">CNBC: Jersey Mike&#39;s files for IPO, reports 50% same-store sales growth</a>
+    </div>
+  </div>
+  
+  
+
+  <footer>
+    Retrospective report — reconstructed on 2026-07-08 from that day&#39;s public sources (analyst-grade backfill; live daily runs are fully automated) · Generated 2026-07-08 20:51 UTC · extraction: analyst backfill
+    
+    <br>Automated research aid for Thames Capital Management — not investment advice. Signals are screening leads; verify at the primary source before acting.
+  </footer>
+</div></main>
+</body>
+</html>

@@ -1,0 +1,99 @@
+{
+ "date": "2026-07-06",
+ "signals": [
+  {
+   "trend": "Miner-to-AI-datacenter re-rating: $19B Anthropic lease",
+   "ticker": "WULF",
+   "company": "TeraWulf Inc.",
+   "exchange": "NASDAQ",
+   "mcap": "~$9-10B",
+   "method": "SEC 8-K + NASDAQ quote",
+   "why": "A former bitcoin miner converting 401MW into a 20-year hyperscale AI lease validates the miner-to-HPC conversion trade and re-prices every mid-cap power-and-shell asset with grid access.",
+   "evidence": "Executed a 20-year lease with Anthropic at its Kentucky campus for ~401 MW of critical IT load, expected to generate approximately $19 billion of contracted revenue; stock +7-10% on the day.",
+   "score": 88,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Reuters/US News",
+     "title": "TeraWulf Jumps on $19 Billion Data Center Lease Deal With Anthropic",
+     "url": "https://money.usnews.com/investing/news/articles/2026-07-06/terawulf-jumps-on-19-billion-data-center-lease-deal-with-anthropic"
+    },
+    {
+     "type": "news",
+     "name": "TeraWulf IR",
+     "title": "Form 8-K \u2014 Justified Data Campus Lease",
+     "url": "https://investors.terawulf.com/sec-filings/all-sec-filings/content/0001104659-26-080583/tm2619468d1_8k.htm"
+    }
+   ],
+   "first_seen": "2026-07-06"
+  },
+  {
+   "trend": "IBD biotech flips from safety-scare to M&A target",
+   "ticker": "ABVX",
+   "company": "Abivax SA",
+   "exchange": "NASDAQ ADS (Euronext: ABVX)",
+   "mcap": "~$8B",
+   "method": "ADS quote + offering PR",
+   "why": "June 30 data showing obefazimod malignancies in line with background rates sent Abivax up ~60% in a week and let it close an upsized $920M ADS offering \u2014 re-arming the highest-conviction IBD buyout story.",
+   "evidence": "Announced closing of a $920M public offering (7.36M ADSs at $125) with underwriters' option fully exercised, funding US commercialization.",
+   "score": 76,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "CNBC",
+     "title": "French biotech stock soars 40% after new data on experimental medicine",
+     "url": "https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html"
+    },
+    {
+     "type": "news",
+     "name": "BioSpace",
+     "title": "Abivax Announces Closing of $920 Million Public Offering",
+     "url": "https://www.biospace.com/press-releases/abivax-announces-closing-of-920-million-public-offering"
+    },
+    {
+     "type": "news",
+     "name": "Seeking Alpha",
+     "title": "Latest Obefazimod Data Eases Safety Fears, Brings M&A Back Into Play",
+     "url": "https://seekingalpha.com/article/4918910-abivax-latest-obefazimod-data-eases-safety-fears-brings-m-and-a-back-into-play"
+    }
+   ],
+   "first_seen": "2026-07-06"
+  },
+  {
+   "trend": "Free-tier short-drama apps go mainstream: FreeReels is a global top-10 app",
+   "ticker": "300418.SZ",
+   "company": "Kunlun Tech Co., Ltd. (Skywork AI)",
+   "exchange": "Shenzhen ChiNext",
+   "mcap": "~$7-9B",
+   "method": "SZSE quote + developer-of-record chain",
+   "why": "Sensor Tower's category report ranks FreeReels the #1 short-drama app and #8 among ALL apps worldwide by downloads \u2014 an ad-monetized, AI-produced content flywheel hiding inside a Chinese AI mid cap.",
+   "evidence": "FreeReels became the most downloaded short-drama app globally, surpassing 100M installs and growing 123% quarter-on-quarter; six short-drama apps ranked in the worldwide Top 40 by downloads.",
+   "score": 70,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Sensor Tower",
+     "title": "State of Short Drama Apps 2026",
+     "url": "https://sensortower.com/blog/state-of-short-drama-apps-2026-report"
+    },
+    {
+     "type": "news",
+     "name": "Tiger Brokers",
+     "title": "FreeReels Surpasses 100 Million Downloads",
+     "url": "https://www.itiger.com/news/1122350241"
+    }
+   ],
+   "first_seen": "2026-07-06"
+  }
+ ],
+ "watchlist": [],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

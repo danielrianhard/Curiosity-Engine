@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Yahoo Finance</title>
+<link>https://finance.yahoo.com/</link>
+<description><![CDATA[At Yahoo Finance, you get free stock quotes, up-to-date news, portfolio management resources, international market data, social interaction and mortgage rates that help you manage your financial life.]]></description>
+<item>
+<title><![CDATA[Best Buy and Apple flag a price shock for shoppers]]></title>
+<link>https://finance.yahoo.com/economy/articles/best-buy-apple-flag-price-203300039.html</link>
+<pubDate>Mon, 06 Jul 2026 20:33:00 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Earnings Preview: What To Expect From Mid-America Apartment Communities' Report]]></title>
+<link>https://finance.yahoo.com/real-estate/articles/earnings-preview-expect-mid-america-150228611.html</link>
+<pubDate>Mon, 06 Jul 2026 15:02:28 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Analysts Say This Stock Is a Buy Now to Take Advantage of a Historic AI Supercycle]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/analysts-stock-buy-now-advantage-150232369.html</link>
+<pubDate>Mon, 06 Jul 2026 15:02:32 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Netflix (NFLX) Gained From Multiple Tailwinds]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-gained-multiple-tailwinds-145759503.html</link>
+<pubDate>Mon, 06 Jul 2026 14:57:59 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Applied Materials (AMAT) Advanced 33% in Q1]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/applied-materials-amat-advanced-33-150425050.html</link>
+<pubDate>Mon, 06 Jul 2026 15:04:25 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Bank of America warns America now has 2 economies]]></title>
+<link>https://finance.yahoo.com/economy/articles/bank-america-warns-america-now-202300727.html</link>
+<pubDate>Tue, 07 Jul 2026 20:23:00 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[What Makes Lockheed Martin Corporation (LMT) a Powerful Investment Right Now?]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/makes-lockheed-martin-corporation-lmt-145514863.html</link>
+<pubDate>Mon, 06 Jul 2026 14:55:14 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[KKR & Co. (KKR) Fell 27% Despite a Strong Recovery in March]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/kkr-co-kkr-fell-27-151230590.html</link>
+<pubDate>Mon, 06 Jul 2026 15:12:30 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Is ServiceNow (NOW) Turning AI Disruption to Expansion?]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/servicenow-now-turning-ai-disruption-144907661.html</link>
+<pubDate>Mon, 06 Jul 2026 14:49:07 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Lean Hog Prices Are Sizzling Higher as Cattle Prices Flag Risk of Collapse]]></title>
+<link>https://finance.yahoo.com/markets/commodities/articles/lean-hog-prices-sizzling-higher-151538753.html</link>
+<pubDate>Mon, 06 Jul 2026 15:15:38 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[How Many Americans Have Banked a Cool $5 Million for Retirement?]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/many-americans-banked-cool-5-130612067.html</link>
+<pubDate>Mon, 06 Jul 2026 15:00:37 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Pinterest (PINS) Fell 40% in Q1]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/pinterest-pins-fell-40-q1-144544149.html</link>
+<pubDate>Mon, 06 Jul 2026 14:45:44 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Exceptional Momentum Powers Taiwan Semiconductor Manufacturing’s (TSM) Rally]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/exceptional-momentum-powers-taiwan-semiconductor-151708380.html</link>
+<pubDate>Mon, 06 Jul 2026 15:17:08 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Only 3 Under-the-Radar Dividend Stocks Survived This Brutal Screen. One Could Rally 115%.]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/only-3-under-radar-dividend-144248953.html</link>
+<pubDate>Mon, 06 Jul 2026 14:42:48 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Here’s Why Shopify (SHOP) is Struggling]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/why-shopify-shop-struggling-144243970.html</link>
+<pubDate>Mon, 06 Jul 2026 14:42:43 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[I make $80,000 a year and Dave Ramsey told me this is why I’m staying broke]]></title>
+<link>https://finance.yahoo.com/markets/options/articles/80-000-dave-ramsey-told-210026409.html</link>
+<pubDate>Mon, 06 Jul 2026 15:01:24 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[easyJet Finally Lets Castlelake Board, But It’s Not Wheels Up Yet]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/easyjet-finally-lets-castlelake-board-152209236.html</link>
+<pubDate>Mon, 06 Jul 2026 15:22:09 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[American Express (AXP): An Analysis of The Role of AI and Payment Systems]]></title>
+<link>https://finance.yahoo.com/markets/stocks/articles/american-express-axp-analysis-role-152237601.html</link>
+<pubDate>Mon, 06 Jul 2026 15:22:37 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Dollar Gains on Strength in US Services Activity]]></title>
+<link>https://finance.yahoo.com/markets/currencies/articles/dollar-gains-strength-us-services-143940458.html</link>
+<pubDate>Mon, 06 Jul 2026 14:39:40 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Eli Lilly and Company (LLY) Fell on Regulatory And Pricing Policy Challenges]]></title>
+<link>https://finance.yahoo.com/healthcare/articles/eli-lilly-company-lly-fell-143907966.html</link>
+<pubDate>Mon, 06 Jul 2026 14:39:07 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[South Korea’s $590B Chip Bet Has Semiconductor ETFs Buzzing, but Memory Cycles Have Burned Believers Before]]></title>
+<link>https://finance.yahoo.com/technology/ai/articles/south-korea-590b-chip-bet-150012721.html</link>
+<pubDate>Mon, 06 Jul 2026 15:00:12 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[2 Reasons to Sell the Australia Dollar Here]]></title>
+<link>https://finance.yahoo.com/markets/currencies/articles/2-reasons-sell-australia-dollar-143928559.html</link>
+<pubDate>Mon, 06 Jul 2026 14:39:28 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Is Taiwan Semiconductor Manufacturing (TSM) One of the Top AI Stocks to Buy According to Philippe Laffont?]]></title>
+<link>https://finance.yahoo.com/technology/ai/articles/taiwan-semiconductor-manufacturing-tsm-one-152448167.html</link>
+<pubDate>Mon, 06 Jul 2026 15:24:48 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Europe is cracking down on golden visas — but these 8 countries still offer residency through investment in 2026]]></title>
+<link>https://finance.yahoo.com/real-estate/articles/europe-cracking-down-golden-visas-152500071.html</link>
+<pubDate>Mon, 06 Jul 2026 15:25:00 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+<item>
+<title><![CDATA[Elon Musk agrees that inflation is 'made in Washington' — how the world's wealthiest man protects his riches]]></title>
+<link>https://finance.yahoo.com/economy/policy/articles/elon-musk-agrees-inflation-made-152500690.html</link>
+<pubDate>Mon, 06 Jul 2026 15:25:00 +0000</pubDate>
+<description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Motley Fool Hidden Gems Investing</title>
+<link>https://www.fool.com/podcasts/motley-fool-money</link>
+<description><![CDATA[Motley Fool Hidden Gems Investing is a daily podcast for stock investors.
+
+Weekday episodes offer a long-term perspective on business news with The Motley Fool's investment analysts. Weekend shows are a mix of personal finance and longer-form interviews.]]></description>
+<item>
+<title><![CDATA[AI Expectations Hit a Fever Pitch]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML1611526543.mp3</link>
+<pubDate>Tue, 07 Jul 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>Every quarter recently, semiconductor stocks keep churning out incredible numbers. And every quarter, it seems as those companies somehow “miss expectations”. The most recent example was when Samsung Electronics reported a 1,900% increase in profits, the stock dropped so much it halted trading on the Korean composite index. Lou, Matt, and Tyler dig into the expectations game Wall Street is playing and the underlying trends still supporting it. Plus, defense companies are making moves at the NATO summit and investor questions.</p>
+<p><br></p>
+<p>Have a question? Email us; podcasts@fool.com </p>
+<p><br></p>
+<p>Want to take the next step in your investing journey? Explore Motley Fool’s Epic for our portfolio-centered investing experience, premium research, tools, and guidance: fool.com/epic <a href="fool.com/epic%20">fool.com/epic </a></p>
+<p><br></p>
+<p>Tyler Crowe, Matt Frankel, and Lou Whiteman discuss:</p>
+<p>- Samsung’s big profits and big stock drop</p>
+<p>- Amazon’s $25 billion debt deal</p>
+<p>- Lockheed Martin goes underwater</p>
+<p>- Are defense companies ready for the changing landscape?</p>
+<p>- Mailbag: How to navigate the Sunk Cost Fallacy?</p>
+<p><br></p>
+<p>Companies discussed: SSLNF, MU, HXSCL, AMZN, GOOG, LMT, NOC, KTOS, AVAV, LHX, BOC, RKLB</p>
+<p><br></p>
+<p>Host: Tyler Crowe</p>
+<p>Guests: Matt Frankel, Lou Whiteman</p>
+<p>Engineer: Dan Boyd</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">⁠⁠megaphone.fm/adchoices</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[Are Index Funds Making the Market “Irrational”?]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML2491786595.mp3</link>
+<pubDate>Mon, 06 Jul 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>Matt, Rachel, and Jon talk about SK Hynix’s upcoming U.S. IPO, explaining what high-bandwidth memory is and which companies could potentially benefit from the company’s IPO proceeds. The Motley Fool Hidden Gems Investing team then tackles two questions from the mailbag. The first relates to SpaceX and ETFs. The second talks about how ETFs and index funds have potentially changed the structure of the stock market.</p>
+<p><br></p>
+<p>Jon Quast, Matt Frankel, and Rachel Warren discuss:</p>
+<p>-High bandwidth memory for AI</p>
+<p>-SK Hynix’s U.S. IPO</p>
+<p>-What happens with ETFs when companies go public?</p>
+<p>-How ETFs and Index Funds influence markets</p>
+<p>-Rational vs irrational stock prices</p>
+<p><br></p>
+<p>Companies discussed: SK Hynix (SKHY), Micron (MU), Samsung, Nvidia (NVDA), ASML (ASML), Lam Research (LRCX), Applied Materials (AMAT), Space Exploration Technologies (SPCX), ERShares Private-Public Crossover ETF (XOVR), Fundrise Innovation Fund (VCX)</p>
+<p><br></p>
+<p>Host: Jon Quast</p>
+<p>Guests: Matt Frankel, Rachel Warren</p>
+<p>Engineer: Dan Boyd</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">⁠megaphone.fm/adchoices</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[The Man Who Survived 47 Days on a Raft Has a Lesson for Every Investor]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML1180281035.mp3</link>
+<pubDate>Sun, 05 Jul 2026 16:00:00 +0000</pubDate>
+<description><![CDATA[<p>Every market downturn will test you. Not your strategy, not your portfolio — you. And the investors who come out the other side aren't the ones who had the best picks going in. They're the ones who learned how to take a hit, stay in the game, and get smarter because of it. Motley Fool's Tom Gardner sits down with Louis Zamperini — World War II survivor, Olympic runner, and the man whose story inspired the bestselling book <em>Unbroken</em> — to talk about why the people who overcome the most become the hardest to beat, and why the moment everything in your portfolio drops 50 percent is actually the most important moment of your investing life.</p>
+<p><strong>Host: </strong>Tom Gardner</p>
+<p><strong>Guest:</strong> Louis Zamperini</p>
+<p><strong>Producers: </strong>Bart Shannon, Lauren Budabin</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>
+<p><br></p>
+<p><br></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[Declare Your Financial Independence!]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML4660289697.mp3</link>
+<pubDate>Sat, 04 Jul 2026 16:00:00 +0000</pubDate>
+<description><![CDATA[<p>It’s the first Saturday of the month, which means it’s time for the next installment of our 2026 Financial Planning Challenge. Since it’s July 4th, we thought it fitting that this month we focus on financial independence – in other words, retirement. How do you know if your retirement plan is on track? And how will you know when you’re financially ready to bid adieu to the working world? Fools Robert Brokamp and Stephanie Marini discuss how to find the answers to those questions, including:<br>-Common rules of thumb like the 50-30-20 rule and ye olde 4% rule (and why it should be 5%)<br>-Age-based retirement savings benchmarks from financial-services firms<br>-Free and premium calculators we use and recommend<br>-Getting a professional second opinion from an experienced financial planner who charges by the hour or project (and where to find such a planner)<br><strong>Host: </strong>Robert Brokamp, CFP®, EA<br><strong>Guest:</strong> Stephanie Marini, CFP®, CRPC®<br><strong>Engineer:</strong> Bart Shannon</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[Behind Wall Street’s Scorching Quarter]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML9297059880.mp3</link>
+<pubDate>Fri, 03 Jul 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>Q2 2026 was the best year on Wall Street since 2020 and AI led the way. But the gains weren’t evenly distributed and we discuss what’s sustainable and what’s not in the market. Plus, we discuss Meta becoming a neocloud and look back on the U.S. stocks that defined the past four decades.</p>
+<p><br></p>
+<p>Travis Hoium, Lou Whiteman, and Jason Moser discuss:</p>
+<p>- Record Q2 Performance</p>
+<p>- How AI Ruled the Day</p>
+<p>- Meta the Neocloud?</p>
+<p>- What Happened to Compute Constraint?</p>
+<p>- History of U.S. Stocks</p>
+<p>- Stocks on Our Radar</p>
+<p><br></p>
+<p>Companies discussed: Meta Platforms (META), Netflix (NFLX), Amazon (AMZN), Apple (AAPL), Alphabet (GOOG, GOOGL), Walmart (WMT), Home Depot (HD), Microsoft (MSFT), Cisco (CSCO), Dell (DELL), GE (GE), Columbia Banking (COLB), Axon (AXON).</p>
+<p><br></p>
+<p>Host: Travis Hoium</p>
+<p>Guests: Lou Whiteman, Jason Moser</p>
+<p>Engineer: Dan Boyd</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p>Learn more about your ad choices. Visit ⁠⁠⁠⁠megaphone.fm/adchoices</p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[The Challenges of the China Market]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML6759379288.mp3</link>
+<pubDate>Thu, 02 Jul 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>HAve you noticed that more and more companies are finding the Chinese market is a headwind for companies? You’re not alone. Automotive companies, clothing retailers, beauty products, and many more are either losing market share or seeing sales decline. Jon, Matt, and Tyler break down why the Chinese market has been such a challenge for so many companies, who could be the next company to experience this, and how investors can navigate this trend. Plus, the unconventional winners &amp; losers of the S&amp;P 500 and listener questions.</p>
+<p><br>Tyler Crowe, Matt Frankel, and Jon Quast discuss:<br>- S&amp;P 500’s (volatile) winners and losers in 2026 so far<br>- The unexpected winners and losers<br>- The changing Chinese market<br>- Could Apple and memory be the next China market victims?<br>- Mailbag: Navigating fair values for stocks<br></p>
+<p><strong>Companies discussed: </strong>CASY, TSCO, GLW, FICO, NKE, LVMH, AAPL, SBUX, DECK, CAT, MSFT,</p>
+<p><br><strong>Host: </strong>Tyler Crowe<br><strong>Guests: </strong>Matt Frankel, Jon Quast<br><strong>Engineer:</strong> Bart Shannon<br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[Is The Oil Crisis Over? Or Is It Just Beginning?]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML7157393182.mp3</link>
+<pubDate>Wed, 01 Jul 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>Oil prices have plunged in recent weeks as the war in Iran appears to be coming to a halt. But why did predictions of $200 oil never materialize? We discuss the underlying dynamics. We also covered a new stablecoin that could be disruptive to payments and why Nike’s comeback is stalling out.</p>
+<p><br></p>
+<p>Travis Hoium, Lou Whiteman, and Tyler Crowe discuss:</p>
+<p>- Why Oil Prices Are Dropping</p>
+<p>- Did China Prevent an Energy Crisis?</p>
+<p>- The New Open USD Stablecoin</p>
+<p>- Are Stablecoins Disruptive?</p>
+<p>- Nike’s Earnings</p>
+<p>- Can Nike Make a Comeback?</p>
+<p><br></p>
+<p>Companies discussed: Nike (NKE), Visa (V), Mastercard (MA).</p>
+<p><br></p>
+<p>Host: Travis Hoium</p>
+<p>Guests: Lou Whiteman, Tyler Crowe</p>
+<p>Engineer: Dan Boyd</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">⁠⁠⁠megaphone.fm/adchoices</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[Picking the Winners of the Honeywell Breakup]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/tracking.swap.fm/track/YfZO4tERxneauNcW9Fgn/mgln.ai/e/211/traffic.megaphone.fm/ARML2901773814.mp3</link>
+<pubDate>Tue, 30 Jun 2026 20:30:00 +0000</pubDate>
+<description><![CDATA[<p>The Honeywell International of 10 years ago is now six different publicly traded companies. This week, Honeywell International split with Honeywell Aerospace to complete the pre-planned separation. Tyler, Matt, and Lou look break down the prospects for the disparate parts as standalone companies and pick which ones will be the outperformers based on recent spinoffs and separateions. Plus, a busy week of deals and an investor question about covered call ETFs</p>
+<p><br></p>
+<p>Tyler Crowe, Matt Frankel, and Lou Whiteman discuss:</p>
+<p>- Digital Realty buying data centers</p>
+<p>- Building materials industry consolidation</p>
+<p>- Keeping track of what assets went where at Honeywell</p>
+<p>- Recent successes (and failures) with spinoffs</p>
+<p>- Mailbag: When to covered call index ETFs work?</p>
+<p><br></p>
+<p>Companies discussed: DLR, BX, CSL, OC, MLM, BLD, QXO, ON, SYNA, HON, HONA, SOLS, QNT, GE, GEV, GEHC, RTX, CARR, OTIS, DOW, DD, CTVA, CMCSA, BRK-B, SPYI, QQQI, CHPY, BTCI</p>
+<p><br></p>
+<p>Host: Tyler Crowe</p>
+<p>Guests: Matt Frankel, Lou Whiteman</p>
+<p>Engineer: Dan Boyd</p>
+<p><br></p>
+<p>Disclosure: Advertisements are sponsored content and provided for informational purposes only. The Motley Fool and its affiliates (collectively, “TMF”) do not endorse, recommend, or verify the accuracy or completeness of the statements made within advertisements. TMF is not involved in the offer, sale, or solicitation of any securities advertised herein and makes no representations regarding the suitability, or risks associated with any investment opportunity presented. Investors should conduct their own due diligence and consult with legal, tax, and financial advisors before making any investment decisions. TMF assumes no responsibility for any losses or damages arising from this advertisement.</p>
+<p><br></p>
+<p>We’re committed to transparency: All personal opinions in advertisements from Fools are their own. The product advertised in this episode was loaned to TMF and was returned after a test period or the product advertised in this episode was purchased by TMF. Advertiser has paid for the sponsorship of this episode.</p>
+<p><br></p>
+<p>Learn more about your ad choices. Visit <a href="http://megaphone.fm/adchoices">⁠⁠megaphone.fm/adchoices</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p>]]></description>
+</item>
+</channel>
+</rss>

@@ -1,0 +1,94 @@
+{
+ "date": "2026-07-04",
+ "signals": [
+  {
+   "trend": "World Cup micro-merch: licensed collectibles lane on TikTok Shop",
+   "ticker": "MNSO",
+   "company": "MINISO Group Holding",
+   "exchange": "NYSE (9896.HK)",
+   "mcap": "~$5-6B",
+   "method": "NYSE quote + HK line",
+   "why": "Event commerce is consolidating into a few 'officially licensed' giftable sellers \u2014 MINISO's FIFA-licensed pins and magnets put it in the winning lane, validating its IP-collectibles pivot into the knockout rounds.",
+   "evidence": "MINISO's trophy bottle-opener fridge magnet at $18.99 shows the theme scaled down to an impulse collectible; official-gift winners are concentrated in a handful of sellers.",
+   "score": 62,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "FastMoss",
+     "title": "What World Cup Fans Are Actually Buying on TikTok Shop",
+     "url": "https://www.fastmoss.com/blog/what-world-cup-fans-buy-tiktok-shop-2026/"
+    },
+    {
+     "type": "news",
+     "name": "Stock Analysis",
+     "title": "MINISO Group Holding (MNSO) overview",
+     "url": "https://stockanalysis.com/stocks/mnso/"
+    }
+   ],
+   "first_seen": "2026-07-04"
+  },
+  {
+   "trend": "Meme-flow gauge: Wendy's rally extends into the holiday week",
+   "ticker": "WEN",
+   "company": "The Wendy's Company",
+   "exchange": "NASDAQ",
+   "mcap": "~$2.5B",
+   "method": "NASDAQ quote",
+   "why": "Reddit-driven retail flows kept a sub-$3B restaurant name up ~50% off lows into July \u2014 sentiment-led and fundamentals-light, but a live gauge of small-cap consumer risk appetite.",
+   "evidence": "Shares closed 26% higher on June 24 \u2014 the biggest jump since June 2021 \u2014 after earlier surging as much as 42% (Bloomberg); July 2 coverage warned against chasing.",
+   "score": 58,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Bloomberg",
+     "title": "Wendy's Stock Soars 26% as Meme Traders Flock to Burger Chain",
+     "url": "https://www.bloomberg.com/news/articles/2026-06-24/wendy-s-surges-37-as-post-rallies-memers-around-burger-chain"
+    },
+    {
+     "type": "news",
+     "name": "The Motley Fool",
+     "title": "Don't Chase Wendy's Meme Stock Rally",
+     "url": "https://www.fool.com/investing/2026/07/02/dont-chase-wendys-meme-stock-rally-here-are-2-rest/"
+    }
+   ],
+   "first_seen": "2026-07-04"
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Prediction markets are the World Cup's breakout consumer product",
+   "ticker": null,
+   "company": "Kalshi Inc. / Polymarket (private)",
+   "exchange": null,
+   "mcap": null,
+   "method": "",
+   "why": "World Cup event contracts turned prediction markets into mainstream consumer apps \u2014 record volumes and 78.5% of June betting-app installs, a structural share shift away from listed sportsbooks (DKNG, FLUT).",
+   "evidence": "Kalshi kept daily volume above $1 billion since the tournament kicked off June 11, closing June with more than $31 billion in trading volume, while Polymarket added $10.8 billion \u2014 a record.",
+   "score": 72,
+   "status": "new",
+   "watchlist": true,
+   "sources": [
+    {
+     "type": "news",
+     "name": "CNBC",
+     "title": "2026 FIFA World Cup boosts prediction market volumes",
+     "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
+    },
+    {
+     "type": "news",
+     "name": "DeFi Rate",
+     "title": "Kalshi, Polymarket Keep Gaining DAUs During World Cup as Sportsbooks Peak Early",
+     "url": "https://defirate.com/news/kalshi-polymarket-keep-gaining-daily-active-users-during-world-cup-sportsbooks-peak-early/"
+    }
+   ],
+   "first_seen": "2026-07-04"
+  }
+ ],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

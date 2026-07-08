@@ -1,0 +1,40 @@
+# Data sources. Add shows by name + Apple Podcasts ID (the number in the show's
+# Apple Podcasts URL); the pipeline resolves the RSS feed automatically via the
+# free iTunes Lookup API. Or paste an `rss:` URL directly.
+podcasts:
+  - name: Odd Lots
+    itunes_id: 1056200096
+  - name: Motley Fool Money
+    itunes_id: 306106212
+  - name: Animal Spirits
+    itunes_id: 1310192007
+  - name: All-In
+    itunes_id: 1502871393
+  - name: We Study Billionaires
+    itunes_id: 928933489
+  - name: Acquired
+    rss: https://feeds.transistor.fm/acquired
+
+# News feeds: Yahoo Finance RSS plus targeted Google News RSS queries.
+# (Reuters discontinued public RSS; Google News queries substitute.)
+news_feeds:
+  - name: Yahoo Finance
+    url: https://finance.yahoo.com/news/rssindex
+  - name: Google News — viral product
+    url: https://news.google.com/rss/search?q=%22viral%22%20product%20sales%20surge&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — toy/collectible craze
+    url: https://news.google.com/rss/search?q=toy%20OR%20collectible%20craze%20demand&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — app downloads surge
+    url: https://news.google.com/rss/search?q=app%20downloads%20surge%20chart&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — Gen Z trend brand
+    url: https://news.google.com/rss/search?q=%22gen%20z%22%20brand%20trend%20spending&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — critical minerals chokepoint
+    url: https://news.google.com/rss/search?q=critical%20minerals%20OR%20tungsten%20OR%20%22rare%20earth%22%20export%20supply&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — small cap defense contract
+    url: https://news.google.com/rss/search?q=%22small%20cap%22%20OR%20startup%20defense%20contract%20award&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — IPO / S-1 filings
+    url: https://news.google.com/rss/search?q=%22files%20for%20IPO%22%20OR%20%22S-1%22%20OR%20%22market%20debut%22&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — TikTok Shop best sellers
+    url: https://news.google.com/rss/search?q=%22tiktok%20shop%22%20best%20seller%20OR%20viral%20brand&hl=en-US&gl=US&ceid=US:en
+  - name: Google News — 52-week high small cap
+    url: https://news.google.com/rss/search?q=%2252-week%20high%22%20%22small%20cap%22&hl=en-US&gl=US&ceid=US:en

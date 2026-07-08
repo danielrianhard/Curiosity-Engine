@@ -1,0 +1,43 @@
+<!doctype html>
+<html>
+<body style="margin:0;padding:0;background:#F2EFF6;font-family:Georgia,'Times New Roman',serif;color:#1F1F1F;">
+<div style="max-width:600px;margin:0 auto;">
+  <div style="background:linear-gradient(135deg,#2D0F4D,#6D2EA3);border-bottom:4px solid #C5A421;padding:22px 20px;">
+    <div style="font-family:Arial,sans-serif;font-size:10.5px;font-weight:700;letter-spacing:.2em;color:#C5A421;text-transform:uppercase;">Thames Capital Management <span style="color:#CBB8E4;">· The Curiosity Engine</span></div>
+    <div style="font-family:Arial,sans-serif;font-size:21px;font-weight:700;color:#fff;margin-top:8px;">{{ pretty_date }}</div>
+    <div style="font-family:Arial,sans-serif;font-size:12px;color:#CBB8E4;margin-top:3px;">{{ signals|length }} signal(s) cleared the bar{% if watchlist %} · {{ watchlist|length }} on watch{% endif %}</div>
+  </div>
+
+  <div style="padding:18px 16px 8px;">
+  {% for s in signals %}
+  <div style="background:#fff;border:1px solid #E3DEEC;border-left:4px solid #4A1A6B;border-radius:6px;padding:14px 16px;margin-bottom:12px;">
+    <div style="font-family:Arial,sans-serif;font-size:15px;font-weight:700;color:#4A1A6B;">
+      {{ s.trend }}
+      {% if s.ticker %}<span style="font-size:11px;background:#4A1A6B;color:#C5A421;border-radius:4px;padding:3px 6px;margin-left:6px;letter-spacing:.04em;">{{ s.ticker }}</span>{% endif %}
+      <span style="font-size:9.5px;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:{{ '#1E8050' if s.status=='new' else '#9A7B12' }};margin-left:6px;">{{ s.status }}</span>
+    </div>
+    {% if s.company %}<div style="font-family:Arial,sans-serif;font-size:11px;color:#6B6B6B;margin-top:3px;">{{ s.company }}{% if s.exchange %} · {{ s.exchange }}{% endif %} · signal {{ s.score }}</div>{% endif %}
+    <p style="font-size:13.5px;margin:8px 0 6px;">{{ s.why }}</p>
+    <div style="font-family:Arial,sans-serif;font-size:11.5px;color:#6B6B6B;">
+      {% for src in s.sources[:3] %}<a href="{{ src.url }}" style="color:#69398D;text-decoration:none;">{{ src.name }}</a>{% if not loop.last %} · {% endif %}{% endfor %}
+    </div>
+  </div>
+  {% else %}
+  <div style="background:#FBF7EC;border:1px solid #C9B27A;border-radius:6px;padding:14px 16px;">
+    <p style="font-size:13.5px;margin:0;font-style:italic;">Quiet day — nothing cleared the signal bar. The engine ran normally.</p>
+  </div>
+  {% endfor %}
+
+  {% if watchlist %}
+  <div style="font-family:Arial,sans-serif;font-size:11px;font-weight:700;color:#1F6F6B;letter-spacing:.12em;text-transform:uppercase;margin:16px 0 8px;">Watchlist — private / no ticker</div>
+  {% for s in watchlist %}
+  <div style="font-size:13px;margin-bottom:6px;">&#9679; <b style="font-family:Arial,sans-serif;color:#1F6F6B;">{{ s.trend }}</b> — {{ s.why | truncate(120) }}</div>
+  {% endfor %}
+  {% endif %}
+
+  <p style="margin:18px 0;"><a href="{{ dashboard_url }}" style="font-family:Arial,sans-serif;font-size:13px;font-weight:700;color:#4A1A6B;">Open the full dashboard →</a></p>
+  <p style="font-size:10.5px;font-style:italic;color:#6B6B6B;">Automated research aid for Thames Capital Management — not investment advice. Every ticker verified against SEC/market data; click through to sources before acting.</p>
+  </div>
+</div>
+</body>
+</html>

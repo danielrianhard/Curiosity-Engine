@@ -1,0 +1,205 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Engine — 2026-07-03 · Thames Capital Management</title>
+<style>
+  /* Thames Capital Management house palette */
+  :root {
+    --deep:#4A1A6B; --mid:#69398D; --band1:#2D0F4D; --band2:#6D2EA3;
+    --gold:#C5A421; --green:#1E8050; --red:#B3261E; --teal:#1F6F6B;
+    --zebra:#F6F4F9; --ink:#1F1F1F; --gray:#6B6B6B; --line:#E3DEEC;
+    --signal-bd:#278050; --signal-bg:#EFF5F1;
+    --tan-bd:#C9B27A; --tan-bg:#FBF7EC; --tan-hd:#9A7B12;
+    --teal-bg:#EAF4F3;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#F2EFF6; color:var(--ink);
+         font:15.5px/1.6 Georgia,"Times New Roman",serif; }
+  .sans { font-family:Arial,"Helvetica Neue",Helvetica,sans-serif; }
+
+  /* Masthead band */
+  .band { background:linear-gradient(135deg,var(--band1),var(--band2));
+          border-bottom:4px solid var(--gold); padding:34px 0 26px; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 22px; }
+  .eyebrow { font:700 11.5px/1 Arial,sans-serif; letter-spacing:.22em;
+             color:var(--gold); text-transform:uppercase; }
+  .eyebrow span { color:#CBB8E4; }
+  .band h1 { margin:12px 0 4px; color:#fff; font:700 30px/1.1 Arial,sans-serif;
+             letter-spacing:-.01em; }
+  .band .sub { color:#CBB8E4; font:13px/1.5 Arial,sans-serif; margin:0; }
+
+  /* Day navigation */
+  .navbar { background:#fff; border-bottom:1px solid var(--line); }
+  .navrow { display:flex; align-items:center; gap:8px; padding:10px 0; overflow-x:auto; }
+  .navrow a.arrow { font:700 14px/1 Arial,sans-serif; color:var(--deep);
+                    text-decoration:none; padding:7px 11px; border:1px solid var(--line);
+                    border-radius:6px; white-space:nowrap; }
+  .navrow a.arrow.off { opacity:.3; pointer-events:none; }
+  .chips { display:flex; gap:6px; }
+  .chip { font:600 12px/1 Arial,sans-serif; text-decoration:none; color:var(--mid);
+          padding:7px 10px; border-radius:6px; border:1px solid var(--line);
+          white-space:nowrap; background:#fff; }
+  .chip.cur { background:var(--deep); color:#fff; border-color:var(--deep); }
+  .chip:hover { border-color:var(--mid); }
+
+  main { padding:26px 0 40px; }
+  .dateline { font:700 12px/1 Arial,sans-serif; letter-spacing:.18em; color:var(--gray);
+              text-transform:uppercase; margin:2px 0 16px; }
+  .dateline b { color:var(--deep); }
+
+  /* Signal cards */
+  .card { background:#fff; border:1px solid var(--line); border-left:5px solid var(--deep);
+          border-radius:8px; padding:18px 22px 15px; margin-bottom:16px;
+          box-shadow:0 1px 3px rgba(45,15,77,.06); }
+  .row1 { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .trend { font:700 17px/1.3 Arial,sans-serif; color:var(--deep); }
+  .ticker { font:700 12.5px/1 Arial,sans-serif; background:var(--deep); color:var(--gold);
+            border-radius:4px; padding:5px 8px; letter-spacing:.04em; }
+  .badge { font:700 10px/1 Arial,sans-serif; text-transform:uppercase;
+           letter-spacing:.09em; border-radius:4px; padding:4px 8px; }
+  .badge.new { background:var(--signal-bg); color:var(--signal-bd); border:1px solid var(--signal-bd); }
+  .badge.accelerating { background:var(--tan-bg); color:var(--tan-hd); border:1px solid var(--tan-bd); }
+  .badge.repeat { background:var(--zebra); color:var(--gray); border:1px solid var(--line); }
+  .badge.watch { background:var(--teal-bg); color:var(--teal); border:1px solid var(--teal); }
+  .strength { margin-left:auto; font:600 11px/1 Arial,sans-serif; color:var(--gray);
+              white-space:nowrap; }
+  .bar { display:inline-block; width:76px; height:7px; background:#EAE5F1;
+         border-radius:3px; vertical-align:-1px; margin-left:7px; overflow:hidden; }
+  .bar i { display:block; height:100%; background:linear-gradient(90deg,var(--gold),#E0C34A); }
+  .meta { font:11.5px/1.5 Arial,sans-serif; color:var(--gray); margin-top:5px; }
+  .why { margin:10px 0 4px; }
+  .quote { color:#3D3D3D; font-size:14px; font-style:italic;
+           border-left:3px solid var(--mid); padding:2px 0 2px 12px; margin:10px 0; }
+  .srcs { font:12.5px/1.7 Arial,sans-serif; color:var(--gray); margin-top:8px;
+          border-top:1px solid var(--zebra); padding-top:8px; }
+  .srcs a { color:var(--mid); text-decoration:none; }
+  .srcs a:hover { text-decoration:underline; color:var(--deep); }
+  .srcs .lbl { font-weight:700; text-transform:uppercase; font-size:10px;
+               letter-spacing:.1em; margin-right:6px; }
+
+  h2.sect { font:700 13px/1 Arial,sans-serif; letter-spacing:.16em; color:var(--deep);
+            text-transform:uppercase; margin:32px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sect::before { content:""; width:12px; height:12px; background:var(--deep); }
+  .card.watch { border-left-color:var(--teal); }
+  .empty { background:var(--tan-bg); border:1px solid var(--tan-bd); border-radius:8px;
+           padding:16px 20px; font-style:italic; }
+
+  footer { margin-top:36px; border-top:1px solid var(--line); padding-top:14px;
+           font:italic 11.5px/1.7 Georgia,serif; color:var(--gray); }
+  .status-ok { color:var(--green); font-style:normal; }
+  .status-fail { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="eyebrow">Thames Capital Management <span>· The Curiosity Engine</span></div>
+    <h1>Daily Emerging-Trend Signals</h1>
+    <p class="sub">Podcasts · app-store charts · news flow · SEC filings — distilled to the few names worth an analyst's attention. Every ticker verified; every claim sourced.</p>
+  </div>
+</div>
+
+<div class="navbar"><div class="wrap"><div class="navrow sans">
+  <a class="arrow" href="2026-07-02.html">‹ 07-02</a>
+  
+  <div class="chips">
+    
+    <a class="chip " href="2026-07-02.html">07-02</a>
+    
+    <a class="chip cur" href="2026-07-03.html">07-03</a>
+    
+    <a class="chip " href="2026-07-04.html">07-04</a>
+    
+    <a class="chip " href="2026-07-05.html">07-05</a>
+    
+    <a class="chip " href="2026-07-06.html">07-06</a>
+    
+    <a class="chip " href="2026-07-07.html">07-07</a>
+    
+    <a class="chip " href="2026-07-08.html">07-08</a>
+    
+  </div>
+  <a class="arrow" href="2026-07-04.html">07-04 ›</a>
+  
+</div></div></div>
+
+<main><div class="wrap">
+  <div class="dateline">Report · <b>Friday, July 3, 2026</b></div>
+
+  
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Antimony onshoring: stockpile policy becomes revenue</span>
+      <span class="ticker">UAMY</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 80<span class="bar"><i style="width:80%"></i></span></span>
+    </div>
+    <div class="meta">United States Antimony Corporation · NYSE · mkt cap ~$1.0B · ticker verified: company PR + NYSE quote</div>
+    <p class="why">First physical deliveries under a $245M DLA antimony contract convert stockpile policy into cash for the only US antimony smelter, with cumulative government orders now $57.3M.</p>
+    <div class="quote">“Delivered ~82,000 lbs of antimony metal ingots in first two Q2 shipments (~$2.6M invoiced to DLA in June); shares up 12.2% week-over-week.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-provides-update-on-antimony-rbqtyalamvnu.html" target="_blank" rel="noopener">StockTitan: U.S. Antimony books $57.3M DLA orders</a> · <a href="https://www.fool.com/investing/2026/07/02/why-shares-of-united-states-antimony-are-soaring-t/" target="_blank" rel="noopener">The Motley Fool: Why Shares of United States Antimony Are Soaring This Week</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Greenland rare earths: Tanbreez pure-play sharpens</span>
+      <span class="ticker">CRML</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 70<span class="bar"><i style="width:70%"></i></span></span>
+    </div>
+    <div class="meta">Critical Metals Corp · NASDAQ · mkt cap ~$1.5B · ticker verified: company PR + NASDAQ quote</div>
+    <p class="why">Amended scheme mechanics for the European Lithium roll-up plus a strategic spin-off process sharpen CRML into a pure-play on Tanbreez — one of the largest heavy-REE/gallium deposits outside China.</p>
+    <div class="quote">“Entered an amendment deed to the Scheme Implementation Deed, transaction to be implemented during September 2026; acceleration plan targets a Tanbreez pilot plant by Aug 2026.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.globenewswire.com/news-release/2026/07/03/3321826/0/en/critical-metals-corp-provides-update-on-proposed-acquisition-of-european-lithium.html" target="_blank" rel="noopener">GlobeNewswire: Critical Metals Corp. Update on Proposed Acquisition of...</a> · <a href="https://www.stocktitan.net/news/CRML/critical-metals-corp-announces-strategic-process-to-unlock-inherent-tg5sbici5j4l.html" target="_blank" rel="noopener">StockTitan: Critical Metals weighs asset sale, spin-off to fund Tanbreez push</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">First European quantum pure-play lists on Nasdaq</span>
+      <span class="ticker">IQMX</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 66<span class="bar"><i style="width:66%"></i></span></span>
+    </div>
+    <div class="meta">IQM Quantum Computers Oyj · NASDAQ · mkt cap ~$1.9B · ticker verified: company PR + quote pages</div>
+    <p class="why">IQM&#39;s SPAC debut gives US investors the first European superconducting-qubit pure-play, extending the quantum listing wave into small-cap territory.</p>
+    <div class="quote">“ADSs began trading under &#39;IQMX&#39; on July 2 after completing the Real Asset Acquisition Corp. combination at a ~$1.9B valuation.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.businesswire.com/news/home/20260702960460/en/IQM-Quantum-Computers-Becomes-First-European-Quantum-Computing-Company-Listed-on-a-Major-U.S.-Exchange" target="_blank" rel="noopener">Business Wire: IQM Becomes First European Quantum Company on a Major U.S. Exchange</a> · <a href="https://thequantuminsider.com/2026/07/03/iqm-begins-trading-on-nasdaq/" target="_blank" rel="noopener">The Quantum Insider: IQM Joins Nasdaq as Public Quantum Computing Company</a> · <a href="https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/" target="_blank" rel="noopener">TechCrunch: IQM admits the future of the tech is uncertain</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Hypersonics &#39;merchant supplier&#39; re-rating</span>
+      <span class="ticker">KTOS</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 64<span class="bar"><i style="width:64%"></i></span></span>
+    </div>
+    <div class="meta">Kratos Defense &amp; Security Solutions · NASDAQ · mkt cap ~$9-10B · ticker verified: quote pages + analyst note</div>
+    <p class="why">Wedbush&#39;s Outperform initiation ($85 PT) reframes Kratos as the sole-source subsystem supplier across hypersonics (MACH TB 2.0 prime, up to ~$1.45B OTA), missile defense, space and microelectronics.</p>
+    <div class="quote">“Wedbush called Kratos &#39;the merchant arms supplier for the entire U.S. defense complex,&#39; modeling hypersonics revenue rising from ~$200M (2025) to ~$700M (2027).”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.benzinga.com/trading-ideas/movers/26/07/60226248/kratos-stock-surges-as-analyst-frames-company-as-misunderstood-supplier-to-entire-us-defense-complex" target="_blank" rel="noopener">Benzinga: Kratos Surges as Analyst Frames It as &#39;Misunderstood&#39;...</a> · <a href="https://stockstotrade.com/news/kratos-defense-security-solutions-inc-ktos-news-2026_07_02/" target="_blank" rel="noopener">StocksToTrade: KTOS Rips Higher As Wall Street Backs Autonomy Growth Story</a>
+    </div>
+  </div>
+  
+  
+
+  
+
+  <footer>
+    Retrospective report — reconstructed on 2026-07-08 from that day&#39;s public sources (analyst-grade backfill; live daily runs are fully automated) · Generated 2026-07-08 20:51 UTC · extraction: analyst backfill
+    
+    <br>Automated research aid for Thames Capital Management — not investment advice. Signals are screening leads; verify at the primary source before acting.
+  </footer>
+</div></main>
+</body>
+</html>

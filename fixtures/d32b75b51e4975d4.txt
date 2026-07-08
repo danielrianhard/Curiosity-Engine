@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>The Investor&#x27;s Podcast (We Study Billionaires)  - The Investor’s Podcast Network</title>
+<link>https://www.theinvestorspodcast.com</link>
+<description><![CDATA[Hosted by Stig Brodersen, William Green, Shawn O'Malley, Daniel Mahncke, and Kyle Grieve, The Investor’s Podcast has proudly reached nearly 200 million downloads, as the world's largest stock-investing focused podcast.
+
+
+
+On the show, we study a range of businesses and their investment prospects, from Spotify to Amazon, serial acquirers like Constellation Software, deep value plays, and more, using lessons from some of the world's most famous investors, like Warren Buffett, Charlie Munger, and Howard Marks. 
+
+
+
+Leverage the lessons we learned from studying, and talking to, the world's best investors, and apply them in your own investing journey, while following along with our company case studies. For more insights on how to value companies and build a stock portfolio, you can also sign up for our free weekly newsletter.
+Support our show by becoming a premium member! https://theinvestorspodcastnetwork.supportingcast.fm]]></description>
+<item>
+<title><![CDATA[TIP828: Restoration Hardware (RH): Building a Luxury Empire From Scratch w/ Shawn O'Malley and Daniel Mahncke]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PPLLC7917044400.mp3</link>
+<pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>Shawn O'Malley and Daniel Mahncke explore Restoration Hardware (ticker: RH).</p>
+<p>In this episode, you'll learn how RH was able to reinvent itself as a high-end furniture retailer, using opulent galleries, high-end dining, private yachts, and a membership model based on Amazon Prime and Costco.</p>
+<p>RH is an incredibly bold and unique business, not afraid to use unconventional viral marketing efforts to drive customers into stores, as they aim to set styles for the ultra-rich. Shawn and Daniel dig into the business, risks for shareholders, and estimate RH’s intrinsic value, plus so much more!</p>
+<p><br></p>
+<p><strong>IN THIS EPISODE YOU’LL LEARN:</strong></p>
+<p>(00:00:00) Intro</p>
+<p>(00:03:32) How RH has built an American luxury brand, defining home-design tastes</p>
+<p>(00:07:18) Why yachts and private jets are actually core to RH’s strategy to sell furniture to the ultra-rich</p>
+<p>(00:15:14) About the eccentric and fascinating world of Gary Friedman and his tastes that define RH</p>
+<p>(00:25:43) Why RH pivoted to a membership-based model for discounting in 2016</p>
+<p>(00:40:31) What RH is planning on doing in response to its debt maturity wall looming in 2028</p>
+<p>(00:49:42) How RH is using sale-leasebacks and monetizing its real estate to improve capital efficiency</p>
+<p>(00:53:08) How to think about the intrinsic value of RH</p>
+<p>(00:57:35) Whether Shawn and Daniel add RH to the Intrinsic Value Portfolio</p>
+<p><br></p>
+<p><em>Disclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.</em></p>
+<p><br></p>
+<p><strong>BOOKS AND RESOURCES</strong></p>
+<ul>
+  <li>Join the exclusive <a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Mastermind Community</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Track <a href="https://docs.google.com/spreadsheets/d/1YqzCACTnf4X3v8lx3HMEG2rMs71RLNI2B3b7V2e3pKQ/edit?usp=sharing">⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Portfolio</strong>⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Learn more about how to join us in NYC for our <a href="https://intrinsicvalueconference.com"><strong>Intrinsic Value Conference</strong></a>.</li>
+  <li>Check out RH’s<strong> </strong><a href="https://ir.rh.com/"><strong>investor relations page.</strong></a>
+</li>
+  <li>Listen to Business Breakdowns’ <a href="https://open.spotify.com/episode/4SqxgMpf00uuiWD1s5smOG"><strong>podcast</strong></a> on RH.</li>
+  <li>Check out our previous Intrinsic Value breakdowns: <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/transdigm-tdg-a-conglomerate-of-monopolies-w-daniel-mahncke-shawn-omalley/">⁠<strong>Transdigm</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/salesforce-crm-agentforce-or-ai-native-w-daniel-mahncke-shawn-omalley/">⁠<strong>Salesforce</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/berkshire-hathaway-brk-b-from-buffett-to-abel-w-daniel-mahncke-shawn-omalley/">⁠<strong>Berkshire Hathaway</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/fair-isaac-corporation-fico-scoring-the-worlds-biggest-credit-scorer-w-shawn-omalley-daniel-mahncke/">⁠<strong>FICO</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/paypal-pypl-value-trap-or-multibagger-w-daniel-mahncke-shawn-omalley/">⁠<strong>PayPal</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/uber-cash-burner-to-compounder-w-shawn-omalley-and-daniel-mahnke/">⁠<strong>Uber</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/nike-nke-just-buy-it-w-daniel-mahncke-and-shawn-omalley/">⁠<strong>Nike</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/amazon-amzn-is-it-prime-time-for-investors-w-daniel-mahncke-shawn-omalley/">⁠<strong>Amazon</strong>⁠</a><strong>, </strong><a href="https://intrinsicvalue.beehiiv.com/p/abnb">⁠<strong>Airbnb</strong>⁠</a><strong>, </strong><a href="https://www.theinvestorspodcast.com/intrinsic-value/alphabet-googl/">⁠<strong>Alphabet</strong>⁠</a>.</li>
+  <li>Related <a href="https://prodcast.io/collections/we-study-billionaires-the-investor-s-podcast-network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>books</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> mentioned in the podcast.</li>
+  <li>Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>⁠⁠⁠</strong><a href="https://premium.theinvestorspodcast.com/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Premium Feed</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</li>
+</ul>
+<p><strong>NEW TO THE SHOW?</strong></p>
+<ul>
+  <li>Get smarter about valuing businesses through <a href="https://www.theinvestorspodcast.com/newsletters/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Newsletter</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Check out ⁠⁠⁠<a href="https://www.theinvestorspodcast.com/the-investors-podcast-starter-packs/">⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Investor’s Podcast Starter Packs</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Follow our official social media accounts: <a href="https://twitter.com/TIP_Network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.linkedin.com/company/the-investor's-podcast/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>LinkedIn</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.facebook.com/TheInvestorsPodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Facebook</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong></strong><a href="https://www.tiktok.com/@theinvestorspodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Try our tool for picking stock winners and managing our portfolios: <a href="https://www.theinvestorspodcast.com/tip-finance/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>TIP Finance</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Enjoy exclusive perks from our <a href="https://www.theinvestorspodcast.com/affiliates/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>favorite Apps and Services</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Learn how to better start, manage, and grow your business with the <a href="https://www.theinvestorspodcast.com/podcasts/20-best-business-podcasts/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>best business podcasts</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+</ul>
+<p><strong>SPONSORS</strong>
+Support our free podcast by supporting our <a href="https://theinvestorspodcast.com/sponsors">sponsors</a>:</p>
+<ul>
+  <li><a href="https://plus500.com/">Plus500</a></li>
+  <li><a href="https://netsuite.com/study">Netsuite</a></li>
+  <li><a href="https://www.shopify.com/wsb">Shopify</a></li>
+  <li><a href="https://www.vanta.com/BILLIONAIRES">Vanta</a></li>
+</ul>
+<p><em>References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.</em></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><p>Support our show by becoming a premium member! <a href="https://theinvestorspodcastnetwork.supportingcast.fm">https://theinvestorspodcastnetwork.supportingcast.fm</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[TIP827: Auto1 Stock (AG1): Is This the Amazon for Cars? w/ Daniel Mahncke & Shawn O’Malley]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PPLLC9507416826.mp3</link>
+<pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>Daniel Mahncke and Shawn O'Malley take a deep dive into Auto1 Group (ETR: AG1), the Berlin-based used-car platform. They examine whether Auto1's instant-guaranteed-pricing model is a genuine consumer moat or a balance-sheet liability in disguise, what the economics actually look like in 2026 once you separate the merchant flywheel from the retail build-out, and the more uncomfortable side of the bull case.
+</p>
+<p><strong>IN THIS EPISODE YOU’LL LEARN:</strong></p>
+<p>(00:00:00) Intro
+(00:03:23) Why the traditional used-car market doesn’t work well
+(00:10:24) About the size of the used-car market
+(00:13:11) How Auto1’s business model works
+(00:16:38) Who Auto1’s founders are
+(00:26:15) How Auto1 buys and sells cars
+(00:37:27) How the unit economics work
+(01:03:12) Valuation discussion of AG1
+(01:06:58) Whether Auto1 is valued attractively
+(01:08:58) Whether Shawn and Daniel add AG1 to the Intrinsic Value Portfolio</p>
+<p><em>Disclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.</em></p>
+<p><br></p>
+<p><strong>BOOKS AND RESOURCES</strong></p>
+<ul>
+  <li>Join the exclusive <a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Mastermind Community</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Track <a href="https://docs.google.com/spreadsheets/d/1YqzCACTnf4X3v8lx3HMEG2rMs71RLNI2B3b7V2e3pKQ/edit?usp=sharing">⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Portfolio</strong>⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Learn more about how to join us in NYC for our <a href="https://intrinsicvalueconference.com">⁠<strong>Intrinsic Value Conference</strong>⁠</a>.</li>
+  <li>Portfolio Review <a href="https://tivc-portfolio-review.vercel.app/submit"><strong>Submit Tool</strong></a>.</li>
+  <li>Value Investors Club <a href="https://www.valueinvestorsclub.com/idea/Auto1_Group_SE/1027651503"><strong>Pitch on Auto1</strong></a>.</li>
+  <li>Business Breakdowns <a href="https://colossus.com/episode/auto1-eused-car-marketplace/"><strong>Episode on Auto1</strong></a>.</li>
+  <li>Auto1 <a href="https://ir.auto1-group.com/"><strong>Investor Relations</strong></a>.</li>
+  <li>Check out our previous Intrinsic Value breakdowns: <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/copart-cprt-the-100-bagger-junk-yard-w-daniel-mahncke-shawn-omalley/"><strong>Copart</strong></a>, <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/ferrari-race-high-speed-compounder-w-shawn-omalley-daniel-mahncke/"><strong>Ferrari</strong></a>, <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/transdigm-tdg-a-conglomerate-of-monopolies-w-daniel-mahncke-shawn-omalley/">⁠</a><a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/uber-cash-burner-to-compounder-w-shawn-omalley-and-daniel-mahnke/"><strong>Uber</strong>⁠</a>, ⁠<a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/grab-holdings-grab-why-uber-surrendered-southeast-asia-tivp/"><strong>Grab</strong></a>, <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/lyft-inc-lyft-the-key-to-winning-the-av-wars-w-shawn-omalley-daniel-mahncke/"><strong>Lyft</strong></a>, <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/exor-nv-exo-too-good-to-be-true-w-shawn-omalley-daniel-mahncke/"><strong>Exor NV</strong></a>, <a href="https://www.theinvestorspodcast.com/intrinsic-value-podcast/mercedes-benz-mbg-can-benz-reinvent-the-car-w-daniel-mahncke-shawn-omalley/"><strong>Mercedes-Benz</strong></a>.</li>
+  <li>Related <a href="https://prodcast.io/collections/we-study-billionaires-the-investor-s-podcast-network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>books</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> mentioned in the podcast.</li>
+  <li>Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>⁠⁠⁠</strong><a href="https://premium.theinvestorspodcast.com/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Premium Feed</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</li>
+</ul>
+<p><strong>NEW TO THE SHOW?</strong></p>
+<ul>
+  <li>Get smarter about valuing businesses through <a href="https://www.theinvestorspodcast.com/newsletters/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Newsletter</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Check out ⁠⁠⁠<a href="https://www.theinvestorspodcast.com/the-investors-podcast-starter-packs/">⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Investor’s Podcast Starter Packs</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Follow our official social media accounts: <a href="https://twitter.com/TIP_Network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.linkedin.com/company/the-investor's-podcast/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>LinkedIn</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.facebook.com/TheInvestorsPodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Facebook</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong></strong><a href="https://www.tiktok.com/@theinvestorspodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Try our tool for picking stock winners and managing our portfolios: <a href="https://www.theinvestorspodcast.com/tip-finance/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>TIP Finance</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Enjoy exclusive perks from our <a href="https://www.theinvestorspodcast.com/affiliates/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>favorite Apps and Services</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Learn how to better start, manage, and grow your business with the <a href="https://www.theinvestorspodcast.com/podcasts/20-best-business-podcasts/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>best business podcasts</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+</ul>
+<p><strong>SPONSORS</strong>
+Support our free podcast by supporting our <a href="https://theinvestorspodcast.com/sponsors">⁠sponsors⁠</a>:</p>
+<ul>
+  <li><a href="https://plus500.com/">⁠Plus500⁠</a></li>
+  <li><a href="https://netsuite.com/study">⁠Netsuite⁠</a></li>
+  <li><a href="https://www.shopify.com/wsb">⁠Shopify⁠</a></li>
+  <li><a href="https://www.vanta.com/BILLIONAIRES">⁠Vanta⁠</a></li>
+</ul>
+<p><em>References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.</em></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><p>Support our show by becoming a premium member! <a href="https://theinvestorspodcastnetwork.supportingcast.fm">https://theinvestorspodcastnetwork.supportingcast.fm</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[RWH069: The Psychology of Investing w/ Emily Haisley]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PPLLC4474816891.mp3</link>
+<pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>In today’s episode, William Green speaks with Emily Haisley, who heads the Behavioral Finance team at BlackRock, the world’s largest asset manager, with $14 trillion under management. Here, she explores the critical intersection of investing &amp; psychology, explaining how she helps elite fund managers identify &amp; counteract their behavioral biases, regulate their emotions, optimize their physiological state, avoid systematic mistakes, &amp; take risks that align with their edge. This conversation offers powerful insights on how to win the inner game of investing. </p>
+<p><strong>IN THIS EPISODE YOU’LL LEARN:</strong>
+(00:00:00)  Intro
+(00:00:40)  How Emily Haisley became head of Behavioral Finance at BlackRock
+(00:23:52)  How her team helps fund managers recognize their behavioral biases
+(00:28:51)  How to counteract a notoriously destructive bias, myopic loss aversion
+(00:39:56)  Why disposition bias leads investors to hold losers &amp; sell winners
+(00:44:31)  Why it’s helpful to experience investment pain, not just learn about it
+(00:53:46)  How investment teams can profit by “beating up” their decision makers
+(00:56:00)  How the best investors benefit by subjugating their own ego
+(01:00:14)  What practical steps Emily recommended to one elite investment team
+(01:17:48)  Why she views “tainted altruism” as “the saddest bias”
+(01:25:27)  What investors can do to manage stress &amp; its impact on their decisions
+(01:29:35)  How BlackRock uses AI to simulate decision making amid extreme volatility
+(01:35:32)  Why she’s learned to embrace uncertainty, false starts, mistakes, &amp; change
+(01:52:33)  How 3 new year’s resolutions nudged Emily toward a happier life</p>
+<p><em>Disclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.</em></p>
+<p><br></p>
+<p><strong>BOOKS AND RESOURCES</strong></p>
+<ul>
+  <li>Inquire about William Green’s <a href="https://williamgreenwrites.com/masterclass/">⁠⁠⁠⁠⁠⁠⁠⁠⁠<u><strong>Richer, Wiser, Happier Masterclass</strong></u>⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Benjamin Graham’s book <a href="https://www.amazon.com/Intelligent-Investor-3rd-Ed/dp/0063356724?_encoding=UTF8&amp;dib_tag=se&amp;dib=eyJ2IjoiMSJ9.KlxwzEYN6nItyVP_hxVDHL8eAZ0t52Haq8bXV9AGyrc0XMrFshrGrvYW2ZZDAWjk_09Da_B2AlHeu0JgU3RuO885w0WmxeBgOtj_kR5461BSVFcOq4wT5EXrlJYOqRxTDpQn6D3-TRfNKpCRpJtOv5wKPFo1oofZghZ3Pf01w-YNbpqGWB2J9BKqGTvfrfUI8dIJpfP3GfFIvRBk2Kk6scLMoXn-0QuzZgVxo9gU76I.h2yBQ8vDn9WuachG_4_jCsZmp6ferPj5T4DW9eD_JQA&amp;qid=1782420342&amp;sr=8-1&amp;linkCode=ll2&amp;tag=tipnetwork-20&amp;linkId=23afc9422f54636d0985dd01ca217de4&amp;language=en_US&amp;ref_=as_li_ss_tl"><u><strong>The Intelligent Investor</strong></u></a>.</li>
+  <li>J. Krishnamurthi’s book <a href="https://www.amazon.com/Right-Livelihood-J-Krishnamurti/dp/0062506099?_encoding=UTF8&amp;dib_tag=se&amp;dib=eyJ2IjoiMSJ9.P08m6fBZXMV_lqiMN3B8GM8KMdak_q4xdWL2HNRzz1RYGQ_yFNXlOU6Md0Vdu77IXAUn2joMoa9-6d23Bt7flHEOE87IVXNP687NOKXgY_kabkU9ek0LZ5YCcPQG02dyoSuxYiNB3Q-yI8j0Od9cd7mCS80SJyf2zVJULfkxdHwSPoimdvUagPZ2dml8u7_D4fFME9egy1oBBwMfCtslIK5rDorJF7Vzch_w5F6usXw.Qvm9x4lfBkJYEgNsV6-IgPdbjCxlm06I5yMDNZn5gjs&amp;qid=1782420296&amp;sr=8-1&amp;linkCode=ll2&amp;tag=tipnetwork-20&amp;linkId=1efea7cd051c5e590f18e8a475fe0d59&amp;language=en_US&amp;ref_=as_li_ss_tl"><u><strong>On Right Livelihood</strong></u></a>.</li>
+  <li>William Green’s podcast interview with <a href="https://www.theinvestorspodcast.com/richer-wiser-happier/betting-better-in-markets-life-w-annie-duke/"><u><strong>Annie Duke</strong></u></a>.</li>
+  <li>William’s book, <a href="https://www.amazon.com/Richer-Wiser-Happier-Greatest-Investors/dp/1501164856?&amp;linkCode=ll2&amp;tag=tipnetwork-20&amp;linkId=2309d2def265d01582d8a3d5acd3bb01&amp;language=en_US&amp;ref_=as_li_ss_tl">⁠<strong>Richer, Wiser, Happier</strong>⁠</a>.</li>
+  <li>Follow William Green on <a href="https://twitter.com/williamgreen72">⁠⁠<u><strong>X</strong></u>⁠⁠</a><u>.</u>
+</li>
+  <li>Related <a href="https://prodcast.io/collections/we-study-billionaires-the-investor-s-podcast-network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>books</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> mentioned in the podcast.</li>
+  <li>Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>⁠⁠⁠</strong><a href="https://premium.theinvestorspodcast.com/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Premium Feed</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</li>
+</ul>
+<p><strong>NEW TO THE SHOW?</strong></p>
+<ul>
+  <li>Get smarter about valuing businesses through <a href="https://www.theinvestorspodcast.com/newsletters/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Newsletter</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Follow our official social media accounts: <a href="https://twitter.com/TIP_Network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.linkedin.com/company/the-investor's-podcast/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>LinkedIn</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.facebook.com/TheInvestorsPodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Facebook</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong></strong><a href="https://www.tiktok.com/@theinvestorspodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Try our tool for picking stock winners and managing our portfolios: <a href="https://www.theinvestorspodcast.com/tip-finance/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>TIP Finance</strong>⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Enjoy exclusive perks from our <a href="https://www.theinvestorspodcast.com/affiliates/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>favorite Apps and Services</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+</ul>
+<p><strong>SPONSORS</strong>
+Support our free podcast by supporting our <a href="https://theinvestorspodcast.com/sponsors">⁠⁠⁠<strong>sponsors⁠⁠⁠</strong></a>:</p>
+<ul>
+  <li>
+<strong></strong><a href="https://plus500.com/">⁠⁠⁠<strong>Plus500</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://netsuite.com/study">⁠⁠⁠<strong>Netsuite</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://www.vanta.com/BILLIONAIRES">⁠⁠⁠<strong>Vanta</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://www.shopify.com/wsb">⁠⁠⁠<strong>Shopify</strong></a>
+</li>
+</ul>
+<p><em>References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.</em></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><p>Support our show by becoming a premium member! <a href="https://theinvestorspodcastnetwork.supportingcast.fm">https://theinvestorspodcastnetwork.supportingcast.fm</a></p>]]></description>
+</item>
+<item>
+<title><![CDATA[TIP826: American Tower (AMT): The Wide Moat Business Your Phone Can't Live Without w/ Kyle Grieve & Shawn O'Malley]]></title>
+<link>https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/PPLLC9559664629.mp3</link>
+<pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+<description><![CDATA[<p>Kyle Grieve and Shawn O’Malley analyze American Tower, the global cell tower business that powers the wireless networks we rely on every day. They unpack how leasing tower space to carriers creates durable recurring revenue, why its stacked competitive advantages form one of the widest moats in the market, and how a steadily growing debt load complicates the picture.</p>
+<p><strong>IN THIS EPISODE YOU’LL LEARN:</strong>
+(00:00:00) Intro
+(00:01:51) How American Tower powers the wireless networks we use
+(00:06:21) How AMT creates recurring revenue
+(00:08:09) Why adding additional tenants dramatically boosts profits per tower
+(00:13:57) The three moats protecting American Tower from competitors
+(00:32:13) Why the REIT structure forces heavy reliance on debt
+(00:38:46) What American Tower's capital allocation reveals about management
+(00:40:22) Whether the data center deal was worth it
+(00:57:33) How carrier consolidation threatens even the widest moats
+(01:01:30) Why a wonderful business isn't always a wonderful investment
+(01:11:35) Intrinsic value of AMT
+(01:13:52) Whether Kyle and Shawn will add AMT to the Intrinsic Value Portfolio</p>
+<p><em>Disclaimer: Slight discrepancies in the timestamps may occur due to podcast platform differences.</em></p>
+<p><strong>BOOKS AND RESOURCES</strong></p>
+<ul>
+  <li>Join the exclusive <a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><a href="https://www.theinvestorspodcast.com/mastermind/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Mastermind Community</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Track <a href="https://docs.google.com/spreadsheets/d/1YqzCACTnf4X3v8lx3HMEG2rMs71RLNI2B3b7V2e3pKQ/edit?usp=sharing">⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Portfolio</strong>⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Brad Jacob’s first book, <a href="https://www.amazon.com/How-Make-Few-Billion-Dollars/dp/B0CHTQP25T?crid=256D76OBZ7FZK&amp;dib=eyJ2IjoiMSJ9.TIKz3DuGEsHiOREravGk5895qXMFD774qZ61NViqBiufd3n96kuWOx5h-gJU8pHIsfMgH4YKxkCuEcLir5TkIRaW8au5AUXZ6uQuntAX2YzmtJ1aZjwyEFY_gBe2kuSh9ZM-xW-9-LKMpeFo0aiWHCZla3QLM8-tqUs6usXmvYb8chuZDRXFF0pD3IM9bDFJmo8XD2ZpnNTzzm59XzitVb9I0x9bCk-XzJFz02nbh0I.LvJzVvPpPSZcaStI7FXfZm-UoImLbMh1ga7qXzaGcuk&amp;dib_tag=se&amp;keywords=how+to+make+a+few+billion+dollars&amp;qid=1780506242&amp;sprefix=how+to+make+a+few+billion+dollar%2Caps%2C295&amp;sr=8-1&amp;linkCode=ll2&amp;tag=tipnetwork-20&amp;linkId=809b5c2c6c24c041cc8d28890120acd0&amp;language=en_US&amp;ref_=as_li_ss_tl">⁠<strong>How to Make A Few Billion Dollars</strong>⁠</a>.</li>
+  <li>Brad Jacob’s follow-up book, <a href="https://www.amazon.com/s?k=how+to+make+a+few+billion+dollars&amp;crid=256D76OBZ7FZK&amp;sprefix=how+to+make+a+few+billion+dollar%2Caps%2C295&amp;linkCode=ll2&amp;tag=tipnetwork-20&amp;linkId=98adcbeab91280ee8020a08629200224&amp;language=en_US&amp;ref_=as_li_ss_tl">⁠<strong>How to Make A Few More Billion Dollars</strong>⁠</a>.</li>
+  <li>Listen to Brad Jacob’s <a href="https://www.youtube.com/watch?v=3WXZg4_xcGs">⁠<strong>interview with David Senra</strong>⁠</a>.</li>
+  <li>Follow Kyle on ⁠⁠⁠⁠<a href="https://x.com/IrrationalMrkts">⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠</a>⁠⁠⁠⁠ and <a href="https://www.linkedin.com/in/kylegrievetip/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Linkedin</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Follow Shawn on <a href="https://x.com/Shawn_OMalley_">⁠⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠⁠</a> and <a href="https://www.linkedin.com/in/shawn-omalley/">⁠⁠⁠⁠⁠⁠⁠<strong>Linkedin</strong>⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Ad-free episodes on our ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>⁠⁠⁠</strong><a href="https://premium.theinvestorspodcast.com/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Premium Feed</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠.</li>
+</ul>
+<p><strong>NEW TO THE SHOW?</strong></p>
+<ul>
+  <li>Get smarter about valuing businesses through <a href="https://www.theinvestorspodcast.com/newsletters/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>The Intrinsic Value Newsletter</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Check out ⁠⁠⁠<a href="https://www.theinvestorspodcast.com/the-investors-podcast-starter-packs/">⁠⁠⁠⁠⁠⁠⁠<strong>The Investor’s Podcast Starter Packs</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Follow our official social media accounts: <a href="https://twitter.com/TIP_Network">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>X</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.linkedin.com/company/the-investor's-podcast/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>LinkedIn</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong> </strong>|<strong> </strong><a href="https://www.facebook.com/TheInvestorsPodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>Facebook</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a><strong></strong><a href="https://www.tiktok.com/@theinvestorspodcast">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Try our tool for picking stock winners and managing our portfolios: <a href="https://www.theinvestorspodcast.com/tip-finance/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>TIP Finance</strong>⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Enjoy exclusive perks from our <a href="https://www.theinvestorspodcast.com/affiliates/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>favorite Apps and Services</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+  <li>Learn how to better start, manage, and grow your business with the <a href="https://www.theinvestorspodcast.com/podcasts/20-best-business-podcasts/">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠<strong>best business podcasts</strong>⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a>.</li>
+</ul>
+<p><strong>SPONSORS</strong>
+Support our free podcast by supporting our <a href="https://theinvestorspodcast.com/sponsors">⁠⁠⁠⁠<strong>sponsors⁠⁠⁠</strong>⁠</a>:</p>
+<ul>
+  <li>
+<strong></strong><a href="https://plus500.com/">⁠⁠⁠<strong>Plus500</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://netsuite.com/study">⁠⁠⁠<strong>Netsuite</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://www.vanta.com/BILLIONAIRES">⁠⁠⁠<strong>Vanta</strong>⁠⁠⁠</a><strong></strong>
+</li>
+  <li>
+<strong></strong><a href="https://www.shopify.com/wsb">⁠⁠⁠<strong>Shopify</strong></a>
+</li>
+</ul>
+<p><em>References to any third-party products, services, or advertisers do not constitute endorsements, and The Investor’s Podcast Network is not responsible for any claims made by them.</em></p><p>Support our show by becoming a premium member! <a href="https://theinvestorspodcastnetwork.supportingcast.fm">https://theinvestorspodcastnetwork.supportingcast.fm</a></p><p> </p><p>Learn more about your ad choices. Visit <a href="https://megaphone.fm/adchoices">megaphone.fm/adchoices</a></p><p>Support our show by becoming a premium member! <a href="https://theinvestorspodcastnetwork.supportingcast.fm">https://theinvestorspodcastnetwork.supportingcast.fm</a></p>]]></description>
+</item>
+</channel>
+</rss>

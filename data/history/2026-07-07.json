@@ -1,0 +1,99 @@
+{
+ "date": "2026-07-07",
+ "signals": [
+  {
+   "trend": "Uranium-enrichment chokepoint goes commercial",
+   "ticker": "LEU",
+   "company": "Centrus Energy Corp.",
+   "exchange": "NYSE",
+   "mcap": "~$4B",
+   "method": "company PR + NYSE quote",
+   "why": "A signed $900M DOE task order plus S&P SmallCap 600 inclusion cement Centrus as the only US-technology HALEU enrichment route for next-gen reactors \u2014 an absolute Western supply chokepoint.",
+   "evidence": "Set to join the S&P SmallCap 600 effective July 14, a week after signing the $900M DOE HALEU contract (final 900 kg of demo HALEU completed two weeks early); short interest 23.3% of float.",
+   "score": 90,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "PR Newswire",
+     "title": "Centrus Energy Invited to Join S&P SmallCap 600 Index",
+     "url": "https://www.prnewswire.com/news-releases/centrus-energy-invited-to-join-sp-smallcap-600-index-302819361.html"
+    },
+    {
+     "type": "news",
+     "name": "PR Newswire",
+     "title": "Centrus Signs $900 Million DOE Contract; HALEU Cascade to Commercial Operation",
+     "url": "https://www.prnewswire.com/news-releases/centrus-signs-contract-with-department-of-energy-for-900-million-award-intends-to-transition-haleu-production-cascade-to-commercial-operation-302816385.html"
+    }
+   ],
+   "first_seen": "2026-07-07"
+  },
+  {
+   "trend": "Index-flow mechanics: SpaceX fast-tracked into the Nasdaq-100",
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp.",
+   "exchange": "NASDAQ",
+   "mcap": "megacap (flow signal)",
+   "method": "quote pages + index announcement",
+   "why": "SpaceX entering the Nasdaq-100 on its 15th trading day under new fast-track rules forces ~$4.3B of passive buying and sets precedent \u2014 index-flow mechanics now matter for every future mega-IPO.",
+   "evidence": "Joined the Nasdaq-100 effective July 7 as the first stock added under fast-track entry rules; J.P. Morgan estimated ~$4.3 billion of passive buying into SPCX.",
+   "score": 72,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "CNBC",
+     "title": "SpaceX joins the Nasdaq-100 on Tuesday",
+     "url": "https://www.cnbc.com/2026/07/06/spacex-joins-the-nasdaq-100-on-tuesday-what-it-means-for-the-stock.html"
+    },
+    {
+     "type": "news",
+     "name": "Seeking Alpha",
+     "title": "SpaceX to join Nasdaq-100, effective July 7, 2026",
+     "url": "https://seekingalpha.com/news/4607865-spacex-to-join-nasdaq-100-effective-july-7-2026"
+    },
+    {
+     "type": "news",
+     "name": "Animal Spirits (podcast)",
+     "title": "Talk Your Book: How SpaceX Got Into the Nasdaq 100",
+     "url": "https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007"
+    }
+   ],
+   "first_seen": "2026-07-07"
+  },
+  {
+   "trend": "Embodied-AI micro-cap wins cross-domain AFRL award",
+   "ticker": "PDYN",
+   "company": "Palladyne AI Corp.",
+   "exchange": "NASDAQ",
+   "mcap": "~$300M",
+   "method": "company PR + NASDAQ quote",
+   "why": "A $4.2M AFRL 'HANGTIME' award extending SwarmOS from drones to satellites is small in dollars but strategically re-rates a sub-$350M former Sarcos shell as cross-domain autonomy software.",
+   "evidence": "Palladyne AI executes $4.2 million U.S. Air Force contract to advance swarming capabilities \u2014 the HANGTIME project extends its technology from the ground to orbit.",
+   "score": 63,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Business Wire",
+     "title": "Palladyne AI Executes $4.2 Million U.S. Air Force Contract",
+     "url": "https://www.businesswire.com/news/home/20260707570206/en/Palladyne-AI-Executes-$4.2-Million-U.S.-Air-Force-Contract-to-Advance-Swarming-Capabilities-for-Integrated-Cross-Domain-Operations"
+    },
+    {
+     "type": "news",
+     "name": "Investing.com",
+     "title": "Palladyne AI, Cloudflare rise premarket",
+     "url": "https://www.investing.com/news/stock-market-news/palladyne-ai-cloudflare-rise-premarket-nvidia-slips-4778932"
+    }
+   ],
+   "first_seen": "2026-07-07"
+  }
+ ],
+ "watchlist": [],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

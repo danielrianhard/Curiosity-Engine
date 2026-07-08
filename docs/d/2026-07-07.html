@@ -1,0 +1,190 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Engine — 2026-07-07 · Thames Capital Management</title>
+<style>
+  /* Thames Capital Management house palette */
+  :root {
+    --deep:#4A1A6B; --mid:#69398D; --band1:#2D0F4D; --band2:#6D2EA3;
+    --gold:#C5A421; --green:#1E8050; --red:#B3261E; --teal:#1F6F6B;
+    --zebra:#F6F4F9; --ink:#1F1F1F; --gray:#6B6B6B; --line:#E3DEEC;
+    --signal-bd:#278050; --signal-bg:#EFF5F1;
+    --tan-bd:#C9B27A; --tan-bg:#FBF7EC; --tan-hd:#9A7B12;
+    --teal-bg:#EAF4F3;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#F2EFF6; color:var(--ink);
+         font:15.5px/1.6 Georgia,"Times New Roman",serif; }
+  .sans { font-family:Arial,"Helvetica Neue",Helvetica,sans-serif; }
+
+  /* Masthead band */
+  .band { background:linear-gradient(135deg,var(--band1),var(--band2));
+          border-bottom:4px solid var(--gold); padding:34px 0 26px; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 22px; }
+  .eyebrow { font:700 11.5px/1 Arial,sans-serif; letter-spacing:.22em;
+             color:var(--gold); text-transform:uppercase; }
+  .eyebrow span { color:#CBB8E4; }
+  .band h1 { margin:12px 0 4px; color:#fff; font:700 30px/1.1 Arial,sans-serif;
+             letter-spacing:-.01em; }
+  .band .sub { color:#CBB8E4; font:13px/1.5 Arial,sans-serif; margin:0; }
+
+  /* Day navigation */
+  .navbar { background:#fff; border-bottom:1px solid var(--line); }
+  .navrow { display:flex; align-items:center; gap:8px; padding:10px 0; overflow-x:auto; }
+  .navrow a.arrow { font:700 14px/1 Arial,sans-serif; color:var(--deep);
+                    text-decoration:none; padding:7px 11px; border:1px solid var(--line);
+                    border-radius:6px; white-space:nowrap; }
+  .navrow a.arrow.off { opacity:.3; pointer-events:none; }
+  .chips { display:flex; gap:6px; }
+  .chip { font:600 12px/1 Arial,sans-serif; text-decoration:none; color:var(--mid);
+          padding:7px 10px; border-radius:6px; border:1px solid var(--line);
+          white-space:nowrap; background:#fff; }
+  .chip.cur { background:var(--deep); color:#fff; border-color:var(--deep); }
+  .chip:hover { border-color:var(--mid); }
+
+  main { padding:26px 0 40px; }
+  .dateline { font:700 12px/1 Arial,sans-serif; letter-spacing:.18em; color:var(--gray);
+              text-transform:uppercase; margin:2px 0 16px; }
+  .dateline b { color:var(--deep); }
+
+  /* Signal cards */
+  .card { background:#fff; border:1px solid var(--line); border-left:5px solid var(--deep);
+          border-radius:8px; padding:18px 22px 15px; margin-bottom:16px;
+          box-shadow:0 1px 3px rgba(45,15,77,.06); }
+  .row1 { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .trend { font:700 17px/1.3 Arial,sans-serif; color:var(--deep); }
+  .ticker { font:700 12.5px/1 Arial,sans-serif; background:var(--deep); color:var(--gold);
+            border-radius:4px; padding:5px 8px; letter-spacing:.04em; }
+  .badge { font:700 10px/1 Arial,sans-serif; text-transform:uppercase;
+           letter-spacing:.09em; border-radius:4px; padding:4px 8px; }
+  .badge.new { background:var(--signal-bg); color:var(--signal-bd); border:1px solid var(--signal-bd); }
+  .badge.accelerating { background:var(--tan-bg); color:var(--tan-hd); border:1px solid var(--tan-bd); }
+  .badge.repeat { background:var(--zebra); color:var(--gray); border:1px solid var(--line); }
+  .badge.watch { background:var(--teal-bg); color:var(--teal); border:1px solid var(--teal); }
+  .strength { margin-left:auto; font:600 11px/1 Arial,sans-serif; color:var(--gray);
+              white-space:nowrap; }
+  .bar { display:inline-block; width:76px; height:7px; background:#EAE5F1;
+         border-radius:3px; vertical-align:-1px; margin-left:7px; overflow:hidden; }
+  .bar i { display:block; height:100%; background:linear-gradient(90deg,var(--gold),#E0C34A); }
+  .meta { font:11.5px/1.5 Arial,sans-serif; color:var(--gray); margin-top:5px; }
+  .why { margin:10px 0 4px; }
+  .quote { color:#3D3D3D; font-size:14px; font-style:italic;
+           border-left:3px solid var(--mid); padding:2px 0 2px 12px; margin:10px 0; }
+  .srcs { font:12.5px/1.7 Arial,sans-serif; color:var(--gray); margin-top:8px;
+          border-top:1px solid var(--zebra); padding-top:8px; }
+  .srcs a { color:var(--mid); text-decoration:none; }
+  .srcs a:hover { text-decoration:underline; color:var(--deep); }
+  .srcs .lbl { font-weight:700; text-transform:uppercase; font-size:10px;
+               letter-spacing:.1em; margin-right:6px; }
+
+  h2.sect { font:700 13px/1 Arial,sans-serif; letter-spacing:.16em; color:var(--deep);
+            text-transform:uppercase; margin:32px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sect::before { content:""; width:12px; height:12px; background:var(--deep); }
+  .card.watch { border-left-color:var(--teal); }
+  .empty { background:var(--tan-bg); border:1px solid var(--tan-bd); border-radius:8px;
+           padding:16px 20px; font-style:italic; }
+
+  footer { margin-top:36px; border-top:1px solid var(--line); padding-top:14px;
+           font:italic 11.5px/1.7 Georgia,serif; color:var(--gray); }
+  .status-ok { color:var(--green); font-style:normal; }
+  .status-fail { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="eyebrow">Thames Capital Management <span>· The Curiosity Engine</span></div>
+    <h1>Daily Emerging-Trend Signals</h1>
+    <p class="sub">Podcasts · app-store charts · news flow · SEC filings — distilled to the few names worth an analyst's attention. Every ticker verified; every claim sourced.</p>
+  </div>
+</div>
+
+<div class="navbar"><div class="wrap"><div class="navrow sans">
+  <a class="arrow" href="2026-07-06.html">‹ 07-06</a>
+  
+  <div class="chips">
+    
+    <a class="chip " href="2026-07-02.html">07-02</a>
+    
+    <a class="chip " href="2026-07-03.html">07-03</a>
+    
+    <a class="chip " href="2026-07-04.html">07-04</a>
+    
+    <a class="chip " href="2026-07-05.html">07-05</a>
+    
+    <a class="chip " href="2026-07-06.html">07-06</a>
+    
+    <a class="chip cur" href="2026-07-07.html">07-07</a>
+    
+    <a class="chip " href="2026-07-08.html">07-08</a>
+    
+  </div>
+  <a class="arrow" href="2026-07-08.html">07-08 ›</a>
+  
+</div></div></div>
+
+<main><div class="wrap">
+  <div class="dateline">Report · <b>Tuesday, July 7, 2026</b></div>
+
+  
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Uranium-enrichment chokepoint goes commercial</span>
+      <span class="ticker">LEU</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 90<span class="bar"><i style="width:90%"></i></span></span>
+    </div>
+    <div class="meta">Centrus Energy Corp. · NYSE · mkt cap ~$4B · ticker verified: company PR + NYSE quote</div>
+    <p class="why">A signed $900M DOE task order plus S&amp;P SmallCap 600 inclusion cement Centrus as the only US-technology HALEU enrichment route for next-gen reactors — an absolute Western supply chokepoint.</p>
+    <div class="quote">“Set to join the S&amp;P SmallCap 600 effective July 14, a week after signing the $900M DOE HALEU contract (final 900 kg of demo HALEU completed two weeks early); short interest 23.3% of float.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.prnewswire.com/news-releases/centrus-energy-invited-to-join-sp-smallcap-600-index-302819361.html" target="_blank" rel="noopener">PR Newswire: Centrus Energy Invited to Join S&amp;P SmallCap 600 Index</a> · <a href="https://www.prnewswire.com/news-releases/centrus-signs-contract-with-department-of-energy-for-900-million-award-intends-to-transition-haleu-production-cascade-to-commercial-operation-302816385.html" target="_blank" rel="noopener">PR Newswire: Centrus Signs $900 Million DOE Contract; HALEU Cascade to...</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Index-flow mechanics: SpaceX fast-tracked into the Nasdaq-100</span>
+      <span class="ticker">SPCX</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 72<span class="bar"><i style="width:72%"></i></span></span>
+    </div>
+    <div class="meta">Space Exploration Technologies Corp. · NASDAQ · mkt cap megacap (flow signal) · ticker verified: quote pages + index announcement</div>
+    <p class="why">SpaceX entering the Nasdaq-100 on its 15th trading day under new fast-track rules forces ~$4.3B of passive buying and sets precedent — index-flow mechanics now matter for every future mega-IPO.</p>
+    <div class="quote">“Joined the Nasdaq-100 effective July 7 as the first stock added under fast-track entry rules; J.P. Morgan estimated ~$4.3 billion of passive buying into SPCX.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.cnbc.com/2026/07/06/spacex-joins-the-nasdaq-100-on-tuesday-what-it-means-for-the-stock.html" target="_blank" rel="noopener">CNBC: SpaceX joins the Nasdaq-100 on Tuesday</a> · <a href="https://seekingalpha.com/news/4607865-spacex-to-join-nasdaq-100-effective-july-7-2026" target="_blank" rel="noopener">Seeking Alpha: SpaceX to join Nasdaq-100, effective July 7, 2026</a> · <a href="https://podcasts.apple.com/us/podcast/animal-spirits-podcast/id1310192007" target="_blank" rel="noopener">Animal Spirits (podcast): Talk Your Book: How SpaceX Got Into the Nasdaq 100</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Embodied-AI micro-cap wins cross-domain AFRL award</span>
+      <span class="ticker">PDYN</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 63<span class="bar"><i style="width:63%"></i></span></span>
+    </div>
+    <div class="meta">Palladyne AI Corp. · NASDAQ · mkt cap ~$300M · ticker verified: company PR + NASDAQ quote</div>
+    <p class="why">A $4.2M AFRL &#39;HANGTIME&#39; award extending SwarmOS from drones to satellites is small in dollars but strategically re-rates a sub-$350M former Sarcos shell as cross-domain autonomy software.</p>
+    <div class="quote">“Palladyne AI executes $4.2 million U.S. Air Force contract to advance swarming capabilities — the HANGTIME project extends its technology from the ground to orbit.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.businesswire.com/news/home/20260707570206/en/Palladyne-AI-Executes-$4.2-Million-U.S.-Air-Force-Contract-to-Advance-Swarming-Capabilities-for-Integrated-Cross-Domain-Operations" target="_blank" rel="noopener">Business Wire: Palladyne AI Executes $4.2 Million U.S. Air Force Contract</a> · <a href="https://www.investing.com/news/stock-market-news/palladyne-ai-cloudflare-rise-premarket-nvidia-slips-4778932" target="_blank" rel="noopener">Investing.com: Palladyne AI, Cloudflare rise premarket</a>
+    </div>
+  </div>
+  
+  
+
+  
+
+  <footer>
+    Retrospective report — reconstructed on 2026-07-08 from that day&#39;s public sources (analyst-grade backfill; live daily runs are fully automated) · Generated 2026-07-08 20:51 UTC · extraction: analyst backfill
+    
+    <br>Automated research aid for Thames Capital Management — not investment advice. Signals are screening leads; verify at the primary source before acting.
+  </footer>
+</div></main>
+</body>
+</html>

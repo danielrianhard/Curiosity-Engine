@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>&quot;app downloads surge chart&quot; - Google News</title>
+<link>https://news.google.com/search?q=app+downloads+surge+chart&amp;hl=en-US&amp;gl=US&amp;ceid=US:en</link>
+<description><![CDATA[Google News]]></description>
+<item>
+<title><![CDATA[Trump Accounts App Downloads Surge. Here’s Who’s Eligible - Newsweek]]></title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0NrWmFSejNBeVFoRlhwT2NobTI3WU5HcTh2bUdQeEkzdElWak5sRTBlRGpoRk9aeEExZkFBbjZMb2pkVzh3UnNOd2RzYmpoMEdRVmNVLXA2aVBqV1ZIZHg4YjVzVEZ4RTcxXzVKREdOel94VHRvZlJCdVEydlFJWi1sV0J0b2k5M3ROWTNZTFp2QQ?oc=5</link>
+<pubDate>Fri, 29 May 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQU0NrWmFSejNBeVFoRlhwT2NobTI3WU5HcTh2bUdQeEkzdElWak5sRTBlRGpoRk9aeEExZkFBbjZMb2pkVzh3UnNOd2RzYmpoMEdRVmNVLXA2aVBqV1ZIZHg4YjVzVEZ4RTcxXzVKREdOel94VHRvZlJCdVEydlFJWi1sV0J0b2k5M3ROWTNZTFp2QQ?oc=5" target="_blank">Trump Accounts App Downloads Surge. Here’s Who’s Eligible</a>&nbsp;&nbsp;<font color="#6f6f6f">Newsweek</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Disguised Russian banking app surged to top three on the US App Store - 9to5Mac]]></title>
+<link>https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5</link>
+<pubDate>Fri, 05 Jun 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiowFBVV95cUxNSlFPQ2hXejB4Vi1iWWE3TWNEU2hFWHlic2FtNElPY2xqSU9jeWxwdThSUTAtd2swdEtuQTlJTVAwSnpmODhPZnNkYk01d00yamRuUkpXY09VOG94SUR6YlFDQWVhSExtMkt6Q1RCdGV2SDZWZ0xCcU1FM0VHNVJObk90MzR5cDd0VmRFZW5ZVVRwNHZIMlVRTjc1VW9xU3NzaVJB?oc=5" target="_blank">Disguised Russian banking app surged to top three on the US App Store</a>&nbsp;&nbsp;<font color="#6f6f6f">9to5Mac</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Meta AI app downloads on App Store surge after Muse Spark AI model: ST - Seeking Alpha]]></title>
+<link>https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnQ5SF9sZjhZck5YYkxVQU5sUjljMjJvU053VEVlQ19aNXduT296UTFIMGh4UE56QXFDaUtWMi03ejkxSGFKVU05TTdnellOR1RnTFFXYjA5cVVVQXhFUW1ia29tajF5WENCX3FzNHdtd2phbmZIeE50M3RnSUpJbG9HMTNWOHRfTXZlZHliSEVyR29hX2ZDdHRyOU1CRERUa1JNejJxQkVWWE0?oc=5</link>
+<pubDate>Fri, 10 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWnQ5SF9sZjhZck5YYkxVQU5sUjljMjJvU053VEVlQ19aNXduT296UTFIMGh4UE56QXFDaUtWMi03ejkxSGFKVU05TTdnellOR1RnTFFXYjA5cVVVQXhFUW1ia29tajF5WENCX3FzNHdtd2phbmZIeE50M3RnSUpJbG9HMTNWOHRfTXZlZHliSEVyR29hX2ZDdHRyOU1CRERUa1JNejJxQkVWWE0?oc=5" target="_blank">Meta AI app downloads on App Store surge after Muse Spark AI model: ST</a>&nbsp;&nbsp;<font color="#6f6f6f">Seeking Alpha</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Anthropic's Claude hits No. 1 on Apple's top free apps list after Pentagon rejection - CNBC]]></title>
+<link>https://news.google.com/rss/articles/CBMic0FVX3lxTE5DSlpqTkpyRmk2R2N0UnlmQmNoVWQxZ3dpSVppZGtFUnFJWFI0Mk1fdHFOV0RDb2tMcm1JYjl6a0k1Rno0OTVfbzIyaXk2ZXp0OW1HektiN3YyTTRsOXZhQlFJNjEyVG83OFo1TzdoaThKRWvSAXhBVV95cUxOSV82VU1scmRUbWlrNVJfc3k2X1I5MG9JY25YTkNJMmNHVjEwR21NNldpNGlXck4yQmFrSkNZZEFSR1o2YnNBaFJ1VXNPWkxpdEc3SDlaaWNPRk5xRjhwZFFkZXFaR1J5aF9YSkd0QkJKaUhnZUstdTk?oc=5</link>
+<pubDate>Sat, 28 Feb 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMic0FVX3lxTE5DSlpqTkpyRmk2R2N0UnlmQmNoVWQxZ3dpSVppZGtFUnFJWFI0Mk1fdHFOV0RDb2tMcm1JYjl6a0k1Rno0OTVfbzIyaXk2ZXp0OW1HektiN3YyTTRsOXZhQlFJNjEyVG83OFo1TzdoaThKRWvSAXhBVV95cUxOSV82VU1scmRUbWlrNVJfc3k2X1I5MG9JY25YTkNJMmNHVjEwR21NNldpNGlXck4yQmFrSkNZZEFSR1o2YnNBaFJ1VXNPWkxpdEc3SDlaaWNPRk5xRjhwZFFkZXFaR1J5aF9YSkd0QkJKaUhnZUstdTk?oc=5" target="_blank">Anthropic's Claude hits No. 1 on Apple's top free apps list after Pentagon rejection</a>&nbsp;&nbsp;<font color="#6f6f6f">CNBC</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Mainland's Amap downloads surge in Taiwan region after DPP authorities float possible ban, sparking 'reverse promotion' mockery among netizens - Global Times]]></title>
+<link>https://news.google.com/rss/articles/CBMiYkFVX3lxTE95SFBINmRDUlpOcEhsSDNZWWVYMGdhN1VNb3hUMGVveEJVcGVUQVFDb1BGc2RDNkZyV2hHa0hXT0RNeEQ1VHNBaUFIbVVLaFRUYkkyYzU2N1BPZ3lvX25pTGZR?oc=5</link>
+<pubDate>Fri, 24 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE95SFBINmRDUlpOcEhsSDNZWWVYMGdhN1VNb3hUMGVveEJVcGVUQVFDb1BGc2RDNkZyV2hHa0hXT0RNeEQ1VHNBaUFIbVVLaFRUYkkyYzU2N1BPZ3lvX25pTGZR?oc=5" target="_blank">Mainland's Amap downloads surge in Taiwan region after DPP authorities float possible ban, sparking 'reverse promotion' mockery among netizens</a>&nbsp;&nbsp;<font color="#6f6f6f">Global Times</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Netflix’s virtual game controller app just topped the iOS U.S. app chart - Game File | Stephen Totilo]]></title>
+<link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9Jb2J3bXp4SUJwQzd4ci04SUx4U2dKV1JJd0cxMG93d1J2Y05LZ25ZUmhxaDJYNkdZWXRoS0hYTWJPWFl2UzZsX2JLY1ZVeUZZNEVGNm4wU1haSUR4NGJodUlRbkR3SlZCNWtOcTlsTnNXRDFxMnc?oc=5</link>
+<pubDate>Wed, 08 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9Jb2J3bXp4SUJwQzd4ci04SUx4U2dKV1JJd0cxMG93d1J2Y05LZ25ZUmhxaDJYNkdZWXRoS0hYTWJPWFl2UzZsX2JLY1ZVeUZZNEVGNm4wU1haSUR4NGJodUlRbkR3SlZCNWtOcTlsTnNXRDFxMnc?oc=5" target="_blank">Netflix’s virtual game controller app just topped the iOS U.S. app chart</a>&nbsp;&nbsp;<font color="#6f6f6f">Game File | Stephen Totilo</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Anthropic's Claude grabs top spot in App Store after Trump's ban - Engadget]]></title>
+<link>https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWRZb0djSm5uYzJDd29Sb3lpVFhGN3NQTDBCY0szTHplbVMxcm5hcENFdTQwb1UwbGxVM0k0MG9PcVJiYkRFcXV0eHBtNTM4bmJtdVBTREVaZm81ZEd5NE1WM0stdVVSTENQYnJQQWg2RFRTZ2J4SHVyMjY3Mk90d29ZYWl0MHZJOVNJUTZiS1ZsNUJINXNsY2Nld0VOU0NHYUtyVlg1OV9IcjlfNTJzbw?oc=5</link>
+<pubDate>Sun, 01 Mar 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxQVWRZb0djSm5uYzJDd29Sb3lpVFhGN3NQTDBCY0szTHplbVMxcm5hcENFdTQwb1UwbGxVM0k0MG9PcVJiYkRFcXV0eHBtNTM4bmJtdVBTREVaZm81ZEd5NE1WM0stdVVSTENQYnJQQWg2RFRTZ2J4SHVyMjY3Mk90d29ZYWl0MHZJOVNJUTZiS1ZsNUJINXNsY2Nld0VOU0NHYUtyVlg1OV9IcjlfNTJzbw?oc=5" target="_blank">Anthropic's Claude grabs top spot in App Store after Trump's ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Engadget</font>]]></description>
+</item>
+<item>
+<title><![CDATA[A Netflix accessory app keeps hitting No. 1 in the App Store, beating out ChatGPT - Business Insider]]></title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjRfQktiX3JIby1lRW5OX3Jza2NiNVAxbmgtYkdGXzU0QTZQVnBCdXJGdDY3TWRrLXp6WDg2VXlYVHRHaTFaUERpQW40bU9FbWJ5LUFQUVplV3BodUZaZFgyVHNyUEFsOWpacWl0c3J1anB5cktVNklIUXM0MzliRFRlMUwxcHJxV01wWDJnNzVpRWJzYUE?oc=5</link>
+<pubDate>Mon, 13 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjRfQktiX3JIby1lRW5OX3Jza2NiNVAxbmgtYkdGXzU0QTZQVnBCdXJGdDY3TWRrLXp6WDg2VXlYVHRHaTFaUERpQW40bU9FbWJ5LUFQUVplV3BodUZaZFgyVHNyUEFsOWpacWl0c3J1anB5cktVNklIUXM0MzliRFRlMUwxcHJxV01wWDJnNzVpRWJzYUE?oc=5" target="_blank">A Netflix accessory app keeps hitting No. 1 in the App Store, beating out ChatGPT</a>&nbsp;&nbsp;<font color="#6f6f6f">Business Insider</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Claude App Store Surge: How Anthropic’s AI Reached No. 1 After Pentagon Fallout - AppleMagazine - AppleMagazine]]></title>
+<link>https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMXJEeVVrMmQwY1drZ2MyMFIzNGlZcW5nVkg4UnR3czQ3eFctRVBkbk5EOVZ5NUV4UGt3ckJvZjQxdzFCaEpQRkpNSFhCeE5Yd3pvSFpzTGFZY2RWbHfSAWNBVV95cUxPVU1yZmNCUlQ0ejg5dUdGSnI2UDFKZVFKZV9YRkdhQVphTlItSkJrdFBYUjltcTRJbzBJTG1jcnROM2tlMzlEMmI2aEF5c1h4REE5SHg2c0t1YTRaSWM0eFcyOUE?oc=5</link>
+<pubDate>Mon, 02 Mar 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1zMXJEeVVrMmQwY1drZ2MyMFIzNGlZcW5nVkg4UnR3czQ3eFctRVBkbk5EOVZ5NUV4UGt3ckJvZjQxdzFCaEpQRkpNSFhCeE5Yd3pvSFpzTGFZY2RWbHfSAWNBVV95cUxPVU1yZmNCUlQ0ejg5dUdGSnI2UDFKZVFKZV9YRkdhQVphTlItSkJrdFBYUjltcTRJbzBJTG1jcnROM2tlMzlEMmI2aEF5c1h4REE5SHg2c0t1YTRaSWM0eFcyOUE?oc=5" target="_blank">Claude App Store Surge: How Anthropic’s AI Reached No. 1 After Pentagon Fallout - AppleMagazine</a>&nbsp;&nbsp;<font color="#6f6f6f">AppleMagazine</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Apps for boycotting American products surge to the top of the Danish App Store - TechCrunch]]></title>
+<link>https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3g1WGhIeXdyVjhYOFJHUG81cjB4dnBwNENhYkUxd1A3Ql91NGxRTlh1ektaUG1QMVdoZDdINVdodTk5SldfT0NfSTNEamkxZlVvM0tMVFVQekZrNVZBYjAxRkZBSUNVaGxZQk1XbnFsTVdjX0pnYVU3Nkg5Qk5HRk1EbjFYREprTFU3UVAwLTZZMV9iNlhiSmhFbzB1aU4wVjNhUnRfZHFhQlZ2R2hxNmFLOA?oc=5</link>
+<pubDate>Wed, 21 Jan 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxPN3g1WGhIeXdyVjhYOFJHUG81cjB4dnBwNENhYkUxd1A3Ql91NGxRTlh1ektaUG1QMVdoZDdINVdodTk5SldfT0NfSTNEamkxZlVvM0tMVFVQekZrNVZBYjAxRkZBSUNVaGxZQk1XbnFsTVdjX0pnYVU3Nkg5Qk5HRk1EbjFYREprTFU3UVAwLTZZMV9iNlhiSmhFbzB1aU4wVjNhUnRfZHFhQlZ2R2hxNmFLOA?oc=5" target="_blank">Apps for boycotting American products surge to the top of the Danish App Store</a>&nbsp;&nbsp;<font color="#6f6f6f">TechCrunch</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Anthropic’s Claude climbs past ChatGPT in downloads - Digital Watch Observatory]]></title>
+<link>https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xNU9sUFREZmFyY0VsZzdiOXVPWjdPeWNPZld5Y19EUnVMcGhmYWJuU0JxR0N1ZFFwckM2VVVPLUFSNENNMlp3ZHZ6YUpJUEpLNWVlcXdKY0hZdERi?oc=5</link>
+<pubDate>Mon, 02 Mar 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xNU9sUFREZmFyY0VsZzdiOXVPWjdPeWNPZld5Y19EUnVMcGhmYWJuU0JxR0N1ZFFwckM2VVVPLUFSNENNMlp3ZHZ6YUpJUEpLNWVlcXdKY0hZdERi?oc=5" target="_blank">Anthropic’s Claude climbs past ChatGPT in downloads</a>&nbsp;&nbsp;<font color="#6f6f6f">Digital Watch Observatory</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Gemini app surges past ChatGPT in downloads - digitimes]]></title>
+<link>https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXpSbnJLVXljZHJLSFVsY2dWMjdyZnpnNURmY00tMWhuUVJUZ0pJTGphOG92aHpWWldyQnRWRFFOV0JpaXUxR3N1c2xzVnd6N0xJN2xWNzFPbTJQVVRKSEFpOGZpU3NnMkw3X2htNHQ3Y2pGWHR4SmlmRGNoVDRIa09YbmVRMENUUlZ5SWF0eVU4NnFLb1E?oc=5</link>
+<pubDate>Wed, 17 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxOWXpSbnJLVXljZHJLSFVsY2dWMjdyZnpnNURmY00tMWhuUVJUZ0pJTGphOG92aHpWWldyQnRWRFFOV0JpaXUxR3N1c2xzVnd6N0xJN2xWNzFPbTJQVVRKSEFpOGZpU3NnMkw3X2htNHQ3Y2pGWHR4SmlmRGNoVDRIa09YbmVRMENUUlZ5SWF0eVU4NnFLb1E?oc=5" target="_blank">Gemini app surges past ChatGPT in downloads</a>&nbsp;&nbsp;<font color="#6f6f6f">digitimes</font>]]></description>
+</item>
+<item>
+<title><![CDATA[ChatGPT uninstalls spike 295% after OpenAI’s DoD deal; Claude climbs US App Store charts - The Indian Express]]></title>
+<link>https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTh1RS1UZzBfZ0g3ZXgzbnBCbE83ZVptSkd0cmtNWW5LcDkxYzBQeHhMa2lrTlZsZkRtOVV0X0VLZ2JCZ0JGWW1PS3RJeTNQNzBHZHhDa3M5VmI3aWJhZ2JXcG81WDc1d2hLbkxTMDd5aUlSRTljOVVoRFBuWmdabHpDR0ppRHhyRlRibm0xWE41cXFuWFJ3X2cyc20wQWtRY21uZjVNUkprVUVMT2J1Ml9iZnZjT2ZzMF9ncGpMeEZVZ0530gHLAUFVX3lxTE1OUHNYWXRHbE9COWdWcU4zVWF2V3NNbkZjN1BCeGlieWw1R01QSHpPV2xLSEJOcHFSR1BMeFUyVzB6cGgxUWJVV1dKbnhEeFA0NmVfWDByTHp1MnFzdTlvQzhzeVZoX0VWaFNUNEdVSWduVWNlWWsyb05pM0doQVNYNzZULUhIWmR0bmFWYUpYTTk5a0Faa3JkaVpxbWxyM29IaklZalZ0VXVFS1dGalhJaUowYU9FTHduQkpZQ1ZWM1M3eXVZR09ySmow?oc=5</link>
+<pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPZTh1RS1UZzBfZ0g3ZXgzbnBCbE83ZVptSkd0cmtNWW5LcDkxYzBQeHhMa2lrTlZsZkRtOVV0X0VLZ2JCZ0JGWW1PS3RJeTNQNzBHZHhDa3M5VmI3aWJhZ2JXcG81WDc1d2hLbkxTMDd5aUlSRTljOVVoRFBuWmdabHpDR0ppRHhyRlRibm0xWE41cXFuWFJ3X2cyc20wQWtRY21uZjVNUkprVUVMT2J1Ml9iZnZjT2ZzMF9ncGpMeEZVZ0530gHLAUFVX3lxTE1OUHNYWXRHbE9COWdWcU4zVWF2V3NNbkZjN1BCeGlieWw1R01QSHpPV2xLSEJOcHFSR1BMeFUyVzB6cGgxUWJVV1dKbnhEeFA0NmVfWDByTHp1MnFzdTlvQzhzeVZoX0VWaFNUNEdVSWduVWNlWWsyb05pM0doQVNYNzZULUhIWmR0bmFWYUpYTTk5a0Faa3JkaVpxbWxyM29IaklZalZ0VXVFS1dGalhJaUowYU9FTHduQkpZQ1ZWM1M3eXVZR09ySmow?oc=5" target="_blank">ChatGPT uninstalls spike 295% after OpenAI’s DoD deal; Claude climbs US App Store charts</a>&nbsp;&nbsp;<font color="#6f6f6f">The Indian Express</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Netflix app downloads surge on BTS livestream concert in Seoul - Yonhap News Agency]]></title>
+<link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTUl5SkVpdGlVbkFaSmFZYlQ5NWFqXzNIWVhGR281VERrMHhxNm5fWXk5dTFRNXRrMW5UXzhxeUN0RTZ0V1p4NzF1VVJMNEdlRXZSeDYwTU1aUQ?oc=5</link>
+<pubDate>Wed, 01 Apr 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rTUl5SkVpdGlVbkFaSmFZYlQ5NWFqXzNIWVhGR281VERrMHhxNm5fWXk5dTFRNXRrMW5UXzhxeUN0RTZ0V1p4NzF1VVJMNEdlRXZSeDYwTU1aUQ?oc=5" target="_blank">Netflix app downloads surge on BTS livestream concert in Seoul</a>&nbsp;&nbsp;<font color="#6f6f6f">Yonhap News Agency</font>]]></description>
+</item>
+<item>
+<title><![CDATA[ChatGPT Uninstalls Surge 295% After Pentagon Deal as Claude Climbs App Charts - Analytics India Magazine]]></title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDk5S1VpWGJHV0lERGszTzBsWjA2aFJzTl81WDN4Q0xiUzlvVGhuWVhiUzBxZnk5UFJIQ3dyQXdnZGM5M2sxNUJuV09JcmN4WGVzNHVrR1lUbWZXNTcycW83RXpLV0pWQllIUThBOERkOTNIRjFTdXQ3LUdkV21kb25FWW5EMkJUQkVDOXE0SHFScjVIV29pNS1zSloyNklVVm5hOHVzQTVLRGdWWDd2RXRVQmU?oc=5</link>
+<pubDate>Tue, 03 Mar 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxNcDk5S1VpWGJHV0lERGszTzBsWjA2aFJzTl81WDN4Q0xiUzlvVGhuWVhiUzBxZnk5UFJIQ3dyQXdnZGM5M2sxNUJuV09JcmN4WGVzNHVrR1lUbWZXNTcycW83RXpLV0pWQllIUThBOERkOTNIRjFTdXQ3LUdkV21kb25FWW5EMkJUQkVDOXE0SHFScjVIV29pNS1zSloyNklVVm5hOHVzQTVLRGdWWDd2RXRVQmU?oc=5" target="_blank">ChatGPT Uninstalls Surge 295% After Pentagon Deal as Claude Climbs App Charts</a>&nbsp;&nbsp;<font color="#6f6f6f">Analytics India Magazine</font>]]></description>
+</item>
+<item>
+<title><![CDATA[TikTok Revenue Surges, ChatGPT Leads Installs, Streaming Platforms Expand Earnings as August App Rankings Stabilize - Digital Information World]]></title>
+<link>https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkYtZGNoc0s2YkNDd2tPdmUxdmctRXlYRjJUUkpNYXdFcEEwcUN5ckliRUtsaVdCcnBvUkZDbHpGdkx2dWxzZlhWa3dZdjJ2b3FDdnlhXzNXb2RIODZLeFhJeUNfckJrRUI2bk1JNTdnSUZiMnctMllGbFlxTWZCQ1FZS08xWVFxamY2TVV3eUllUQ?oc=5</link>
+<pubDate>Wed, 10 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxOVkYtZGNoc0s2YkNDd2tPdmUxdmctRXlYRjJUUkpNYXdFcEEwcUN5ckliRUtsaVdCcnBvUkZDbHpGdkx2dWxzZlhWa3dZdjJ2b3FDdnlhXzNXb2RIODZLeFhJeUNfckJrRUI2bk1JNTdnSUZiMnctMllGbFlxTWZCQ1FZS08xWVFxamY2TVV3eUllUQ?oc=5" target="_blank">TikTok Revenue Surges, ChatGPT Leads Installs, Streaming Platforms Expand Earnings as August App Rankings Stabilize</a>&nbsp;&nbsp;<font color="#6f6f6f">Digital Information World</font>]]></description>
+</item>
+<item>
+<title><![CDATA[In wake of Greenland dispute, anti-U.S. shopping apps climb Denmark’s App Store charts - 9to5Mac]]></title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZoZ0dHOUZqX0M0ZlhVTHN4aEhGLTZId3EzcWRqa0hqVjc3X2RxMEZ3UFl5ZXpVODFPT19Rb0hlSXZYblh2R0NMSWRJTDNWSkVwOXJWWnFzclBLWEVwNW1uMmNielZqN3RMQmk3aUxRU2xtVHl1eG1YNmEyR0J1RHp5VGlhY25keHB0MUtfS0VVY2VzV3RCSWtRS2ZSOFFUZWNwWERlRmxiajRUekZVZktSYzVMQQ?oc=5</link>
+<pubDate>Wed, 21 Jan 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxNT3ZoZ0dHOUZqX0M0ZlhVTHN4aEhGLTZId3EzcWRqa0hqVjc3X2RxMEZ3UFl5ZXpVODFPT19Rb0hlSXZYblh2R0NMSWRJTDNWSkVwOXJWWnFzclBLWEVwNW1uMmNielZqN3RMQmk3aUxRU2xtVHl1eG1YNmEyR0J1RHp5VGlhY25keHB0MUtfS0VVY2VzV3RCSWtRS2ZSOFFUZWNwWERlRmxiajRUekZVZktSYzVMQQ?oc=5" target="_blank">In wake of Greenland dispute, anti-U.S. shopping apps climb Denmark’s App Store charts</a>&nbsp;&nbsp;<font color="#6f6f6f">9to5Mac</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Made-in-India messaging app 'Arattai' tops app store charts, overtakes WhatsApp - The Federal]]></title>
+<link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9yaEVXVGN6eVFZU2w0TlhXNF9IeEJNVGdaTG1oejJZeFowZkdRcWF4VTlwZ0I5cm9sZTBOWXJmdW5GXy1Rc3YtOC1lU1dzNkM0VzN3R1plUXRtQ2V4dmVlUFJRdk1LNzhaNUFHZnJkMWRxeWhYN0NPc2NneDdnbUpBckE1T0wyQ0lNYzhIaGhFTGpCQzZkTXJpV3lLN0RGQm9FT2g4QWkyU0NrV1JpdVlTNmx4SU1Oa2Jr?oc=5</link>
+<pubDate>Sun, 28 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZU9yaEVXVGN6eVFZU2w0TlhXNF9IeEJNVGdaTG1oejJZeFowZkdRcWF4VTlwZ0I5cm9sZTBOWXJmdW5GXy1Rc3YtOC1lU1dzNkM0VzN3R1plUXRtQ2V4dmVlUFJRdk1LNzhaNUFHZnJkMWRxeWhYN0NPc2NneDdnbUpBckE1T0wyQ0lNYzhIaGhFTGpCQzZkTXJpV3lLN0RGQm9FT2g4QWkyU0NrV1JpdVlTNmx4SU1Oa2Jr?oc=5" target="_blank">Made-in-India messaging app 'Arattai' tops app store charts, overtakes WhatsApp</a>&nbsp;&nbsp;<font color="#6f6f6f">The Federal</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Zoho’s Arattai messaging app tops App Stores as downloads surge 100x - The Times of India]]></title>
+<link>https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYU5tOUJLbkFBcWZxdllkN3g0UEkteWNtNUVoRWNQMHo4RTRPdVJRMUhnN1JKY01KVkRvUEFmVlV6TzgwOU5OSUFLc1JIUUxRMTFRVHBVc0VCUkl3Nk9rUHJfWUlCQVFMQjhteFpnRnRyd0Y2U3NpV1JSbkY3clUxY1JXZklBalBfbE03OGZDWE1iUU9jTGUyR29WWFhYUXZQUlp3QkhldGk2RXVxQ0tkRjZsU0pZcEU1RUtZaXFZSmZxX1NFR0VJTjE3VUNQM1dKUmplYWFza19raEN2cVdnXzFFTXLSAeoBQVVfeXFMT0tiLXRVWkxLUzg5bWN6VTVuX2FOcnZYZWpNRkVDbm1oRXRCVmVNNHQ5czUwVnRxUkRkZDRkb0F1Z1E3RV9vTFM2amxEcktXZVlVdy1MR0ZzV0FKQ3pPaTJFVnEweGhOX2c2OVRCZE9PWnBXVjM4NUx5VWx1TnFvUUtFcE9XVWJZc3NHWi1JMUY3Mk5ZV0J1TDF1WFFvSzVvUVFERm1QcVB1Vjd4Z1FiNEJ3eGZ5alFHV212WjJ6TjBpY3BhLUkzdjhCM0prTUUwZ1huNmZVc1RYdTVkeWFoazBRZUx3RHh0N1hR?oc=5</link>
+<pubDate>Tue, 30 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYU5tOUJLbkFBcWZxdllkN3g0UEkteWNtNUVoRWNQMHo4RTRPdVJRMUhnN1JKY01KVkRvUEFmVlV6TzgwOU5OSUFLc1JIUUxRMTFRVHBVc0VCUkl3Nk9rUHJfWUlCQVFMQjhteFpnRnRyd0Y2U3NpV1JSbkY3clUxY1JXZklBalBfbE03OGZDWE1iUU9jTGUyR29WWFhYUXZQUlp3QkhldGk2RXVxQ0tkRjZsU0pZcEU1RUtZaXFZSmZxX1NFR0VJTjE3VUNQM1dKUmplYWFza19raEN2cVdnXzFFTXLSAeoBQVVfeXFMT0tiLXRVWkxLUzg5bWN6VTVuX2FOcnZYZWpNRkVDbm1oRXRCVmVNNHQ5czUwVnRxUkRkZDRkb0F1Z1E3RV9vTFM2amxEcktXZVlVdy1MR0ZzV0FKQ3pPaTJFVnEweGhOX2c2OVRCZE9PWnBXVjM4NUx5VWx1TnFvUUtFcE9XVWJZc3NHWi1JMUY3Mk5ZV0J1TDF1WFFvSzVvUVFERm1QcVB1Vjd4Z1FiNEJ3eGZ5alFHV212WjJ6TjBpY3BhLUkzdjhCM0prTUUwZ1huNmZVc1RYdTVkeWFoazBRZUx3RHh0N1hR?oc=5" target="_blank">Zoho’s Arattai messaging app tops App Stores as downloads surge 100x</a>&nbsp;&nbsp;<font color="#6f6f6f">The Times of India</font>]]></description>
+</item>
+<item>
+<title><![CDATA[OpenAI's Sora app surges to number three spot in downloads on App Store - Moneycontrol.com]]></title>
+<link>https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkJqYlFIVnZqeWdUMEFkYWJobTdXd2tNR2ZPbFFvdWJjOGVOZlpBeWZGYlE3MThPMGRTUC1JaDRJdHBrYU95QlpqWmJ2Y0dEYjdMZUNZU01MWnJjemJOZmJQUFJUTHo3dU5SWHlINmM2TXUyRTNmVDBXZHVua2J4YnBJcUxfUTNJRlI4dzRXc3FoRFBMTVd3WDNnaHdCeUoySndRcWdyMlNLdWwybG9xS2NmUjBNM3ZaZmtneERsOVA1WVpwUzVZMnJwb0w2d9IB0wFBVV95cUxQYndTRkhjY0Z4bUhGcnYyU0c2Sl9fejZsdjBQSFhUYkMzX2k1R1hPY1dHdVVieU4yWnFBSjVNQ3B0Q2c5LUN2S1FwdDV4TGNLZGtHRllaTm5RWFBmSi1UbUNMR1JUZEozUko0MVhXQmd6bkFjMnZrTUphM3Bma0hxd2JKNUNCcEFhYjFFU1RQLVYtT3MyMVhMOXJoTGJnZ0NISTlnYzM2bThHRFRiaGtZV2tkQnhQT0ZBWGR4WHUyOXd0MWdRdGQ0djJIblVHbWd5WHA0?oc=5</link>
+<pubDate>Fri, 03 Oct 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPdkJqYlFIVnZqeWdUMEFkYWJobTdXd2tNR2ZPbFFvdWJjOGVOZlpBeWZGYlE3MThPMGRTUC1JaDRJdHBrYU95QlpqWmJ2Y0dEYjdMZUNZU01MWnJjemJOZmJQUFJUTHo3dU5SWHlINmM2TXUyRTNmVDBXZHVua2J4YnBJcUxfUTNJRlI4dzRXc3FoRFBMTVd3WDNnaHdCeUoySndRcWdyMlNLdWwybG9xS2NmUjBNM3ZaZmtneERsOVA1WVpwUzVZMnJwb0w2d9IB0wFBVV95cUxQYndTRkhjY0Z4bUhGcnYyU0c2Sl9fejZsdjBQSFhUYkMzX2k1R1hPY1dHdVVieU4yWnFBSjVNQ3B0Q2c5LUN2S1FwdDV4TGNLZGtHRllaTm5RWFBmSi1UbUNMR1JUZEozUko0MVhXQmd6bkFjMnZrTUphM3Bma0hxd2JKNUNCcEFhYjFFU1RQLVYtT3MyMVhMOXJoTGJnZ0NISTlnYzM2bThHRFRiaGtZV2tkQnhQT0ZBWGR4WHUyOXd0MWdRdGQ0djJIblVHbWd5WHA0?oc=5" target="_blank">OpenAI's Sora app surges to number three spot in downloads on App Store</a>&nbsp;&nbsp;<font color="#6f6f6f">Moneycontrol.com</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Social network UpScrolled sees surge in downloads following TikTok’s US takeover - TechCrunch]]></title>
+<link>https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdmY1FBNU9iWUUwcW9rOEd6OWRTaGo0bnhjcC01Q19BX2FCaDVoVGhJZFBEZTNUZE1NcEZvTzQ5QWZEYzBEWWJlZDR5TlFiSmk5TnB2MHB0NGxZdGhvMGlxTnQ1b3J1VU1XSlRWQUhkQ2hLdGFBM3RuUHpUd2FaWnVDY1J1Zm1iSE5zN0F0TklrVk43TllsR0o0UEp0U2k0ZDBrUkxlenNBcUJhX1gtZG1HbFM?oc=5</link>
+<pubDate>Mon, 26 Jan 2026 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMitAFBVV95cUxQbTdmY1FBNU9iWUUwcW9rOEd6OWRTaGo0bnhjcC01Q19BX2FCaDVoVGhJZFBEZTNUZE1NcEZvTzQ5QWZEYzBEWWJlZDR5TlFiSmk5TnB2MHB0NGxZdGhvMGlxTnQ1b3J1VU1XSlRWQUhkQ2hLdGFBM3RuUHpUd2FaWnVDY1J1Zm1iSE5zN0F0TklrVk43TllsR0o0UEp0U2k0ZDBrUkxlenNBcUJhX1gtZG1HbFM?oc=5" target="_blank">Social network UpScrolled sees surge in downloads following TikTok’s US takeover</a>&nbsp;&nbsp;<font color="#6f6f6f">TechCrunch</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Google Gemini overtakes ChatGPT as most popular app after viral Nano Banana success - The Independent]]></title>
+<link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW5Kbm1OaHhyOU5naVNfVWU2OE5La1dhb18yUVVyS1liQkJ4bkowNDcyR0xBdFJXRlFGUHluVllmeHZDVno2eWNRbzB2ajBIR2Vwb3ZBVFFtN3o4RjRpVGYzSzJBdnhPSkVlWmJpcW53ZEpUNk1nQ0N1a0Z0NW5xM1o1Mllldlo3Tm9zd093?oc=5</link>
+<pubDate>Mon, 15 Sep 2025 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxNUW5Kbm1OaHhyOU5naVNfVWU2OE5La1dhb18yUVVyS1liQkJ4bkowNDcyR0xBdFJXRlFGUHluVllmeHZDVno2eWNRbzB2ajBIR2Vwb3ZBVFFtN3o4RjRpVGYzSzJBdnhPSkVlWmJpcW53ZEpUNk1nQ0N1a0Z0NW5xM1o1Mllldlo3Tm9zd093?oc=5" target="_blank">Google Gemini overtakes ChatGPT as most popular app after viral Nano Banana success</a>&nbsp;&nbsp;<font color="#6f6f6f">The Independent</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Indian Oil One LPG cylinder booking app surpasses ChatGPT, tops Google Play Store charts amid LPG shortage - Moneycontrol.com]]></title>
+<link>https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZnhWeXFfb1NGUUFobGRDNjQ2NDdkc2Vxc215SFItdm5sVVUyWl9wYzFoc3dZcTNhN2ZyUEJWazQ4MTl6Zkw4d3hJdThyeVo1UTNoT0RSaWZFdzJBNkFEanhWQ1ZjZDdJbnZsbEk3c0xWanB3Vm5oeGlBUGozMVVBeEdFQ2VUVjFMakJSdFpjdThZMWJxdU42eXY3UGxUY3IxVEtGNXVCWjFFb3Q3bUdSbTI2ckpMVzFfZEQ5MzN2cm42YXpjLVBHaUJ5b1pMRU1RWVFXTV9EUXVaaWVEVkx3YVd5V3VDamdSNEE4N094Zy1jTHg2MnNBei1ac9IBgAJBVV95cUxOS09NWkQwekRFaVVPRklhMUFUUkI4OUduamIzLTBHVnF5amNlTERfdUdlTkpVVzdTSExpcnVMd25TUnI2V24zY2Ewb1lWQWVFWWRoXzBGcXZjeXNUY2I3WVBrNTVieEp4RkwxMjVzczVHMTFEM2V4ZlBJaXc3Z0llM205Wm4zM1JFcGE3NndGZkU4em5aYTdvRTQtU2hDajdoUDFaTVdnWVpnR3hOM21icFdXVkpoc2M4UFEwUDdIVFJlTHRibTNvQzRRTGQ1LWlPdkhEZkdsbi1BNzdJUGw5azJxQ056OFJHN3V2bklucHA2X2lMNk5xc2k1QWM0M3Ix?oc=5</link>
+<pubDate>Sun, 15 Mar 2026 07:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZnhWeXFfb1NGUUFobGRDNjQ2NDdkc2Vxc215SFItdm5sVVUyWl9wYzFoc3dZcTNhN2ZyUEJWazQ4MTl6Zkw4d3hJdThyeVo1UTNoT0RSaWZFdzJBNkFEanhWQ1ZjZDdJbnZsbEk3c0xWanB3Vm5oeGlBUGozMVVBeEdFQ2VUVjFMakJSdFpjdThZMWJxdU42eXY3UGxUY3IxVEtGNXVCWjFFb3Q3bUdSbTI2ckpMVzFfZEQ5MzN2cm42YXpjLVBHaUJ5b1pMRU1RWVFXTV9EUXVaaWVEVkx3YVd5V3VDamdSNEE4N094Zy1jTHg2MnNBei1ac9IBgAJBVV95cUxOS09NWkQwekRFaVVPRklhMUFUUkI4OUduamIzLTBHVnF5amNlTERfdUdlTkpVVzdTSExpcnVMd25TUnI2V24zY2Ewb1lWQWVFWWRoXzBGcXZjeXNUY2I3WVBrNTVieEp4RkwxMjVzczVHMTFEM2V4ZlBJaXc3Z0llM205Wm4zM1JFcGE3NndGZkU4em5aYTdvRTQtU2hDajdoUDFaTVdnWVpnR3hOM21icFdXVkpoc2M4UFEwUDdIVFJlTHRibTNvQzRRTGQ1LWlPdkhEZkdsbi1BNzdJUGw5azJxQ056OFJHN3V2bklucHA2X2lMNk5xc2k1QWM0M3Ix?oc=5" target="_blank">Indian Oil One LPG cylinder booking app surpasses ChatGPT, tops Google Play Store charts amid LPG shortage</a>&nbsp;&nbsp;<font color="#6f6f6f">Moneycontrol.com</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Yope and Lemon8 surge as teen users look for new home - SMH.com.au]]></title>
+<link>https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFloRHRaVXJvOW9wWWxLX0ZWUU9NSjVqdVpKQl92a0w4NEVNcTBJYkxUNGRRWXdJRzJNZ1BTdzRHQm82cVVZLUpXYUFxeldnQ3ktSmIySDllcUcycVpYX1VnU2FwTnUyeHVXYnRIMXlwanJpOGE5SVBTWnlfRU8tdTAta1puY1RoRWo3V2dOMGRiLXdrVHVJcEtYY29vYWVfR0Y5TnI0U2I2Nm5qOE5uTXgxTUlIdw?oc=5</link>
+<pubDate>Fri, 28 Nov 2025 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMitgFBVV95cUxQVFloRHRaVXJvOW9wWWxLX0ZWUU9NSjVqdVpKQl92a0w4NEVNcTBJYkxUNGRRWXdJRzJNZ1BTdzRHQm82cVVZLUpXYUFxeldnQ3ktSmIySDllcUcycVpYX1VnU2FwTnUyeHVXYnRIMXlwanJpOGE5SVBTWnlfRU8tdTAta1puY1RoRWo3V2dOMGRiLXdrVHVJcEtYY29vYWVfR0Y5TnI0U2I2Nm5qOE5uTXgxTUlIdw?oc=5" target="_blank">Yope and Lemon8 surge as teen users look for new home</a>&nbsp;&nbsp;<font color="#6f6f6f">SMH.com.au</font>]]></description>
+</item>
+<item>
+<title><![CDATA[Chinese Social Media Apps Xiaohongshu & Lemon8 See Surge In Downloads Ahead Of U.S. TikTok Ban - Deadline]]></title>
+<link>https://news.google.com/rss/articles/CBMijwFBVV95cUxQdHNiRjRHYzFFVlFUT1Vib2FOWkwtVWF5SnpzdjRYM3FuTEVMSVNZNC04RkdzZ0tFQ0hOSlhIQ2xRNC1GWVA2MHNpZWFDbnppOFJ0OVFvVTA1Z196QUEwUEJIX21XWHh5QkJ0djhVVG8tS2c2ZVdxa3lLVE8zaHBrUjJrMmJnLV9FQjQyYkhWcw?oc=5</link>
+<pubDate>Tue, 14 Jan 2025 08:00:00 +0000</pubDate>
+<description><![CDATA[<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxQdHNiRjRHYzFFVlFUT1Vib2FOWkwtVWF5SnpzdjRYM3FuTEVMSVNZNC04RkdzZ0tFQ0hOSlhIQ2xRNC1GWVA2MHNpZWFDbnppOFJ0OVFvVTA1Z196QUEwUEJIX21XWHh5QkJ0djhVVG8tS2c2ZVdxa3lLVE8zaHBrUjJrMmJnLV9FQjQyYkhWcw?oc=5" target="_blank">Chinese Social Media Apps Xiaohongshu & Lemon8 See Surge In Downloads Ahead Of U.S. TikTok Ban</a>&nbsp;&nbsp;<font color="#6f6f6f">Deadline</font>]]></description>
+</item>
+</channel>
+</rss>

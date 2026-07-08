@@ -1,0 +1,127 @@
+{
+ "date": "2026-07-03",
+ "signals": [
+  {
+   "trend": "Antimony onshoring: stockpile policy becomes revenue",
+   "ticker": "UAMY",
+   "company": "United States Antimony Corporation",
+   "exchange": "NYSE",
+   "mcap": "~$1.0B",
+   "method": "company PR + NYSE quote",
+   "why": "First physical deliveries under a $245M DLA antimony contract convert stockpile policy into cash for the only US antimony smelter, with cumulative government orders now $57.3M.",
+   "evidence": "Delivered ~82,000 lbs of antimony metal ingots in first two Q2 shipments (~$2.6M invoiced to DLA in June); shares up 12.2% week-over-week.",
+   "score": 80,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "StockTitan",
+     "title": "U.S. Antimony books $57.3M DLA orders",
+     "url": "https://www.stocktitan.net/news/UAMY/united-states-antimony-corporation-provides-update-on-antimony-rbqtyalamvnu.html"
+    },
+    {
+     "type": "news",
+     "name": "The Motley Fool",
+     "title": "Why Shares of United States Antimony Are Soaring This Week",
+     "url": "https://www.fool.com/investing/2026/07/02/why-shares-of-united-states-antimony-are-soaring-t/"
+    }
+   ],
+   "first_seen": "2026-07-03"
+  },
+  {
+   "trend": "Greenland rare earths: Tanbreez pure-play sharpens",
+   "ticker": "CRML",
+   "company": "Critical Metals Corp",
+   "exchange": "NASDAQ",
+   "mcap": "~$1.5B",
+   "method": "company PR + NASDAQ quote",
+   "why": "Amended scheme mechanics for the European Lithium roll-up plus a strategic spin-off process sharpen CRML into a pure-play on Tanbreez \u2014 one of the largest heavy-REE/gallium deposits outside China.",
+   "evidence": "Entered an amendment deed to the Scheme Implementation Deed, transaction to be implemented during September 2026; acceleration plan targets a Tanbreez pilot plant by Aug 2026.",
+   "score": 70,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "GlobeNewswire",
+     "title": "Critical Metals Corp. Update on Proposed Acquisition of European Lithium",
+     "url": "https://www.globenewswire.com/news-release/2026/07/03/3321826/0/en/critical-metals-corp-provides-update-on-proposed-acquisition-of-european-lithium.html"
+    },
+    {
+     "type": "news",
+     "name": "StockTitan",
+     "title": "Critical Metals weighs asset sale, spin-off to fund Tanbreez push",
+     "url": "https://www.stocktitan.net/news/CRML/critical-metals-corp-announces-strategic-process-to-unlock-inherent-tg5sbici5j4l.html"
+    }
+   ],
+   "first_seen": "2026-07-03"
+  },
+  {
+   "trend": "First European quantum pure-play lists on Nasdaq",
+   "ticker": "IQMX",
+   "company": "IQM Quantum Computers Oyj",
+   "exchange": "NASDAQ",
+   "mcap": "~$1.9B",
+   "method": "company PR + quote pages",
+   "why": "IQM's SPAC debut gives US investors the first European superconducting-qubit pure-play, extending the quantum listing wave into small-cap territory.",
+   "evidence": "ADSs began trading under 'IQMX' on July 2 after completing the Real Asset Acquisition Corp. combination at a ~$1.9B valuation.",
+   "score": 66,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Business Wire",
+     "title": "IQM Becomes First European Quantum Company on a Major U.S. Exchange",
+     "url": "https://www.businesswire.com/news/home/20260702960460/en/IQM-Quantum-Computers-Becomes-First-European-Quantum-Computing-Company-Listed-on-a-Major-U.S.-Exchange"
+    },
+    {
+     "type": "news",
+     "name": "The Quantum Insider",
+     "title": "IQM Joins Nasdaq as Public Quantum Computing Company",
+     "url": "https://thequantuminsider.com/2026/07/03/iqm-begins-trading-on-nasdaq/"
+    },
+    {
+     "type": "news",
+     "name": "TechCrunch",
+     "title": "IQM admits the future of the tech is uncertain",
+     "url": "https://techcrunch.com/2026/07/02/iqm-europes-first-public-quantum-company-admits-the-future-of-the-tech-is-uncertain/"
+    }
+   ],
+   "first_seen": "2026-07-03"
+  },
+  {
+   "trend": "Hypersonics 'merchant supplier' re-rating",
+   "ticker": "KTOS",
+   "company": "Kratos Defense & Security Solutions",
+   "exchange": "NASDAQ",
+   "mcap": "~$9-10B",
+   "method": "quote pages + analyst note",
+   "why": "Wedbush's Outperform initiation ($85 PT) reframes Kratos as the sole-source subsystem supplier across hypersonics (MACH TB 2.0 prime, up to ~$1.45B OTA), missile defense, space and microelectronics.",
+   "evidence": "Wedbush called Kratos 'the merchant arms supplier for the entire U.S. defense complex,' modeling hypersonics revenue rising from ~$200M (2025) to ~$700M (2027).",
+   "score": 64,
+   "status": "new",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Benzinga",
+     "title": "Kratos Surges as Analyst Frames It as 'Misunderstood' Supplier to US Defense Complex",
+     "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60226248/kratos-stock-surges-as-analyst-frames-company-as-misunderstood-supplier-to-entire-us-defense-complex"
+    },
+    {
+     "type": "news",
+     "name": "StocksToTrade",
+     "title": "KTOS Rips Higher As Wall Street Backs Autonomy Growth Story",
+     "url": "https://stockstotrade.com/news/kratos-defense-security-solutions-inc-ktos-news-2026_07_02/"
+    }
+   ],
+   "first_seen": "2026-07-03"
+  }
+ ],
+ "watchlist": [],
+ "provider": "analyst backfill",
+ "note": "Retrospective report \u2014 reconstructed on 2026-07-08 from that day's public sources (analyst-grade backfill; live daily runs are fully automated)",
+ "source_status": null
+}

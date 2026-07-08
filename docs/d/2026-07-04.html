@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Curiosity Engine — 2026-07-04 · Thames Capital Management</title>
+<style>
+  /* Thames Capital Management house palette */
+  :root {
+    --deep:#4A1A6B; --mid:#69398D; --band1:#2D0F4D; --band2:#6D2EA3;
+    --gold:#C5A421; --green:#1E8050; --red:#B3261E; --teal:#1F6F6B;
+    --zebra:#F6F4F9; --ink:#1F1F1F; --gray:#6B6B6B; --line:#E3DEEC;
+    --signal-bd:#278050; --signal-bg:#EFF5F1;
+    --tan-bd:#C9B27A; --tan-bg:#FBF7EC; --tan-hd:#9A7B12;
+    --teal-bg:#EAF4F3;
+  }
+  * { box-sizing:border-box; }
+  body { margin:0; background:#F2EFF6; color:var(--ink);
+         font:15.5px/1.6 Georgia,"Times New Roman",serif; }
+  .sans { font-family:Arial,"Helvetica Neue",Helvetica,sans-serif; }
+
+  /* Masthead band */
+  .band { background:linear-gradient(135deg,var(--band1),var(--band2));
+          border-bottom:4px solid var(--gold); padding:34px 0 26px; }
+  .wrap { max-width:860px; margin:0 auto; padding:0 22px; }
+  .eyebrow { font:700 11.5px/1 Arial,sans-serif; letter-spacing:.22em;
+             color:var(--gold); text-transform:uppercase; }
+  .eyebrow span { color:#CBB8E4; }
+  .band h1 { margin:12px 0 4px; color:#fff; font:700 30px/1.1 Arial,sans-serif;
+             letter-spacing:-.01em; }
+  .band .sub { color:#CBB8E4; font:13px/1.5 Arial,sans-serif; margin:0; }
+
+  /* Day navigation */
+  .navbar { background:#fff; border-bottom:1px solid var(--line); }
+  .navrow { display:flex; align-items:center; gap:8px; padding:10px 0; overflow-x:auto; }
+  .navrow a.arrow { font:700 14px/1 Arial,sans-serif; color:var(--deep);
+                    text-decoration:none; padding:7px 11px; border:1px solid var(--line);
+                    border-radius:6px; white-space:nowrap; }
+  .navrow a.arrow.off { opacity:.3; pointer-events:none; }
+  .chips { display:flex; gap:6px; }
+  .chip { font:600 12px/1 Arial,sans-serif; text-decoration:none; color:var(--mid);
+          padding:7px 10px; border-radius:6px; border:1px solid var(--line);
+          white-space:nowrap; background:#fff; }
+  .chip.cur { background:var(--deep); color:#fff; border-color:var(--deep); }
+  .chip:hover { border-color:var(--mid); }
+
+  main { padding:26px 0 40px; }
+  .dateline { font:700 12px/1 Arial,sans-serif; letter-spacing:.18em; color:var(--gray);
+              text-transform:uppercase; margin:2px 0 16px; }
+  .dateline b { color:var(--deep); }
+
+  /* Signal cards */
+  .card { background:#fff; border:1px solid var(--line); border-left:5px solid var(--deep);
+          border-radius:8px; padding:18px 22px 15px; margin-bottom:16px;
+          box-shadow:0 1px 3px rgba(45,15,77,.06); }
+  .row1 { display:flex; align-items:center; gap:10px; flex-wrap:wrap; }
+  .trend { font:700 17px/1.3 Arial,sans-serif; color:var(--deep); }
+  .ticker { font:700 12.5px/1 Arial,sans-serif; background:var(--deep); color:var(--gold);
+            border-radius:4px; padding:5px 8px; letter-spacing:.04em; }
+  .badge { font:700 10px/1 Arial,sans-serif; text-transform:uppercase;
+           letter-spacing:.09em; border-radius:4px; padding:4px 8px; }
+  .badge.new { background:var(--signal-bg); color:var(--signal-bd); border:1px solid var(--signal-bd); }
+  .badge.accelerating { background:var(--tan-bg); color:var(--tan-hd); border:1px solid var(--tan-bd); }
+  .badge.repeat { background:var(--zebra); color:var(--gray); border:1px solid var(--line); }
+  .badge.watch { background:var(--teal-bg); color:var(--teal); border:1px solid var(--teal); }
+  .strength { margin-left:auto; font:600 11px/1 Arial,sans-serif; color:var(--gray);
+              white-space:nowrap; }
+  .bar { display:inline-block; width:76px; height:7px; background:#EAE5F1;
+         border-radius:3px; vertical-align:-1px; margin-left:7px; overflow:hidden; }
+  .bar i { display:block; height:100%; background:linear-gradient(90deg,var(--gold),#E0C34A); }
+  .meta { font:11.5px/1.5 Arial,sans-serif; color:var(--gray); margin-top:5px; }
+  .why { margin:10px 0 4px; }
+  .quote { color:#3D3D3D; font-size:14px; font-style:italic;
+           border-left:3px solid var(--mid); padding:2px 0 2px 12px; margin:10px 0; }
+  .srcs { font:12.5px/1.7 Arial,sans-serif; color:var(--gray); margin-top:8px;
+          border-top:1px solid var(--zebra); padding-top:8px; }
+  .srcs a { color:var(--mid); text-decoration:none; }
+  .srcs a:hover { text-decoration:underline; color:var(--deep); }
+  .srcs .lbl { font-weight:700; text-transform:uppercase; font-size:10px;
+               letter-spacing:.1em; margin-right:6px; }
+
+  h2.sect { font:700 13px/1 Arial,sans-serif; letter-spacing:.16em; color:var(--deep);
+            text-transform:uppercase; margin:32px 0 14px; display:flex; align-items:center; gap:10px; }
+  h2.sect::before { content:""; width:12px; height:12px; background:var(--deep); }
+  .card.watch { border-left-color:var(--teal); }
+  .empty { background:var(--tan-bg); border:1px solid var(--tan-bd); border-radius:8px;
+           padding:16px 20px; font-style:italic; }
+
+  footer { margin-top:36px; border-top:1px solid var(--line); padding-top:14px;
+           font:italic 11.5px/1.7 Georgia,serif; color:var(--gray); }
+  .status-ok { color:var(--green); font-style:normal; }
+  .status-fail { color:var(--red); font-style:normal; }
+</style>
+</head>
+<body>
+
+<div class="band">
+  <div class="wrap">
+    <div class="eyebrow">Thames Capital Management <span>· The Curiosity Engine</span></div>
+    <h1>Daily Emerging-Trend Signals</h1>
+    <p class="sub">Podcasts · app-store charts · news flow · SEC filings — distilled to the few names worth an analyst's attention. Every ticker verified; every claim sourced.</p>
+  </div>
+</div>
+
+<div class="navbar"><div class="wrap"><div class="navrow sans">
+  <a class="arrow" href="2026-07-03.html">‹ 07-03</a>
+  
+  <div class="chips">
+    
+    <a class="chip " href="2026-07-02.html">07-02</a>
+    
+    <a class="chip " href="2026-07-03.html">07-03</a>
+    
+    <a class="chip cur" href="2026-07-04.html">07-04</a>
+    
+    <a class="chip " href="2026-07-05.html">07-05</a>
+    
+    <a class="chip " href="2026-07-06.html">07-06</a>
+    
+    <a class="chip " href="2026-07-07.html">07-07</a>
+    
+    <a class="chip " href="2026-07-08.html">07-08</a>
+    
+  </div>
+  <a class="arrow" href="2026-07-05.html">07-05 ›</a>
+  
+</div></div></div>
+
+<main><div class="wrap">
+  <div class="dateline">Report · <b>Saturday, July 4, 2026</b></div>
+
+  
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">World Cup micro-merch: licensed collectibles lane on TikTok Shop</span>
+      <span class="ticker">MNSO</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 62<span class="bar"><i style="width:62%"></i></span></span>
+    </div>
+    <div class="meta">MINISO Group Holding · NYSE (9896.HK) · mkt cap ~$5-6B · ticker verified: NYSE quote + HK line</div>
+    <p class="why">Event commerce is consolidating into a few &#39;officially licensed&#39; giftable sellers — MINISO&#39;s FIFA-licensed pins and magnets put it in the winning lane, validating its IP-collectibles pivot into the knockout rounds.</p>
+    <div class="quote">“MINISO&#39;s trophy bottle-opener fridge magnet at $18.99 shows the theme scaled down to an impulse collectible; official-gift winners are concentrated in a handful of sellers.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.fastmoss.com/blog/what-world-cup-fans-buy-tiktok-shop-2026/" target="_blank" rel="noopener">FastMoss: What World Cup Fans Are Actually Buying on TikTok Shop</a> · <a href="https://stockanalysis.com/stocks/mnso/" target="_blank" rel="noopener">Stock Analysis: MINISO Group Holding (MNSO) overview</a>
+    </div>
+  </div>
+  
+  <div class="card">
+    <div class="row1">
+      <span class="trend">Meme-flow gauge: Wendy&#39;s rally extends into the holiday week</span>
+      <span class="ticker">WEN</span>
+      <span class="badge new">new</span>
+      <span class="strength">SIGNAL 58<span class="bar"><i style="width:58%"></i></span></span>
+    </div>
+    <div class="meta">The Wendy&#39;s Company · NASDAQ · mkt cap ~$2.5B · ticker verified: NASDAQ quote</div>
+    <p class="why">Reddit-driven retail flows kept a sub-$3B restaurant name up ~50% off lows into July — sentiment-led and fundamentals-light, but a live gauge of small-cap consumer risk appetite.</p>
+    <div class="quote">“Shares closed 26% higher on June 24 — the biggest jump since June 2021 — after earlier surging as much as 42% (Bloomberg); July 2 coverage warned against chasing.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.bloomberg.com/news/articles/2026-06-24/wendy-s-surges-37-as-post-rallies-memers-around-burger-chain" target="_blank" rel="noopener">Bloomberg: Wendy&#39;s Stock Soars 26% as Meme Traders Flock to Burger Chain</a> · <a href="https://www.fool.com/investing/2026/07/02/dont-chase-wendys-meme-stock-rally-here-are-2-rest/" target="_blank" rel="noopener">The Motley Fool: Don&#39;t Chase Wendy&#39;s Meme Stock Rally</a>
+    </div>
+  </div>
+  
+  
+
+  
+  <h2 class="sect">Watchlist — private / no verified ticker yet</h2>
+  
+  <div class="card watch">
+    <div class="row1">
+      <span class="trend">Prediction markets are the World Cup&#39;s breakout consumer product</span>
+      <span class="badge watch">new</span>
+      <span class="strength">SIGNAL 72<span class="bar"><i style="width:72%"></i></span></span>
+    </div>
+    <div class="meta">Kalshi Inc. / Polymarket (private)</div>
+    <p class="why">World Cup event contracts turned prediction markets into mainstream consumer apps — record volumes and 78.5% of June betting-app installs, a structural share shift away from listed sportsbooks (DKNG, FLUT).</p>
+    <div class="quote">“Kalshi kept daily volume above $1 billion since the tournament kicked off June 11, closing June with more than $31 billion in trading volume, while Polymarket added $10.8 billion — a record.”</div>
+    <div class="srcs"><span class="lbl">Sources</span>
+      <a href="https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html" target="_blank" rel="noopener">CNBC: 2026 FIFA World Cup boosts prediction market volumes</a> · <a href="https://defirate.com/news/kalshi-polymarket-keep-gaining-daily-active-users-during-world-cup-sportsbooks-peak-early/" target="_blank" rel="noopener">DeFi Rate: Kalshi, Polymarket Keep Gaining DAUs During World Cup as...</a>
+    </div>
+  </div>
+  
+  
+
+  <footer>
+    Retrospective report — reconstructed on 2026-07-08 from that day&#39;s public sources (analyst-grade backfill; live daily runs are fully automated) · Generated 2026-07-08 20:51 UTC · extraction: analyst backfill
+    
+    <br>Automated research aid for Thames Capital Management — not investment advice. Signals are screening leads; verify at the primary source before acting.
+  </footer>
+</div></main>
+</body>
+</html>

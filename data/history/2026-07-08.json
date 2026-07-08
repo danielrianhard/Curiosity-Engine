@@ -1,0 +1,66 @@
+{
+ "date": "2026-07-08",
+ "signals": [
+  {
+   "trend": "Short-drama app cluster colonizes the US free chart",
+   "ticker": "300418.SZ",
+   "company": "Kunlun Tech Co., Ltd. (Skywork AI)",
+   "exchange": "Shenzhen ChiNext",
+   "mcap": "~$7-9B",
+   "method": "SZSE quote + Apple chart",
+   "why": "Three short-drama apps (DramaWave, StoryReel, VibeShort) sit inside Apple's US Top-25 Free simultaneously \u2014 Kunlun's DramaWave/FreeReels stack is converting the category's download lead into chart permanence.",
+   "evidence": "App 'DramaWave - Dramas & Reels' by SKYWORK AI PTE LTD holds the US Top-Free top 15, with StoryReel and VibeShort also in the top 25.",
+   "score": 82,
+   "status": "accelerating",
+   "watchlist": false,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Apple Top Free (US)",
+     "title": "DramaWave - Dramas & Reels \u2014 Top 15",
+     "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706"
+    },
+    {
+     "type": "news",
+     "name": "Sensor Tower",
+     "title": "State of Short Drama Apps 2026",
+     "url": "https://sensortower.com/blog/state-of-short-drama-apps-2026-report"
+    }
+   ],
+   "first_seen": "2026-07-06"
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Prediction-market apps entrench atop the App Store",
+   "ticker": null,
+   "company": "Kalshi Inc. / Polymarket (private)",
+   "exchange": null,
+   "mcap": null,
+   "method": "",
+   "why": "Kalshi's World Cup app held #6 on Apple's US Top Free chart with Polymarket in the top 25 \u2014 sustained chart dominance, not a spike, deepening the share shift away from listed sportsbooks (DKNG, FLUT).",
+   "evidence": "App 'Kalshi: Trade the World Cup' by KalshiEX LLC is #6 on Apple Top Free Apps (US).",
+   "score": 78,
+   "status": "accelerating",
+   "watchlist": true,
+   "sources": [
+    {
+     "type": "news",
+     "name": "Apple Top Free (US)",
+     "title": "Kalshi: Trade the World Cup \u2014 #6",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-the-world-cup/id1632713844"
+    },
+    {
+     "type": "news",
+     "name": "CNBC",
+     "title": "World Cup boosts prediction market volumes",
+     "url": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html"
+    }
+   ],
+   "first_seen": "2026-07-04"
+  }
+ ],
+ "provider": "live chart data + analyst enrichment",
+ "note": null,
+ "source_status": null
+}

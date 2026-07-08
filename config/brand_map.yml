@@ -1,0 +1,39 @@
+# Curated brand/product -> public company map. This seeds the rule-based
+# extractor and short-circuits validation for known culture->equity links.
+# Tickers here are still verified at runtime (SEC map or yfinance) before
+# they can appear in output. `ticker: null` = known private company (watchlist).
+Labubu:        {company: Pop Mart International, ticker: 9992.HK}
+Pop Mart:      {company: Pop Mart International, ticker: 9992.HK}
+Grow a Garden: {company: Roblox, ticker: RBLX}
+Roblox:        {company: Roblox, ticker: RBLX}
+Duolingo:      {company: Duolingo, ticker: DUOL}
+Celsius:       {company: Celsius Holdings, ticker: CELH}
+e.l.f.:        {company: elf Beauty, ticker: ELF}
+Cava:          {company: CAVA Group, ticker: CAVA}
+Dutch Bros:    {company: Dutch Bros, ticker: BROS}
+Crocs:         {company: Crocs, ticker: CROX}
+On Running:    {company: On Holding, ticker: ONON}
+Hoka:          {company: Deckers Outdoor, ticker: DECK}
+Zyn:           {company: Philip Morris International, ticker: PM}
+Ozempic:       {company: Novo Nordisk, ticker: NVO}
+Wegovy:        {company: Novo Nordisk, ticker: NVO}
+Reddit:        {company: Reddit, ticker: RDDT}
+Robinhood:     {company: Robinhood Markets, ticker: HOOD}
+Chewy:         {company: Chewy, ticker: CHWY}
+Abercrombie:   {company: Abercrombie & Fitch, ticker: ANF}
+ReelShort:     {company: null, ticker: null}   # Crazy Maple Studio - private parent
+Whatnot:       {company: null, ticker: null}   # private
+SpaceX:        {company: Space Exploration Technologies, ticker: SPCX}  # IPO'd Jun 2026
+Kalshi:        {company: null, ticker: null}   # private
+Polymarket:    {company: null, ticker: null}   # private
+# Critical-minerals / chokepoint names (Almonty-class signals)
+Almonty:       {company: Almonty Industries, ticker: ALM}
+Sangdong:      {company: Almonty Industries, ticker: ALM}
+HALEU:         {company: Centrus Energy, ticker: LEU}
+Centrus:       {company: Centrus Energy, ticker: LEU}
+Tanbreez:      {company: Critical Metals Corp, ticker: CRML}
+# Culture / app economy
+FreeReels:     {company: Kunlun Tech, ticker: 300418.SZ}
+DramaWave:     {company: Kunlun Tech, ticker: 300418.SZ}
+medicube:      {company: APR Co, ticker: 278470.KS}
+Bending Spoons: {company: Bending Spoons, ticker: BSP}
