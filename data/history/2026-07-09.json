@@ -8,9 +8,7 @@
    "confidence": 0.55,
    "item_ids": [
     "pod:d612169f089f85e3",
-    "news:e7dfcbc91c37edcf",
-    "news:476b181b1e63540c",
-    "news:65bd44b7f84a2212"
+    "news:e7dfcbc91c37edcf"
    ],
    "sources": [
     {
@@ -24,18 +22,6 @@
      "name": "Yahoo Finance",
      "title": "Is Microsoft (MSFT) The Best NASDAQ 100 Stock to Buy Other Than SpaceX?",
      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-msft-best-nasdaq-100-164437517.html"
-    },
-    {
-     "type": "news",
-     "name": "Yahoo Finance",
-     "title": "NVIDIA (NVDA): The Best NASDAQ 100 Stock to Buy Other Than SpaceX",
-     "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-best-nasdaq-100-164401962.html"
-    },
-    {
-     "type": "news",
-     "name": "Yahoo Finance",
-     "title": "Trump says Elon Musk will donate SpaceX stock to Trump Accounts \u2014 but the world's richest man still hasn't said a word",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/trump-says-elon-musk-donate-163932762.html"
     }
    ],
    "ticker": "SPCX",
@@ -43,76 +29,26 @@
    "exchange": "NasdaqGS",
    "method": "brand_map+yfinance",
    "watchlist": false,
-   "status": "new",
    "first_seen": "2026-07-09",
-   "score": 105
+   "status": "repeat",
+   "score": 75
   }
  ],
  "watchlist": [
   {
-   "trend": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce",
-   "why": "Ticker cited in source: \u201cTIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahnc\u201d.",
-   "evidence": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahncke and Shawn O'Malley. Daniel Mahncke and Shawn O'Malley take a deep dive into Kaspi.kz (NASDAQ: KSPI), the Kazakhstani super-app ",
+   "trend": "Evolution Metals (NASDAQ: EMAT) registers 5.4M shares for",
+   "why": "Ticker cited in source: \u201cEvolution Metals (NASDAQ: EMAT) registers 5.4M shares for debenture holder - Stock Titan\u201d.",
+   "evidence": "Evolution Metals (NASDAQ: EMAT) registers 5.4M shares for debenture holder - Stock Titan. Evolution Metals (NASDAQ: EMAT) registers 5.4M shares for debenture holder \u00a0\u00a0 Stock Titan",
    "confidence": 0.5,
    "item_ids": [
-    "pod:b727198b9f58c6b6"
-   ],
-   "sources": [
-    {
-     "type": "podcast",
-     "name": "We Study Billionaires",
-     "title": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahncke and Shawn O'Malley",
-     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
-    }
-   ],
-   "ticker": null,
-   "company": null,
-   "exchange": "",
-   "method": "",
-   "watchlist": true,
-   "status": "new",
-   "first_seen": "2026-07-09",
-   "score": 50
-  },
-  {
-   "trend": "Kalshi",
-   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
-   "evidence": "App 'Kalshi: Trade the World Cup' by KalshiEX LLC is #6 -> #7 on Apple Top Free Apps (US). Genres: n/a.",
-   "confidence": 0.55,
-   "item_ids": [
-    "app:3c16b20c098478f2"
-   ],
-   "sources": [
-    {
-     "type": "appstore",
-     "name": "Apple Top Free Apps (US)",
-     "title": "Kalshi: Trade the World Cup (#6 -> #7)",
-     "url": "https://apps.apple.com/us/app/kalshi-trade-the-world-cup/id1632713844"
-    }
-   ],
-   "ticker": null,
-   "company": null,
-   "exchange": "",
-   "method": "",
-   "watchlist": true,
-   "status": "new",
-   "first_seen": "2026-07-09",
-   "score": 50
-  },
-  {
-   "trend": "AEON Biopharma (NASDAQ: AEON) revises S-1 filing fee table",
-   "why": "Ticker cited in source: \u201cAEON Biopharma (NASDAQ: AEON) revises S-1 filing fee table for milestone warrants - Stock \u201d.",
-   "evidence": "AEON Biopharma (NASDAQ: AEON) revises S-1 filing fee table for milestone warrants - Stock Titan. AEON Biopharma (NASDAQ: AEON) revises S-1 filing fee table for milestone warrants \u00a0\u00a0 Stock Titan",
-   "confidence": 0.5,
-   "item_ids": [
-    "news:26e617d44b979283"
+    "news:12a80d30b576b409"
    ],
    "sources": [
     {
      "type": "news",
      "name": "Google News \u2014 IPO / S-1 filings",
-     "title": "AEON Biopharma (NASDAQ: AEON) revises S-1 filing fee table for milestone warrants - Stock Titan",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa180cmlJUjJEblhIYUZxSVhuOXVOcXJ2NkVEUFNDLTdrNWNqdnNGQXBaYWtKaGx2VW1IcmJSQWw3RXZ2YWVxODd1SG5DZVZMbE8tdmpFNTVvZGtIOTRBVG45RENZM1Y4VGNFS29ma3ZjQ05yVGtsSWpqVnRSWElSY0d2TTJJQk5KMlZrbHh5QW5tU0hCMWFXMDNUX0hScGREWFRkUlRmMmVSOElkdmRtSDVxcDFETEc1OGg2bA?oc=5"
+     "title": "Evolution Metals (NASDAQ: EMAT) registers 5.4M shares for debenture holder - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU1VPRUdhSmJBWFNkTWxDQmpXd2x1bGVPekhZYWdGTUN5YmJ0OG43WkxJUUdjdmp2aVprM1ZVbjZ4dVZ0T3RmQXk3NjVoaC1jdnB5UEx1cTlodW1OQkd1akRuMUQ5aUg2UmtESm00QUNRM3FwNmdqazBnc3VhRm5MTzVTZC1XOGVHWmdoN2RpdzMxVm1TZGhlVXNQUnFUdmNINzh3U0xlWERrclc0REc5QlJBQlM5bElaRzhSY0g0djg3VmhvRDhKemhNUQ?oc=5"
     }
    ],
    "ticker": null,
@@ -134,5 +70,5 @@
   "sec_tickers": false,
   "google_trends": true
  },
- "items_ingested": 104
+ "items_ingested": 85
 }
