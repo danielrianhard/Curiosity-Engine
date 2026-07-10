@@ -1,0 +1,91 @@
+{
+ "date": "2026-07-10",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Polymarket: Trade Soccer' by Polymarket is #49 -> #39 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:19ebb8f41466de30"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Polymarket: Trade Soccer (#49 -> #39)",
+     "url": "https://apps.apple.com/us/app/polymarket-trade-soccer/id6648798962"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-10",
+   "score": 65
+  },
+  {
+   "trend": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce",
+   "why": "Ticker cited in source: \u201cTIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahnc\u201d.",
+   "evidence": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahncke and Shawn O'Malley. Daniel Mahncke and Shawn O'Malley take a deep dive into Kaspi.kz (NASDAQ: KSPI), the Kazakhstani super-app ",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:b727198b9f58c6b6"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP829: Kaspi Stock ($KSPI): The Cheapest E-Commerce Monopoly in the World w/ Daniel Mahncke and Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-10",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade the World Cup' by KalshiEX LLC is #7 -> #5 on Apple Top Free Apps (US). Genres: n/a.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade the World Cup (#7 -> #5)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-the-world-cup/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-10",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 111
+}
