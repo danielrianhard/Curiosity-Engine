@@ -1,0 +1,67 @@
+{
+ "date": "2026-07-13",
+ "signals": [
+  {
+   "trend": "Duolingo",
+   "why": "'Duolingo' surfacing in daily inputs (mapped to Duolingo).",
+   "evidence": "App 'Duolingo: Language Lessons' by Duolingo is #66 -> #56 on Apple Top Free Apps (US). Genres: Education, Social Networking.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:46a609fd9629f352"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Duolingo: Language Lessons (#66 -> #56)",
+     "url": "https://apps.apple.com/us/app/duolingo-language-lessons/id570060128"
+    }
+   ],
+   "ticker": "DUOL",
+   "company": "Duolingo, Inc.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-07-13",
+   "score": 65
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #89 -> #58 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#89 -> #58)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-13",
+   "score": 75
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 93
+}
