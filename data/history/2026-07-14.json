@@ -1,0 +1,66 @@
+{
+ "date": "2026-07-14",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Quantum Corporation (NASDAQ: QMCO) holders register",
+   "why": "Ticker cited in source: \u201cQuantum Corporation (NASDAQ: QMCO) holders register 13,809,707 shares - Stock Titan\u201d.",
+   "evidence": "Quantum Corporation (NASDAQ: QMCO) holders register 13,809,707 shares - Stock Titan. Quantum Corporation (NASDAQ: QMCO) holders register 13,809,707 shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:b6718d2013c1a543"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Quantum Corporation (NASDAQ: QMCO) holders register 13,809,707 shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTE9INlpSemRWOWFJX21NcUVTNVJ6QzVwUkY4Z2hGTnhldjVtQkFlWUNJRXlLS2g0YkdscEVoNFg4LXNhWTJTN28tQmhyRHJmLXF3dW1FdThILWRodktpVk1QUzAyaXRYZkZSV01FSVMtcjEtTl9oVVUtcndOcWhWNlJMTnhRUV9GNmFxN3NlZ1o2S205dHVpM05uQmVIZFdmT2VQVEhKTG5tdmpQUk42dFUyc3U?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-14",
+   "score": 50
+  },
+  {
+   "trend": "Nexentis Technologies (NASDAQ: NXTS) registers 2.57M",
+   "why": "Ticker cited in source: \u201cNexentis Technologies (NASDAQ: NXTS) registers 2.57M warrant shares for resale - Stock Tit\u201d.",
+   "evidence": "Nexentis Technologies (NASDAQ: NXTS) registers 2.57M warrant shares for resale - Stock Titan. Nexentis Technologies (NASDAQ: NXTS) registers 2.57M warrant shares for resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:f30c3b1c6e5e07ed"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Nexentis Technologies (NASDAQ: NXTS) registers 2.57M warrant shares for resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEY1bDdZZDVlTEkyY3Jwb3hKcUQ3eDlMYmZXZGxublcxVEtoRkZfeWpGUVJyMUt1a21zenQ4V0ZPWHp3OVJyQnlQMld5Z0VOWEc0R3VuZjBLVHNlVi1wSUxJdUlOZkpfZ2VYNEFWWmtiM0xtT3pQNHZVczJUZXRQNHBYSVRwbmdGWEtvOGNaYjRYVzI3bnZPdnc2Um02eERXcnpTWk0xNTQ5TEV6YzhXNEZ0b2trNjFMWi1OV05SX3AwQQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-14",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 112
+}

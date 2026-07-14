@@ -1,13 +1,13 @@
 {
- "date": "2026-07-13",
+ "date": "2026-07-14",
  "status": {
   "podcasts": true,
   "appstore": true,
   "news": true,
   "edgar": false,
   "sec_tickers": false,
-  "google_trends": false
+  "google_trends": true
  },
  "provider": "rules",
- "published": 1
+ "published": 0
 }
