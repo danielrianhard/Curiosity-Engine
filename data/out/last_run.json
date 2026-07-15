@@ -1,5 +1,5 @@
 {
- "date": "2026-07-14",
+ "date": "2026-07-15",
  "status": {
   "podcasts": true,
   "appstore": true,
@@ -9,5 +9,5 @@
   "google_trends": true
  },
  "provider": "rules",
- "published": 0
+ "published": 1
 }

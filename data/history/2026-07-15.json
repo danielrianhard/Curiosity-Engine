@@ -1,0 +1,67 @@
+{
+ "date": "2026-07-15",
+ "signals": [
+  {
+   "trend": "Reddit",
+   "why": "'Reddit' surfacing in daily inputs (mapped to Reddit).",
+   "evidence": "App 'Reddit' by REDDIT, INC. is #99 -> #84 on Apple Top Free Apps (US). Genres: News, Social Networking.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:841373e20f70cab4"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Reddit (#99 -> #84)",
+     "url": "https://apps.apple.com/us/app/reddit/id1064216828"
+    }
+   ],
+   "ticker": "RDDT",
+   "company": "Reddit, Inc.",
+   "exchange": "NYSE",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-07-15",
+   "score": 65
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #86 -> #57 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#86 -> #57)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-13",
+   "status": "repeat",
+   "score": 55
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 116
+}
