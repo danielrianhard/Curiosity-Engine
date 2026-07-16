@@ -1,0 +1,98 @@
+{
+ "date": "2026-07-16",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Jaguar Health (NASDAQ: JAGX) details 40.8M-share, $40M",
+   "why": "Ticker cited in source: \u201cJaguar Health (NASDAQ: JAGX) details 40.8M-share, $40M equity line - Stock Titan\u201d.",
+   "evidence": "Jaguar Health (NASDAQ: JAGX) details 40.8M-share, $40M equity line - Stock Titan. Jaguar Health (NASDAQ: JAGX) details 40.8M-share, $40M equity line \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:4374f2b3a948253d",
+    "news:85c5a9c1b5b5beec"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Jaguar Health (NASDAQ: JAGX) details 40.8M-share, $40M equity line - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVGNNR05ReHVLaDd1Sm5xR2E5R0IzRV9seS1KMWI5TXFhSnhscjVzZFRsd3VVSDFuMmZ5X3V3S3QyYjkwZ1loTGlsMWFTdERKRFViRHNyTE10YXZ6RDltN3JuaVFZRlhuc1lBTEZ4NTNJdy1kS0xjdEk1QXVrWnJqZlRGaXFQRTlhZF9Ha3VkSlZ6b2JKeEpzMlZVWVREeS1tdDdJeERtbGZkaTNDcnpubmdRczFzeW8?oc=5"
+    },
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Jaguar Health (NASDAQ: JAGX) plans 5.5M-share resale registration - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOFdvWm9mZVIycUNCTmxkNDRXWFdEdjFzbGhweEZwU2JEOHVwRm5EZnJmMVdhTFNuTGdWV251OFhGeUxWV3RwVmZ2ZXNQaFpWNjd0elFNRHBzNVhFSksyUGpSRFU1bUtpSjV3S2lpcWRtMjZYSGlpYnRjWTNqU2FyTW9pa0lBQndLc0U2d1R1WlJsOXpOOWdWWjEwclNXNlFMdHNxV1NHVmJIYTJQTkNZczM2MV8tZDQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-16",
+   "score": 55
+  },
+  {
+   "trend": "TIP831: Pinduoduo (PDD): Is PDD the Best Buy in China? w/",
+   "why": "Ticker cited in source: \u201cTIP831: Pinduoduo (PDD): Is PDD the Best Buy in China? w/ Daniel Mahncke and Shawn O'Malle\u201d.",
+   "evidence": "TIP831: Pinduoduo (PDD): Is PDD the Best Buy in China? w/ Daniel Mahncke and Shawn O'Malley. Daniel Mahncke and Shawn O'Malley take a deep dive into Pinduoduo (NASDAQ: PDD), the Chinese retail giant that has overtaken lo",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:8f0df2a5e096d4fb"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP831: Pinduoduo (PDD): Is PDD the Best Buy in China? w/ Daniel Mahncke and Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-16",
+   "score": 50
+  },
+  {
+   "trend": "Banzai International (NASDAQ: BNZI) files SEPA resale for",
+   "why": "Ticker cited in source: \u201cBanzai International (NASDAQ: BNZI) files SEPA resale for 15M shares - Stock Titan\u201d.",
+   "evidence": "Banzai International (NASDAQ: BNZI) files SEPA resale for 15M shares - Stock Titan. Banzai International (NASDAQ: BNZI) files SEPA resale for 15M shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:54ac01a65d5172fa"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Banzai International (NASDAQ: BNZI) files SEPA resale for 15M shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTzhaLURvU1EwWmQtQ0llVzBoZUpmRlMtbW1zUEtWeEM5RkZSbnFXT1dNRkVnai1lM1U4ZEd0NHlFNl8tb3pGX3llUjB0UEhvTXcwMHNPOENJY0hjYm5KRjhfekZmeUFBMjhnb0g1MTRXY0gtSE9KN3dDa0s1eEd6a0c2TEVWc2xaejVPQlQxNHFmRzNHRlpONmFjdHVyeXJZNUpCRHJXeGVjTjJzRFFyU1hBTGE2Y2hkZlhpeTlROWI?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-16",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 127
+}
