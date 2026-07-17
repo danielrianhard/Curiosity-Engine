@@ -1,0 +1,66 @@
+{
+ "date": "2026-07-17",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "SHF Holdings (NASDAQ: SHFS) files S-1 to register 21.5M",
+   "why": "Ticker cited in source: \u201cSHF Holdings (NASDAQ: SHFS) files S-1 to register 21.5M Series B warrant shares - Stock Ti\u201d.",
+   "evidence": "SHF Holdings (NASDAQ: SHFS) files S-1 to register 21.5M Series B warrant shares - Stock Titan. SHF Holdings (NASDAQ: SHFS) files S-1 to register 21.5M Series B warrant shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:aaab0c5bd25308ad"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "SHF Holdings (NASDAQ: SHFS) files S-1 to register 21.5M Series B warrant shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTmZNOGxEU25xQmdUZ1hteXRUa2pLQm1CSm40ZkUxX3hzTldfM0hDUEdTcGRXLW1QR2xFa2FxYTVXTVhNNldvQWZha1Y3NTFuOWlwcTdyY3ZHYlUyb1hTUjN1WkRneGR0VENhN0ZPakQwa1pyZHYyYk1OSTVLcW90Y3ktQ01xUDdEOW9XLTE1QWNTLWJPdWdrLTYweTk2ZFJhLWQ0bVpVZFdPcG9HM0hqbkdiVFJXNWJqd3c?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-17",
+   "score": 50
+  },
+  {
+   "trend": "FreeCast (NASDAQ: CAST) to register 7.9M shares for",
+   "why": "Ticker cited in source: \u201cFreeCast (NASDAQ: CAST) to register 7.9M shares for shareholder resale - Stock Titan\u201d.",
+   "evidence": "FreeCast (NASDAQ: CAST) to register 7.9M shares for shareholder resale - Stock Titan. FreeCast (NASDAQ: CAST) to register 7.9M shares for shareholder resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:dea65505118220e0"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "FreeCast (NASDAQ: CAST) to register 7.9M shares for shareholder resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWRra1pvLTh1WUdXTG9TeG5Sbm9zeVBVVGZBTnlvTzNOSVQwd2pfTEFVWHdhUlAzdGcxTjh0RTZWdUtmdGdHVlBBVjFHaW5OWEloRzNNYXlMa0xPNVpHZjhwODAwZWplSzNHVDRDMGtPOWRDVVhDZFo0QkdVTUxnQzAtZUozeXlkVFhrQzJ3QWM3RkFIeHZZSzJrbnZOQ3NhQko3RkFLaURVb0Etcy1SNXJ3?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-17",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 118
+}
