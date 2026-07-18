@@ -1,0 +1,91 @@
+{
+ "date": "2026-07-18",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TSMC: Stock to Avoid or Incredible Buying Opportunity?",
+   "why": "Ticker cited in source: \u201cTSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM)\u201d.",
+   "evidence": "TSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM). ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:01e1fd94198ac837"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "TSMC: Stock to Avoid or Incredible Buying Opportunity? (NYSE: TSM)",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/tsmc-stock-avoid-incredible-buying-131100467.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-18",
+   "score": 50
+  },
+  {
+   "trend": "Banzai International (NASDAQ: BNZI) plans resale of 3.96M",
+   "why": "Ticker cited in source: \u201cBanzai International (NASDAQ: BNZI) plans resale of 3.96M common shares - Stock Titan\u201d.",
+   "evidence": "Banzai International (NASDAQ: BNZI) plans resale of 3.96M common shares - Stock Titan. Banzai International (NASDAQ: BNZI) plans resale of 3.96M common shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:18f08675992225cd"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Banzai International (NASDAQ: BNZI) plans resale of 3.96M common shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkpoSnlLVWM3X1ZZaTJRWmlaRThJU20wV01hSFBLaGQybGxFdDhWQjhlazFkQVV2Tlc5anM5WUVQNzZDaFlaVGJla2NCMXN0RnI3bE1heHY2VjM3UG9UdmNxeVFJcnh4cFREYmpmRzRtaVZ4VkxYOGl5RnJEZ1N3THJRVkxfQlNqM1hXdVlESEdfVXZLcVVMeWRCendYczlEZEN2Q1RhdDkxRnhnRXRTclp0bWt2T0tlaVNWZ01JTjhJbl9O?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-18",
+   "score": 50
+  },
+  {
+   "trend": "Our Bond (Nasdaq: OBAI) resale filing details $50M equity",
+   "why": "Ticker cited in source: \u201cOur Bond (Nasdaq: OBAI) resale filing details $50M equity line - Stock Titan\u201d.",
+   "evidence": "Our Bond (Nasdaq: OBAI) resale filing details $50M equity line - Stock Titan. Our Bond (Nasdaq: OBAI) resale filing details $50M equity line \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:592673afe9500bf0"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Our Bond (Nasdaq: OBAI) resale filing details $50M equity line - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQel9BRlZ0WlltLUVRYUgwWTZPOGFQbnZRaUpiQi1UNUE1cG1GRkdfQUg3NlpHalNhNzVUTWJ6ZWdkTnZ4alB2emc5aXA1VXhwUjJ5OUt2ZW5QOXlIWGxVTkN5X2hWQ2Jlb3JXZ1M0UkZXUzdPTWF2RV9CWkJWNVc2WG9EVXk5RmZoNDJWUzViaGhSbEFzVGwzeC1tb1lkS3dKS08xT3RObkNlZUh0YVVENA?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-18",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 114
+}
