@@ -1,0 +1,41 @@
+{
+ "date": "2026-07-19",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Polymarket' by Polymarket is #66 -> #25 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:19ebb8f41466de30"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Polymarket (#66 -> #25)",
+     "url": "https://apps.apple.com/us/app/polymarket/id6648798962"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-10",
+   "status": "repeat",
+   "score": 55
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 97
+}
