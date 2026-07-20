@@ -1,0 +1,41 @@
+{
+ "date": "2026-07-20",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "FreeCast (NASDAQ: CAST) resale of 7.9M shares, $23.7M",
+   "why": "Ticker cited in source: \u201cFreeCast (NASDAQ: CAST) resale of 7.9M shares, $23.7M financing - Stock Titan\u201d.",
+   "evidence": "FreeCast (NASDAQ: CAST) resale of 7.9M shares, $23.7M financing - Stock Titan. FreeCast (NASDAQ: CAST) resale of 7.9M shares, $23.7M financing \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:6c541936f7f88c52"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "FreeCast (NASDAQ: CAST) resale of 7.9M shares, $23.7M financing - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUGFGVG9nNVZYcFFQOWFEbU1xM0g4Z0lkdTNHOVh4aXVIaFhUSEpRbEt6eWVFT3ZrejZlVk5WY3FYMWVaZDAza0N4N2F1V0ZmWWRFRG83SmV1YjhEUlRUM29JZFh1ZVVyN1RMOWpiOUtFeXY0RGlRWUswTkxNWWNHcmQzeEczZ0Z0Z0xuSG9YTnp5RzQ5OFpJck1hN09qNlFkQ2xzWkRCRGliREJkUlN4Nm1EMHJ3dw?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-20",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 90
+}
