@@ -1,0 +1,41 @@
+{
+ "date": "2026-07-21",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Hyperliquid Strategies (Nasdaq: PURR) details 35.2M-share",
+   "why": "Ticker cited in source: \u201cHyperliquid Strategies (Nasdaq: PURR) details 35.2M-share advisor resale - Stock Titan\u201d.",
+   "evidence": "Hyperliquid Strategies (Nasdaq: PURR) details 35.2M-share advisor resale - Stock Titan. Hyperliquid Strategies (Nasdaq: PURR) details 35.2M-share advisor resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:9e851c2f8114a5f4"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Hyperliquid Strategies (Nasdaq: PURR) details 35.2M-share advisor resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2dVSUk3SkoxamJtNTVZWXpSTjNDS2NWVmJ4MGx4SVpLRFFNcWkzWHRvZFkwVk5wUk5OUkVXQVhqZXRIa3hXZlptQTRnX1g5aW56U3BVT1RZRnAwUUZSX3ZrcHVsQTNFbVNIMDRTVzFXSnl2SlN6Mm1mb2N0RkQ4dUZEOGV3REsxM1p2N2NJX0VZR2xOelhTcFB3Q1NIcF9fSklIRmlZc3hoVi1uNmZQMXNJcG8wNEdiWFp4SGZZOVByYlBLS3BZ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-21",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 121
+}
