@@ -1,6 +1,9 @@
 {
  "date": "2026-07-22",
- "status": {
+ "signals": [],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
   "podcasts": true,
   "appstore": true,
   "news": true,
@@ -8,6 +11,5 @@
   "sec_tickers": false,
   "google_trends": true
  },
- "provider": "rules",
- "published": 0
+ "items_ingested": 109
 }
