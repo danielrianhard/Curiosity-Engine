@@ -1,0 +1,66 @@
+{
+ "date": "2026-07-24",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Innovative Eyewear (Nasdaq: LUCY) registers 6,766,673",
+   "why": "Ticker cited in source: \u201cInnovative Eyewear (Nasdaq: LUCY) registers 6,766,673 warrant shares - Stock Titan\u201d.",
+   "evidence": "Innovative Eyewear (Nasdaq: LUCY) registers 6,766,673 warrant shares - Stock Titan. Innovative Eyewear (Nasdaq: LUCY) registers 6,766,673 warrant shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:009fcca363fe9872"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Innovative Eyewear (Nasdaq: LUCY) registers 6,766,673 warrant shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUXA1TTRsYW5ScWpCSmJWaFl1RVR5bUl0a3pnVkcxa2Z4bmhMeXlYR0dMZzF0cm5ib0ZzTHdhYmdlSTJOVTh1QmZEQldGUmQyclc0TjcxbTRxYWVJSmJTNExjazZVMzM4ZjR4QlFKU0xDTG9GU0NLcm5SY3NZdm1VUXFtMlVyc2FHOGhfNHE4OWFlanQ2MnIzQThIT1Qwbkl2OWsteTloal91YVhLSE9aUmRPTjZUYTMxYjkydUt3?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-24",
+   "score": 50
+  },
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #88 -> #73 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#88 -> #73)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-13",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 95
+}
