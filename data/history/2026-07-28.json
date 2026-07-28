@@ -1,0 +1,41 @@
+{
+ "date": "2026-07-28",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "AIxCrypto Holdings (NASDAQ: AIXC) sets up $50M equity line",
+   "why": "Ticker cited in source: \u201cAIxCrypto Holdings (NASDAQ: AIXC) sets up $50M equity line for 55M-share resale - Stock Ti\u201d.",
+   "evidence": "AIxCrypto Holdings (NASDAQ: AIXC) sets up $50M equity line for 55M-share resale - Stock Titan. AIxCrypto Holdings (NASDAQ: AIXC) sets up $50M equity line for 55M-share resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:bf1d0fbac58a520e"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "AIxCrypto Holdings (NASDAQ: AIXC) sets up $50M equity line for 55M-share resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeTg1alF0UmFUakRKOUJzU3ViMDlaY2p2R0dkQjFBVFRpV3Q5TDBEaUQxX0Uta3V1eWVfc3hnam1qdEIxcEhwelZteklBMXl1ZXN5d3JJeUV3M0RmZGZhTXN2ZkVhQ2l1ajdJREtNUnJDMVExb0Vvd2hyZ3dJWEpxWUdETVQxVnNpejVxamQ1c2hweGRyOS1SaWlLLUxBdG9jY3ltXzRSMkxHS3NqeFBibGxwODZjbnZuTVJjTzVYTlE?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-28",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 123
+}
