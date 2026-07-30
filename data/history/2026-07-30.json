@@ -1,0 +1,41 @@
+{
+ "date": "2026-07-30",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP834: DLocal (DLO): Multibagger Potential with",
+   "why": "Ticker cited in source: \u201cTIP834: DLocal (DLO): Multibagger Potential with Decade-Long Runway w/ Daniel Mahncke & Sh\u201d.",
+   "evidence": "TIP834: DLocal (DLO): Multibagger Potential with Decade-Long Runway w/ Daniel Mahncke & Shawn O\u2019Malley. Daniel Mahncke and Shawn O\u2019Malley take a deep dive into DLocal (NASDAQ: DLO), the first Uruguayan unicorn and the em",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:6d17bd90b49f531a"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP834: DLocal (DLO): Multibagger Potential with Decade-Long Runway w/ Daniel Mahncke & Shawn O\u2019Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-07-30",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 80
+}
