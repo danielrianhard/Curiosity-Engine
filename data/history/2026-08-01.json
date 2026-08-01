@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-01",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "GridAI Technologies (Nasdaq: GRDX) flags cash strain and",
+   "why": "Ticker cited in source: \u201cGridAI Technologies (Nasdaq: GRDX) flags cash strain and dilution risk - Stock Titan\u201d.",
+   "evidence": "GridAI Technologies (Nasdaq: GRDX) flags cash strain and dilution risk - Stock Titan. GridAI Technologies (Nasdaq: GRDX) flags cash strain and dilution risk \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:00dde2b0ea730665"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "GridAI Technologies (Nasdaq: GRDX) flags cash strain and dilution risk - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTW5VM0RQSHdvLVBzTHgySHNFWmV5dnl0bi1EbjYycU9sMVFLTl9sOTlGQXJndk9KSDdTNzRodlNaakZfU0d2ODhuZ0xQSm9zcS1penZHcTh4V2diQnlUNVhITzFzZWdpSlRGQkR2QzNsRFdqV1VUNFh2YlVCbGlZeTBybzA0R1c1d3dMUUZwcGFCS0k2TktOVTBMU1FNWC1Jc0I2Tms0WkJyVWo2ZHZzcGZ1TktydmZRWU03MnItY2VmWkV3TXc?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-01",
+   "score": 50
+  },
+  {
+   "trend": "SharonAI Holdings (NASDAQ: SHAZ) resale of 4.75% notes and",
+   "why": "Ticker cited in source: \u201cSharonAI Holdings (NASDAQ: SHAZ) resale of 4.75% notes and 26,017,577 shares - Stock Titan\u201d.",
+   "evidence": "SharonAI Holdings (NASDAQ: SHAZ) resale of 4.75% notes and 26,017,577 shares - Stock Titan. SharonAI Holdings (NASDAQ: SHAZ) resale of 4.75% notes and 26,017,577 shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:17e0d21a8e1919f8"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "SharonAI Holdings (NASDAQ: SHAZ) resale of 4.75% notes and 26,017,577 shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb2ZrTWpyWkhpeDNvQ2txekRFUmtjUy1YV3pRYVFOak4waWVZa3c5YUtjZXk1a3oyUEk5ajNPMEFDdXpMdTg4Q3BhR05uem51czVOdkNOWjNSWHNyWVJPZVh3Z3pIcWVqS0ZLSWRtRWFGVE5CbmNkbHpTRGQ5RlZkYUE0ZkxyMldhMUJmZ1dFdkpvYmFiSk9UTFFPVUJ4blJwZ3NIenFUenMtYlZEWTVhUjdHYnNQNWR1Y2NJd2dR?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-01",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 122
+}
