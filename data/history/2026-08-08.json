@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-08",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Whatnot",
+   "why": "'Whatnot' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Whatnot: Shop, Sell, Connect' by Whatnot Inc. is #15 -> #10 on Apple Top Free Apps (US). Genres: n/a.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:32b68ecf0706fc40"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Whatnot: Shop, Sell, Connect (#15 -> #10)",
+     "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-08",
+   "score": 50
+  },
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #88 -> #67 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#88 -> #67)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-13",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 94
+}
