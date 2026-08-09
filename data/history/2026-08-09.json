@@ -1,0 +1,91 @@
+{
+ "date": "2026-08-09",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #67 -> #34 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#67 -> #34)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-13",
+   "status": "repeat",
+   "score": 55
+  },
+  {
+   "trend": "DataMeds AI, Inc. (Nasdaq: MEDS) details 34,462,058-share",
+   "why": "Ticker cited in source: \u201cDataMeds AI, Inc. (Nasdaq: MEDS) details 34,462,058-share resale - Stock Titan\u201d.",
+   "evidence": "DataMeds AI, Inc. (Nasdaq: MEDS) details 34,462,058-share resale - Stock Titan. DataMeds AI, Inc. (Nasdaq: MEDS) details 34,462,058-share resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:8d89359d4f65abe3"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "DataMeds AI, Inc. (Nasdaq: MEDS) details 34,462,058-share resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSkEwcjNtQ0N6c0xzdHZUeTlIVFlVeVF5R0Y4MHdxc2lVMzRjakhQSjVKSUg2Z1dvMUs2Rm5vR0NmU0FLcUNkQVBQN3JnNS1oRFU1RmU4LXBpeWxpSlFtcDNKRy04bzdURThFckU4ZmRXOUU3c3Zwei1ualZySGgydjk1QjcwUWR2Sl9tQ2ItVTMtNElmVURxeTAxZGRWd0c5Q3cxVkxLQWZQREU3N0ZyZTgtZHBsbWkyMzFiZ25B?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-09",
+   "score": 50
+  },
+  {
+   "trend": "Silexion Therapeutics (NASDAQ: SLXN) files S-1 for",
+   "why": "Ticker cited in source: \u201cSilexion Therapeutics (NASDAQ: SLXN) files S-1 for best-efforts unit sale - Stock Titan\u201d.",
+   "evidence": "Silexion Therapeutics (NASDAQ: SLXN) files S-1 for best-efforts unit sale - Stock Titan. Silexion Therapeutics (NASDAQ: SLXN) files S-1 for best-efforts unit sale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:b9c69634401e7539"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Silexion Therapeutics (NASDAQ: SLXN) files S-1 for best-efforts unit sale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOFp4SmtsdkR1QnJzWms5VndOZ3AyNFVWMks2MGVBQjlTVEc3TGRhS1RuQU80ZTZCcmxmdjc2RjlBWHRDWXNjRUtMRVYwc1d1UmZtSGpNTk1jSTE1a3hHS2N3azRxWFBvZEk2MVg4djZCbTBQMWYwNjRfMmZvOVgzNzA4X1R1cmVQTWkwUnZMOU1ob2g3N2NGbXdJRzdQeS1Yd1ZFc1dncGZIcUltZ19jdGZaUnJONVNZbW04eGotb194TVU?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-09",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 93
+}
