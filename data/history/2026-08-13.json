@@ -1,0 +1,81 @@
+{
+ "date": "2026-08-13",
+ "signals": [
+  {
+   "trend": "Cava",
+   "why": "'Cava' surfacing in daily inputs (mapped to CAVA Group).",
+   "evidence": "Neoclouds Shine. The AI buildout has one big beneficiary today and that\u2019s neoclouds Coreweave and Nebius. These companies buy and rent out GPUs for AI and they\u2019re seing incredible demand for the assets they\u2019re building. ",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:0acecfc126df3b07",
+    "news:24434732ee17f11f",
+    "news:b66b5d798aa9e98a"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "Motley Fool Money",
+     "title": "Neoclouds Shine",
+     "url": "https://feeds.megaphone.fm/ARML8165884693"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Cava Traffic Gains Boost Quarterly Profit",
+     "url": "https://www.wsj.com/business/hospitality/cava-same-store-sales-gains-boost-earnings-in-second-quarter-2ca4dd5f?siteid=yhoof2&yptr=yahoo"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
+     "url": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei"
+    }
+   ],
+   "ticker": "CAVA",
+   "company": "CAVA Group, Inc.",
+   "exchange": "NYSE",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-08-13",
+   "score": 85
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Onconetix (NASDAQ: ONCO) resale filing covers 100M shares",
+   "why": "Ticker cited in source: \u201cOnconetix (NASDAQ: ONCO) resale filing covers 100M shares tied to PIPE - Stock Titan\u201d.",
+   "evidence": "Onconetix (NASDAQ: ONCO) resale filing covers 100M shares tied to PIPE - Stock Titan. Onconetix (NASDAQ: ONCO) resale filing covers 100M shares tied to PIPE \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:5d1df90bb3c5528e"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Onconetix (NASDAQ: ONCO) resale filing covers 100M shares tied to PIPE - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT3M3XzJmVTRZTzJtRmRQdFZsb0ZZMnlzend1MzU1Y2kxcWsyTHdCMXZyZ0FYUlItVUxBeGFUNUptSlc5ZFdERUxpd21XQ2wtV2ZyNld3Q2w1ZXk2UjlYSF9JV21icGVwaHROREFLU1p3cHhyWFRXR0RDNUl1NWNmNjhfZGlHRzN0ZXhpWDFZMWwyMmZHeXcxQXNiMmxnQTFDQkgtS1Y3YlZhcHRFelJVekd3?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-13",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 89
+}
