@@ -1,0 +1,41 @@
+{
+ "date": "2026-08-14",
+ "signals": [
+  {
+   "trend": "DramaWave",
+   "why": "'DramaWave' surfacing in daily inputs (mapped to Kunlun Tech).",
+   "evidence": "App 'DramaWave - Dramas & Reels' by SKYWORK AI PTE LTD is #53 -> #36 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:d599503983172c67"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "DramaWave - Dramas & Reels (#53 -> #36)",
+     "url": "https://apps.apple.com/us/app/dramawave-dramas-reels/id6670430706"
+    }
+   ],
+   "ticker": "300418.SZ",
+   "company": "Kunlun Tech Co., Ltd.",
+   "exchange": "Shenzhen",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-08-14",
+   "score": 65
+  }
+ ],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 98
+}
