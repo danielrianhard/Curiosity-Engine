@@ -1,0 +1,91 @@
+{
+ "date": "2026-08-15",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and",
+   "why": "Ticker cited in source: \u201cJim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Wort\u201d.",
+   "evidence": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Worth It. ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:92086b3422737740"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Worth It",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-arista-networks-080905333.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-15",
+   "score": 50
+  },
+  {
+   "trend": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and",
+   "why": "Ticker cited in source: \u201cJim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Wort\u201d.",
+   "evidence": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Worth It. ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:92086b3422737740"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Jim Cramer Said Arista Networks, Inc. (NYSE:ANET) and Snowflake Inc. (NYSE:SNOW) Were Worth It",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-arista-networks-080905333.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-15",
+   "score": 50
+  },
+  {
+   "trend": "Jim Cramer Discussed Costco Wholesale Corporation",
+   "why": "Ticker cited in source: \u201cJim Cramer Discussed Costco Wholesale Corporation (NASDAQ:COST) & Forecast Bumps\u201d.",
+   "evidence": "Jim Cramer Discussed Costco Wholesale Corporation (NASDAQ:COST) & Forecast Bumps. ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:3e5ace3bc3e2bac4"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Jim Cramer Discussed Costco Wholesale Corporation (NASDAQ:COST) & Forecast Bumps",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-discussed-costco-wholesale-075852345.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-15",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 101
+}
