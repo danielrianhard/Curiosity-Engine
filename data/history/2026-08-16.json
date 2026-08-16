@@ -1,0 +1,99 @@
+{
+ "date": "2026-08-16",
+ "signals": [
+  {
+   "trend": "Reddit",
+   "why": "'Reddit' surfacing in daily inputs (mapped to Reddit).",
+   "evidence": "TIP838: Google, Reddit, Amazon \u2013 Are Our Biggest Winners Still a Buy? w/ Daniel Mahncke & Shawn O\u2019Malley. After looking at companies that tanked in recent months in the last episode, Daniel Mahncke and Shawn O\u2019Malley now",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:9c165515caec7814",
+    "news:9f66a67f0ab565fd"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP838: Google, Reddit, Amazon \u2013 Are Our Biggest Winners Still a Buy? w/ Daniel Mahncke & Shawn O\u2019Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Reddit (RDDT) Is Joining the S&P 500 \u2014What\u2019s Next for the Company?",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/reddit-rddt-joining-p-500-054742571.html"
+    }
+   ],
+   "ticker": "RDDT",
+   "company": "Reddit, Inc.",
+   "exchange": "NYSE",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-08-16",
+   "score": 80
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Events & Sports' by KalshiEX LLC is #78 -> #36 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Events & Sports (#78 -> #36)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-events-sports/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-25",
+   "status": "repeat",
+   "score": 55
+  },
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #94 -> #75 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#94 -> #75)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-24",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 104
+}
