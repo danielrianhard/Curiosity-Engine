@@ -1,0 +1,41 @@
+{
+ "date": "2026-08-18",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Rubber Leaf (Nasdaq: RLEA) seeks $25M IPO for Hong Kong",
+   "why": "Ticker cited in source: \u201cRubber Leaf (Nasdaq: RLEA) seeks $25M IPO for Hong Kong auto supplier - Stock Titan\u201d.",
+   "evidence": "Rubber Leaf (Nasdaq: RLEA) seeks $25M IPO for Hong Kong auto supplier - Stock Titan. Rubber Leaf (Nasdaq: RLEA) seeks $25M IPO for Hong Kong auto supplier \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:4296fe412d95a956"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Rubber Leaf (Nasdaq: RLEA) seeks $25M IPO for Hong Kong auto supplier - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3FCYUsyQlhvWkNBTExNa1hDSnN0eERadFZPS1pzUFZJbEFJQ045eHhYU2N0V0JvZW1KYmVKSTUxUzVKUG42akxhMWUtUmpMUmtfLTl2VmVDSVVMVTc4VEhsOWp4Q1FGR1EyTkdyc0VIVEk5RUlkb2lNSjBPbVlYVVFuUVVtdEFRWEIzNF9YMFdlSk45QlRhY0RGYm5PZW43X1hVeXNLSGhFRGtKMGdyX1Brei0weEFQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-18",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 108
+}
