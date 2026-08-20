@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-20",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Stanley Black & Decker (NYSE:SWK)\u2019s 58-Year Dividend Streak",
+   "why": "Ticker cited in source: \u201cStanley Black & Decker (NYSE:SWK)\u2019s 58-Year Dividend Streak is Hard to Ignore\u201d.",
+   "evidence": "Stanley Black & Decker (NYSE:SWK)\u2019s 58-Year Dividend Streak is Hard to Ignore. ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:dc203b8ce97b4d02"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Stanley Black & Decker (NYSE:SWK)\u2019s 58-Year Dividend Streak is Hard to Ignore",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-black-decker-nyse-swk-014449068.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-20",
+   "score": 50
+  },
+  {
+   "trend": "Lyntris (NYSE: LYNX) plans IPO on $924M defense backlog -",
+   "why": "Ticker cited in source: \u201cLyntris (NYSE: LYNX) plans IPO on $924M defense backlog - Stock Titan\u201d.",
+   "evidence": "Lyntris (NYSE: LYNX) plans IPO on $924M defense backlog - Stock Titan. Lyntris (NYSE: LYNX) plans IPO on $924M defense backlog \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:54b87d6e5a96aa48"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Lyntris (NYSE: LYNX) plans IPO on $924M defense backlog - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMzI2TTZpNXZTLW9kM1JWSXpnbXBuSFdFQm1uMk1RWkpQS1Q5UUwwb3U0NWxvUlRfQ2tmN3BXcTVZSC0wQUVlMXRwbzEzcGoyY21XRzBnQmhPOHNQcjF4T1dSeGdGSkttUVpVOFhqTlRaY292M2VIcUlDUXFNSWp3aFYyN0pneFlXQktKUk5PUzczNlByeWJ1SWpnanZicG1ZVS16aU1xNUxpSnB5UnhQeEZLSQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-20",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 123
+}
