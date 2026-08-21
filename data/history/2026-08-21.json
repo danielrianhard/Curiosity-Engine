@@ -1,0 +1,91 @@
+{
+ "date": "2026-08-21",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is NEW at #26 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (NEW at #26)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-24",
+   "status": "repeat",
+   "score": 55
+  },
+  {
+   "trend": "HCW Biologics (NASDAQ: HCWB) registers PIPE, warrant shares",
+   "why": "Ticker cited in source: \u201cHCW Biologics (NASDAQ: HCWB) registers PIPE, warrant shares - Stock Titan\u201d.",
+   "evidence": "HCW Biologics (NASDAQ: HCWB) registers PIPE, warrant shares - Stock Titan. HCW Biologics (NASDAQ: HCWB) registers PIPE, warrant shares \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:bb8151b003c84af5"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "HCW Biologics (NASDAQ: HCWB) registers PIPE, warrant shares - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQR1FuUVZpQk5iQXlySGJRWS1NdEVfWXBqY2hUaWowdm9pRFB5cndXVkJMUVpGU0hQRzJYSnBCcVZOdEd1WEhsSmZtZ0dhSkVPTEdvTzY3eFVOZU5yYVladTlHdmlQc3JtckE0Rl8zSDAxUkJ3UTRka0p2S1ZUVW5qOG9ieFhudWk2NU41MU5UaFFXVkdMdXctM0h6b3JUczZvWjRmMU9kSVV0UlZRQU5iZXQzMFpCR0E?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-21",
+   "score": 50
+  },
+  {
+   "trend": "SharonAI (Nasdaq: SHAZ) details AI contracts as more stock",
+   "why": "Ticker cited in source: \u201cSharonAI (Nasdaq: SHAZ) details AI contracts as more stock cleared for resale - Stock Tita\u201d.",
+   "evidence": "SharonAI (Nasdaq: SHAZ) details AI contracts as more stock cleared for resale - Stock Titan. SharonAI (Nasdaq: SHAZ) details AI contracts as more stock cleared for resale \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:827f0147c3be993e"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "SharonAI (Nasdaq: SHAZ) details AI contracts as more stock cleared for resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNEtsbjh4NWdVRFI4TVQtZldUY2tOZnZLamhuSEc4dTVhUzNZbExYb3dyOVVvcWVnWlZ4aTdHcXZlWUJrWXJjMEhydlVrMlNyN2ZuSHRzMHNUWDdMLTZSdFFLS2xURDNmTlhZcEpVY0lmdUp5TEVsY1FXakdxakVTVjhCT3A2RF9sRkdWNWt1WU1TRWhZX0Y5R2RSOWJidVFkTnJoRjNtX2daTktmaWJ4SzlzNXlFcy03bFN0Y3NNQ0Rsdw?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-21",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 113
+}
