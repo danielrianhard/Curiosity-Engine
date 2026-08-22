@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-22",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Tempest Therapeutics (NASDAQ: TPST) lines up $50M stock",
+   "why": "Ticker cited in source: \u201cTempest Therapeutics (NASDAQ: TPST) lines up $50M stock facility that may heavily dilute h\u201d.",
+   "evidence": "Tempest Therapeutics (NASDAQ: TPST) lines up $50M stock facility that may heavily dilute holders - Stock Titan. Tempest Therapeutics (NASDAQ: TPST) lines up $50M stock facility that may heavily dilute holders \u00a0\u00a0 Stock Ti",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:667b09b26589a003"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Tempest Therapeutics (NASDAQ: TPST) lines up $50M stock facility that may heavily dilute holders - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdkFma2pUVVZaX1NxaTE5MkZmaWNWRkF0Rnhtb29kc1ZGaHpJal9TTkFqdzlrZ05NV2REbVV3ZVBFVEVhUVJqSE15aEVsQTNtQlVyMWF4NFg0aUg5bmthR1Rlc3c3QmpWZGphUk5EMkoxU0ZWYjRpaVBKeUpjVm1vd1pPY1c0bzVLcFJnd0lBa2Vha2F0SEVZRDhyaHhDUDhhaVVGeGlxLTVGbmtsMW1TUU0zZ2t4VjZPMFUtQnA4M0c?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-22",
+   "score": 50
+  },
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #26 -> #9 on Apple Top Free Apps (US). Genres: n/a.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#26 -> #9)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-07-24",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 100
+}
