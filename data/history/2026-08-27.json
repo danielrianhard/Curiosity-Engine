@@ -1,0 +1,41 @@
+{
+ "date": "2026-08-27",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP841: Palantir \u2013 Palantir is Cheaper than I Thought! w/",
+   "why": "Ticker cited in source: \u201cTIP841: Palantir \u2013 Palantir is Cheaper than I Thought! w/ Daniel Mahncke & Shawn O\u2019Malley\u201d.",
+   "evidence": "TIP841: Palantir \u2013 Palantir is Cheaper than I Thought! w/ Daniel Mahncke & Shawn O\u2019Malley. Daniel Mahncke and Shawn O\u2019Malley take a deep dive into Palantir (NASDAQ: PLTR), the data and AI platform behind everything from ",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:52a8a54af31acaa2"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP841: Palantir \u2013 Palantir is Cheaper than I Thought! w/ Daniel Mahncke & Shawn O\u2019Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-27",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 129
+}
