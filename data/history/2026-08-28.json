@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-28",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Sunshine Biopharma (NASDAQ: SBFM) could raise $31M from",
+   "why": "Ticker cited in source: \u201cSunshine Biopharma (NASDAQ: SBFM) could raise $31M from warrants - Stock Titan\u201d.",
+   "evidence": "Sunshine Biopharma (NASDAQ: SBFM) could raise $31M from warrants - Stock Titan. Sunshine Biopharma (NASDAQ: SBFM) could raise $31M from warrants \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:b408d3ba174ce82c"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Sunshine Biopharma (NASDAQ: SBFM) could raise $31M from warrants - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMV9MaHg4R0hXaEVmb2ZGNjhHQmktSzM3UHZlREFsR3BxdVlMMGlNU1Z1VzdUVTVxeFItUGVfdm5FMnVBbHV3VzJjNk1kQWlEVFN2aXhzODdJcDVsZzNMa1VZTGp5WjFjTzlBNDZHZWo2dG9GSVI3S3RDUm1DZzBKSUdMaTNXV0o3VVlXRDNnbzFsMGNmMW5ZYjB4aGlaX1RHN21YTGZDS3lrOTRveUE5M3VOZXg2UTFjd1RiaDB3?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-28",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Events & Sports' by KalshiEX LLC is #91 -> #75 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Events & Sports (#91 -> #75)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-events-sports/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-05",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 92
+}
