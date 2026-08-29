@@ -1,0 +1,66 @@
+{
+ "date": "2026-08-29",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine. (0:00) Bestie intros: Recapping recent interviews and the state of American science   (3:31) China's Robot Olympics, Opti",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:68437353287439d7"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "All-In",
+     "title": "Nvidia's Historic Quarter, SaaS Comeback, Bessent vs Druck, America's Debt Crisis, Cancer Vaccine",
+     "url": "https://allinchamathjason.libsyn.com/nvidias-historic-quarter-saas-comeback-bessent-vs-druck-americas-debt-crisis-cancer-vaccine"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-08-29",
+   "score": 50
+  },
+  {
+   "trend": "Whatnot",
+   "why": "'Whatnot' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Whatnot: Shop, Sell, Connect' by Whatnot Inc. is #36 -> #25 on Apple Top Free Apps (US). Genres: Shopping, Lifestyle.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:32b68ecf0706fc40"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Whatnot: Shop, Sell, Connect (#36 -> #25)",
+     "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-08",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 107
+}

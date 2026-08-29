@@ -1,12 +1,12 @@
 {
- "date": "2026-08-28",
+ "date": "2026-08-29",
  "status": {
   "podcasts": true,
   "appstore": true,
   "news": true,
   "edgar": false,
   "sec_tickers": false,
-  "google_trends": false
+  "google_trends": true
  },
  "provider": "rules",
  "published": 0
