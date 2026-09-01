@@ -1,0 +1,66 @@
+{
+ "date": "2026-09-01",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "StablecoinX (Nasdaq: USDE) registers stock equal to 29% of",
+   "why": "Ticker cited in source: \u201cStablecoinX (Nasdaq: USDE) registers stock equal to 29% of Class A - Stock Titan\u201d.",
+   "evidence": "StablecoinX (Nasdaq: USDE) registers stock equal to 29% of Class A - Stock Titan. StablecoinX (Nasdaq: USDE) registers stock equal to 29% of Class A \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:3a209dc9914e7af7"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "StablecoinX (Nasdaq: USDE) registers stock equal to 29% of Class A - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFlGeHotY2d2QWFJYm5SQVRqNmVwRlphQVFtQm9keW9LeDZKVzM0UmxhaG9HMWQzaThFZXg5OEtRNmx0eVZEWHVxZDl6OTZKQnJjUGphTy0ySjlfYUl2NVVqekNBQzFFMXE0MThUakdGUlBScjlNLUVacWRhZzBMbVZOWGR6STRodUJmQy0xdGZ6OGxqTm9RZGUzUG9mUjVxOWhmYVQ1dGJGVTNiNTdzVWlmQ3FDVms?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-01",
+   "score": 50
+  },
+  {
+   "trend": "Onconetix (NASDAQ: ONCO) flags going concern as 100M-share",
+   "why": "Ticker cited in source: \u201cOnconetix (NASDAQ: ONCO) flags going concern as 100M-share resale filed - Stock Titan\u201d.",
+   "evidence": "Onconetix (NASDAQ: ONCO) flags going concern as 100M-share resale filed - Stock Titan. Onconetix (NASDAQ: ONCO) flags going concern as 100M-share resale filed \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:370a2d2532b2eedf"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Onconetix (NASDAQ: ONCO) flags going concern as 100M-share resale filed - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa3M5OGpoVEF6aXZjS3lqa2t3RlUyNDVERlo2Nm5ZNWs3RFZEWXEyU1ZEZF83dm5LUW5KNDZTWi02NVNLcjJ5S1ZWNzZ1bXFmYnVYaUZvX2x1V0ZpRFhuYzZLSlYxYzRsTHNrM2xDN0JpbHpndTRWbE5lX3phZDIyMDhaa2h3N1h4a21rY2JUMWV6N0hHVnY2ejdGeEFJeUFDMGxVRjAybVVidzRsNUpWNk1YUFFCQQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-01",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 136
+}
