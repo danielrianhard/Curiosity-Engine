@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-02",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Convertible note puts 25M FNGR shares in play as",
+   "why": "Ticker cited in source: \u201cConvertible note puts 25M FNGR shares in play as FingerMotion (Nasdaq: FNGR) registers sto\u201d.",
+   "evidence": "Convertible note puts 25M FNGR shares in play as FingerMotion (Nasdaq: FNGR) registers stock for resale - Stock Titan. Convertible note puts 25M FNGR shares in play as FingerMotion (Nasdaq: FNGR) registers stock for resa",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:228f4bbbeaf7cd8a"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Convertible note puts 25M FNGR shares in play as FingerMotion (Nasdaq: FNGR) registers stock for resale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0dmdnk5TmVCbmx0YWZXVUJfYWdpa3B4UEVGWDBkSDlTVU9pdy0yRHpQUnF1QnV1TmhFVlBhR19VUWM0anFpQ2tiR0RYLVFlaXNfemE3RERnMDgteFdteklOTmN0TGpoVUZ1VDRsSGdSa1ZSbUhoT3lsblJZQXBXVU9ZN1pEVTZDWHZRZXVoNEtzSmdoNGlSb3k4bTRFcGFpQWtJUjN6MFY2ZFljOVR1VVJWNXVvVEE?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-02",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 126
+}
