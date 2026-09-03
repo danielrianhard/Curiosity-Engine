@@ -1,0 +1,66 @@
+{
+ "date": "2026-09-03",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Moonshot AI Files For IPO At $50B Valuation - Microsoft",
+   "why": "Ticker cited in source: \u201cMoonshot AI Files For IPO At $50B Valuation - Microsoft (NASDAQ:MSFT) - Benzinga\u201d.",
+   "evidence": "Moonshot AI Files For IPO At $50B Valuation - Microsoft (NASDAQ:MSFT) - Benzinga. Moonshot AI Files For IPO At $50B Valuation - Microsoft (NASDAQ:MSFT) \u00a0\u00a0 Benzinga",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:3439e755ea635cdc"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Moonshot AI Files For IPO At $50B Valuation - Microsoft (NASDAQ:MSFT) - Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1JSVVg2ME1SdWhVbFFDMWZIaW1iTV9IbVNScGNhWUZDS196VndsRDNTQnpyS0pKdk5NeEE3ZlRmZDExZVdYSG0ydnNFQTQwc0hTT3FwLU1fdTBLWGdmUUctTjAzZGZJWlg3YUNURkNkRUR3OGhwTWQ2MVFYazFCQ3gzbnFsRFpxdnVKcU5pdk02LU1r?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-03",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Events & Sports' by KalshiEX LLC is #74 -> #52 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Events & Sports (#74 -> #52)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-events-sports/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-05",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 101
+}
