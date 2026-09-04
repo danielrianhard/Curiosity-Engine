@@ -1,0 +1,74 @@
+{
+ "date": "2026-09-04",
+ "signals": [
+  {
+   "trend": "Robinhood",
+   "why": "'Robinhood' surfacing in daily inputs (mapped to Robinhood Markets).",
+   "evidence": "AMC Rises 6% as CEO Blasts Tokenized Shares, Robinhood Slips. ",
+   "confidence": 0.55,
+   "item_ids": [
+    "news:61328f22fd7505ea",
+    "news:1452c86d8584a5de"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "AMC Rises 6% as CEO Blasts Tokenized Shares, Robinhood Slips",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/amc-rises-6-ceo-blasts-141045863.html"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "AMC CEO Slams Robinhood Over 'Inexcusable, Vile' Stock Token Trading",
+     "url": "https://www.investors.com/news/amc-robinhood-stock-token-dispute-tokenization/?src=A00220&yptr=yahoo"
+    }
+   ],
+   "ticker": "HOOD",
+   "company": "Robinhood Markets, Inc.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-09-04",
+   "score": 70
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #97 -> #86 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#97 -> #86)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-08",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 122
+}
