@@ -1,0 +1,98 @@
+{
+ "date": "2026-09-05",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal. (0:00) Bestie intros: Happy 50th Chamath!   (1:17) OpenAI releases GPT-6 Astra: Have they reached AGI?   (19:01) All-In",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:aac2c869d05ba41a",
+    "app:19ebb8f41466de30"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "All-In",
+     "title": "GPT-6 Hits AGI? Tech Euphoria 2.0, SF Mansion Shortage, NYC Bans AI in Schools & Venezuela Oil Deal",
+     "url": "https://allinchamathjason.libsyn.com/gpt-6-hits-agi-tech-euphoria-20-sf-mansion-shortage-nyc-bans-ai-in-schools-venezuela-oil-deal"
+    },
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Polymarket (#84 -> #44)",
+     "url": "https://apps.apple.com/us/app/polymarket/id6648798962"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-29",
+   "status": "repeat",
+   "score": 85
+  },
+  {
+   "trend": "Laser Photonics (NASDAQ: LASE) with going concern warning",
+   "why": "Ticker cited in source: \u201cLaser Photonics (NASDAQ: LASE) with going concern warning turns to no-minimum stock and wa\u201d.",
+   "evidence": "Laser Photonics (NASDAQ: LASE) with going concern warning turns to no-minimum stock and warrant sale - Stock Titan. Laser Photonics (NASDAQ: LASE) with going concern warning turns to no-minimum stock and warrant sale \u00a0\u00a0 ",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:d7d0719a3f37ff70"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Laser Photonics (NASDAQ: LASE) with going concern warning turns to no-minimum stock and warrant sale - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFRHR1B5X3Q1N0wxU0h0cE5Jc1ZucUhubDVqWGc0WjU4cDYyYjFYTEdSOHIzQjVkUVFwR1ZpbjRnUTg5UkxvYnZvNU5HTmdvall6aXNqZkxMNERiaGRGcS1CcFY5ZUxIYUVYMHhXNFNSX2JHeFFyWWdrRjFvRHdmcVh2N1NOejJEamxuS0RPX3FZV0FMVlF5dWZGSlljaU1xajlkNm5FUkRRd3FoZ3RGZUdXX1hjLUFHRV9j?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-05",
+   "score": 50
+  },
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #86 -> #67 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#86 -> #67)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-08",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 126
+}
