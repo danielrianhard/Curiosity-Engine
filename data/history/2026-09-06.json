@@ -1,0 +1,91 @@
+{
+ "date": "2026-09-06",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #67 -> #36 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#67 -> #36)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-08",
+   "status": "repeat",
+   "score": 55
+  },
+  {
+   "trend": "TIP844: Uber (UBER): The Autonomy Referendum \u2014 Is Mr.",
+   "why": "Ticker cited in source: \u201cTIP844: Uber (UBER): The Autonomy Referendum \u2014 Is Mr. Market Completely Wrong? w/ Daniel M\u201d.",
+   "evidence": "TIP844: Uber (UBER): The Autonomy Referendum \u2014 Is Mr. Market Completely Wrong? w/ Daniel Mahncke & Shawn O\u2019Malley. Shawn O\u2019Malley and Daniel Mahncke revisit Uber (NYSE: UBER), one of the largest holdings in The Intrinsic",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:7d000d72ab5076cf"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP844: Uber (UBER): The Autonomy Referendum \u2014 Is Mr. Market Completely Wrong? w/ Daniel Mahncke & Shawn O\u2019Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-06",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Events & Sports' by KalshiEX LLC is #38 -> #22 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Events & Sports (#38 -> #22)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-events-sports/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-16",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 109
+}
