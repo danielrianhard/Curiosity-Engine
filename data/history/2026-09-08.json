@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-08",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Polymarket: Trade Live Sports' by Polymarket is #38 -> #23 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:19ebb8f41466de30"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Polymarket: Trade Live Sports (#38 -> #23)",
+     "url": "https://apps.apple.com/us/app/polymarket-trade-live-sports/id6648798962"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-29",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 103
+}
