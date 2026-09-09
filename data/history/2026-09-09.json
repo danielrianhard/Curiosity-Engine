@@ -1,0 +1,66 @@
+{
+ "date": "2026-09-09",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Sub\u2011$1 AIxCrypto (NASDAQ: AIXC) plans discounted share",
+   "why": "Ticker cited in source: \u201cSub\u2011$1 AIxCrypto (NASDAQ: AIXC) plans discounted share resales that could hit existing hol\u201d.",
+   "evidence": "Sub\u2011$1 AIxCrypto (NASDAQ: AIXC) plans discounted share resales that could hit existing holders - Stock Titan. Sub\u2011$1 AIxCrypto (NASDAQ: AIXC) plans discounted share resales that could hit existing holders \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:21de14363a906cbd"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Sub\u2011$1 AIxCrypto (NASDAQ: AIXC) plans discounted share resales that could hit existing holders - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcGhLeHlmSmM0dnhtSlNSSE9rNGN2OVJtb1ZsVTlTRGxfREJ1Z0FXbTJNdEZHOUp0N18wZWsyWlZiOVVCeDFkT0VBZ3JjeFlRTEhNT3I5OG9QMG1MZmZKcVBNRlVzN0RkVm9ZRFFyM1h6bm1IeVdNUmJJSjhBNXJnU2FKWGxiVGxNeFlac2oyRWNrQVBTVEdYLV9BZkRzN3BsamFHY21LX2xwQXBhTFRQQ0pMTWNiUXN0ajNVRlJwTzVYdlpa?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-09",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Events & Sports' by KalshiEX LLC is #35 -> #21 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Events & Sports (#35 -> #21)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-events-sports/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-16",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 105
+}
