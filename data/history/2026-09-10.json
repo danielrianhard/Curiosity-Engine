@@ -1,0 +1,66 @@
+{
+ "date": "2026-09-10",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP845: Copart Stock (CPRT): Is Copart Now a Buy? w/ Daniel",
+   "why": "Ticker cited in source: \u201cTIP845: Copart Stock (CPRT): Is Copart Now a Buy? w/ Daniel Mahncke & Shawn O'Malley\u201d.",
+   "evidence": "TIP845: Copart Stock (CPRT): Is Copart Now a Buy? w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley revisit Copart (NASDAQ: CPRT), the online salvage auction giant that turns totaled cars into a globa",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:9ffc271bbfed7897"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP845: Copart Stock (CPRT): Is Copart Now a Buy? w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-10",
+   "score": 50
+  },
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Football & more' by KalshiEX LLC is #21 -> #11 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Football & more (#21 -> #11)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-16",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 109
+}
