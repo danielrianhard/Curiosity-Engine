@@ -1,0 +1,74 @@
+{
+ "date": "2026-09-15",
+ "signals": [
+  {
+   "trend": "SpaceX",
+   "why": "'SpaceX' surfacing in daily inputs (mapped to Space Exploration Technologies).",
+   "evidence": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger. (0:00) SpaceX's Gwynne Shotwell joins The Besties!   (1:45) Gwynne's SpaceX story, selling rockets, and working for Elon   ",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:41b77232ec6bee8d",
+    "news:a3e80ccd99fe3f4a"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "All-In",
+     "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+     "url": "https://allinchamathjason.libsyn.com/elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacextesla-merger"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Musk hints (again) at possible SpaceX, Tesla merger",
+     "url": "https://finance.yahoo.com/markets/stocks/article/musk-hints-again-at-possible-spacex-tesla-merger-135029754.html"
+    }
+   ],
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-09-15",
+   "score": 80
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "Hyperliquid (Nasdaq: PURR) sets up $2.5B equity line. How",
+   "why": "Ticker cited in source: \u201cHyperliquid (Nasdaq: PURR) sets up $2.5B equity line. How many new shares could follow? - \u201d.",
+   "evidence": "Hyperliquid (Nasdaq: PURR) sets up $2.5B equity line. How many new shares could follow? - Stock Titan. Hyperliquid (Nasdaq: PURR) sets up $2.5B equity line. How many new shares could follow? \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:14b920df924d347f"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Hyperliquid (Nasdaq: PURR) sets up $2.5B equity line. How many new shares could follow? - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTnZoSjhreUtVLVpTZ05YRXR5bjJHT0RuUF9nVkhJYVUydDNQX281bjg3T0twZHd1dW1xd2V5M1dxUVRuT05oalVvbVJnbnVrOENVQ2F5dUtBSDQydTZpV3Z4YVh2N0JjNFd3OUpGNFJCVHpJVzZFbWEtRlhWZkdoeUd0RkNxb3QzSmtvTzlGYnVDdlRxNW9pRDd1WjI4SGlxdXhubmJRR0NaMFRRTTY1U2VNTTRuMEoyWHNkUXVoX3lmUWc?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-15",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 119
+}
