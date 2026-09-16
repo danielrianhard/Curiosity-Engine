@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-16",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Cyabra (NASDAQ: CYAB) registers shareholder resale that",
+   "why": "Ticker cited in source: \u201cCyabra (NASDAQ: CYAB) registers shareholder resale that could more than double its share c\u201d.",
+   "evidence": "Cyabra (NASDAQ: CYAB) registers shareholder resale that could more than double its share count - Stock Titan. Cyabra (NASDAQ: CYAB) registers shareholder resale that could more than double its share count \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:bdde16910e2ff6c6"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Cyabra (NASDAQ: CYAB) registers shareholder resale that could more than double its share count - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQem5GS24zbzUxTktUZGRyb3Y3QzJWNjlDaWswMTB0Tkk4RjMxM280dW1oTzRqQ3c4RjBOMmF4ejZwQTdCNTBzb01udHdIeW9PMl9xc3pERTNRMGdMbi1vSUNDa0ZpZktQSmtld1MzeFAzaGk4Zi13SjNnT2tCUHpyUFVUN0I1ZlVyODNyTDhSZ0EwX3ZRZWNVZHZTNTViWHZDZFE2OXFJTVdZTlZLNm5oNXdB?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-16",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 109
+}
