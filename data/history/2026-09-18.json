@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-18",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Warrant overhang now rivals GeoVax (NASDAQ: GOVX) share",
+   "why": "Ticker cited in source: \u201cWarrant overhang now rivals GeoVax (NASDAQ: GOVX) share count - Stock Titan\u201d.",
+   "evidence": "Warrant overhang now rivals GeoVax (NASDAQ: GOVX) share count - Stock Titan. Warrant overhang now rivals GeoVax (NASDAQ: GOVX) share count \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:3bfc122169b1ccc7"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Warrant overhang now rivals GeoVax (NASDAQ: GOVX) share count - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVFd6QllTS2p5TEsxVnVEa3M4LTl6WVFoTnFUYzFsM045ZDJJUEtPbnVxdV84ci1QLU9QYVBiRTFsVXdZS0VrcjgtWGpla0tQMEZCOUtSNndsdVJTbE1MVVNJd0dYZ196MWxzVmJzcVpLZXNydU9CTHZiNWxiNmVZRGVjNWhRRng0TE5jSmVZM1AzcVJweXgybmJtb1pzUEk5NS1zYzlMaXkzQVp1TTQ3UXd3dzlaQQ?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-18",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 110
+}
