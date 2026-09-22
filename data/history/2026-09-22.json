@@ -1,0 +1,98 @@
+{
+ "date": "2026-09-22",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Football & more' by KalshiEX LLC is #5 -> #9 on Apple Top Free Apps (US). Genres: n/a.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2",
+    "news:576bacff5d680c60"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Football & more (#5 -> #9)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844"
+    },
+    {
+     "type": "news",
+     "name": "Yahoo Finance",
+     "title": "Kalshi asks CFTC to allow margin trading on prediction markets",
+     "url": "https://finance.yahoo.com/markets/options/articles/kalshi-asks-cftc-allow-margin-123918880.html"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-23",
+   "status": "accelerating",
+   "score": 70
+  },
+  {
+   "trend": "Nvidia-Backed AI Drug Startup Iambic Therapeutics Files For",
+   "why": "Ticker cited in source: \u201cNvidia-Backed AI Drug Startup Iambic Therapeutics Files For IPO - NVIDIA (NASDAQ:NVDA) - B\u201d.",
+   "evidence": "Nvidia-Backed AI Drug Startup Iambic Therapeutics Files For IPO - NVIDIA (NASDAQ:NVDA) - Benzinga. Nvidia-Backed AI Drug Startup Iambic Therapeutics Files For IPO - NVIDIA (NASDAQ:NVDA) \u00a0\u00a0 Benzinga",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:8d8eab964ebb0185"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "Nvidia-Backed AI Drug Startup Iambic Therapeutics Files For IPO - NVIDIA (NASDAQ:NVDA) - Benzinga",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHBtN1BCSlVleTJQNVBsTFdpZTFOUlRXR3I3Q0hWbUFtOWo3ekVzd1BzYWI2Z3BWa2k3MEdRc21pNFpnUHF6bmlJeThXRlc3YTVZdjdscVpKVDVYX21sZGdnQm9OUWRQZUNhbUlfQWpzZXF4MVg0V0c5ZldvQVdaQi1RTnIxSXNGN1R1MFQxSHlrTE1oSUJ6U1RXQmdVS0sxZGJoX09VeldWZnVFVU1ibHI5T0ZrLVA2NjNwWDlZSUhQZ25U?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-22",
+   "score": 50
+  },
+  {
+   "trend": "Whatnot",
+   "why": "'Whatnot' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Whatnot: Shop, Sell, Connect' by Whatnot Inc. is #40 -> #28 on Apple Top Free Apps (US). Genres: Shopping, Lifestyle.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:32b68ecf0706fc40"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Whatnot: Shop, Sell, Connect (#40 -> #28)",
+     "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-08-29",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 124
+}
