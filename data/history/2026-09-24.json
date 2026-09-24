@@ -1,0 +1,41 @@
+{
+ "date": "2026-09-24",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP848: Meta (META): What the Market Misses? w/ Daniel",
+   "why": "Ticker cited in source: \u201cTIP848: Meta (META): What the Market Misses? w/ Daniel Mahncke & Shawn O'Malley\u201d.",
+   "evidence": "TIP848: Meta (META): What the Market Misses? w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley revisit Meta Platforms (NASDAQ: META), the advertising machine behind Facebook, Instagram, and WhatsApp t",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:5130b9ee82437ee6"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP848: Meta (META): What the Market Misses? w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-09-24",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 106
+}
