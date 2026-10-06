@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-06",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Whatnot",
+   "why": "'Whatnot' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Whatnot: Shop, Sell, Connect' by Whatnot Inc. is #39 -> #25 on Apple Top Free Apps (US). Genres: Shopping, Lifestyle.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:32b68ecf0706fc40"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Whatnot: Shop, Sell, Connect (#39 -> #25)",
+     "url": "https://apps.apple.com/us/app/whatnot-shop-sell-connect/id1488269261"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-09-07",
+   "status": "repeat",
+   "score": 45
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 69
+}
