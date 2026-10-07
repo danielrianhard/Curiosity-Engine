@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-07",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "At an assumed $0.819 a share, Actuate Therapeutics (Nasdaq:",
+   "why": "Ticker cited in source: \u201cAt an assumed $0.819 a share, Actuate Therapeutics (Nasdaq: ACTU) proposes a stock offerin\u201d.",
+   "evidence": "At an assumed $0.819 a share, Actuate Therapeutics (Nasdaq: ACTU) proposes a stock offering. - Stock Titan. At an assumed $0.819 a share, Actuate Therapeutics (Nasdaq: ACTU) proposes a stock offering. \u00a0\u00a0 Stock Titan",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:004ce0826f7c853a"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "At an assumed $0.819 a share, Actuate Therapeutics (Nasdaq: ACTU) proposes a stock offering. - Stock Titan",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc05ZanBhLTcyWUwzT1FIQ2ExMkVnbVZ3U2Ntd3lScGR1Z0s5OHp4SFRmZzdBM2NhWmI4TDRrS0k5d2xLUThlYjJudXd4d19uWnRuSVkwTzJBcTN1bWhfMG5DWmVMdEdueVpRTVRaTWRxMFl4MW9xYi1WNUVMU1QtN0ktYk82OGppTHFQMDRzVTBDVWVpS2UzdnBBLUpZRmNCUXlMRnQwdTlodWdMVU9QcXhoTUstYjhYNWs3M2JUbUo?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-07",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 68
+}
