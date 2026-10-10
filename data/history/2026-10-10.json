@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-10",
+ "signals": [
+  {
+   "trend": "Reddit",
+   "why": "'Reddit' surfacing in daily inputs (mapped to Reddit).",
+   "evidence": "App 'Reddit' by REDDIT, INC. is #83 -> #63 on Apple Top Free Apps (US). Genres: News, Social Networking.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:841373e20f70cab4"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Reddit (#83 -> #63)",
+     "url": "https://apps.apple.com/us/app/reddit/id1064216828"
+    }
+   ],
+   "ticker": "RDDT",
+   "company": "Reddit, Inc.",
+   "exchange": "NYSE",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-10-10",
+   "score": 65
+  }
+ ],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 69
+}
