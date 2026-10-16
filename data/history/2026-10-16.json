@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-16",
+ "signals": [
+  {
+   "trend": "Bending Spoons",
+   "why": "'Bending Spoons' surfacing in daily inputs (mapped to Bending Spoons).",
+   "evidence": "Is Berkshire Bending the Rules With Bending Spoons?. When you think \u201ccompanies Berkshire Hathaway likes\u201d, often we think of mature, almost iconic businesses that have produced consistent results for years. Bending Spoons",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:84b4a99666ae79c6"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "Motley Fool Money",
+     "title": "Is Berkshire Bending the Rules With Bending Spoons?",
+     "url": "https://feeds.megaphone.fm/ARML8165884693"
+    }
+   ],
+   "ticker": "BSP",
+   "company": "Bending Spoons S.p.A.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-10-16",
+   "score": 65
+  }
+ ],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 75
+}
