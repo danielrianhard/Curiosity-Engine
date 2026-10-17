@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-17",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Polymarket",
+   "why": "'Polymarket' surfacing in daily inputs (mapped to private company).",
+   "evidence": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer. (0:00) Ben Horowitz fills in for Friedberg!   (2:18) CoreWeave's debt selloff: did the AI bubble just pop?   (31:14) AI's deflationary impact:",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:312e1e9151e88615"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "All-In",
+     "title": "CoreWeave Crash, AI Trade Cracks, Anthropic IPO Red Flags, Bill Gates Doomer",
+     "url": "https://allinchamathjason.libsyn.com/coreweave-crash-ai-trade-cracks-anthropic-ipo-red-flags-bill-gates-doomer"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-17",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 73
+}
