@@ -1,0 +1,15 @@
+{
+ "date": "2026-10-20",
+ "signals": [],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 84
+}
