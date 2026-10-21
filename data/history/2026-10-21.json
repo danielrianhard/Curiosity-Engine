@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-21",
+ "signals": [
+  {
+   "trend": "SpaceX",
+   "why": "'SpaceX' surfacing in daily inputs (mapped to Space Exploration Technologies).",
+   "evidence": "AI: Anthropic\u2019s $750 Billion Compute Bill, SpaceX\u2019s AI Profit. AI-RTZ #1246 - AI: Reset to Zero. AI: Anthropic\u2019s $750 Billion Compute Bill, SpaceX\u2019s AI Profit. AI-RTZ #1246 \u00a0\u00a0 AI: Reset to Zero",
+   "confidence": 0.55,
+   "item_ids": [
+    "news:e881038f82b6b459"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "AI: Anthropic\u2019s $750 Billion Compute Bill, SpaceX\u2019s AI Profit. AI-RTZ #1246 - AI: Reset to Zero",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5"
+    }
+   ],
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-10-21",
+   "score": 65
+  }
+ ],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 98
+}
