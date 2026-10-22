@@ -1,0 +1,74 @@
+{
+ "date": "2026-10-22",
+ "signals": [
+  {
+   "trend": "SpaceX",
+   "why": "'SpaceX' surfacing in daily inputs (mapped to Space Exploration Technologies).",
+   "evidence": "SpaceX\u2019s $1 Trillion Revenue Ambition: Can Elon Musk Deliver?. Netflix is showing signs of maturity as growth slows, but is its valuation becoming attractive? SpaceX reported explosive revenue growth, and Elon Musk is pr",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:2810d5628eb63f96",
+    "news:e881038f82b6b459"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "Motley Fool Money",
+     "title": "SpaceX\u2019s $1 Trillion Revenue Ambition: Can Elon Musk Deliver?",
+     "url": "https://feeds.megaphone.fm/ARML8165884693"
+    },
+    {
+     "type": "news",
+     "name": "Google News \u2014 IPO / S-1 filings",
+     "title": "AI: Anthropic\u2019s $750 Billion Compute Bill, SpaceX\u2019s AI Profit. AI-RTZ #1246 - AI: Reset to Zero",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5"
+    }
+   ],
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "first_seen": "2026-10-21",
+   "status": "repeat",
+   "score": 75
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "TIP854: GE Aerospace: Chris Hohn\u2019s Biggest Bet w/ Daniel",
+   "why": "Ticker cited in source: \u201cTIP854: GE Aerospace: Chris Hohn\u2019s Biggest Bet w/ Daniel Mahncke & Shawn O'Malley\u201d.",
+   "evidence": "TIP854: GE Aerospace: Chris Hohn\u2019s Biggest Bet w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley follow up last year\u2019s TransDigm pitch with the biggest monopoly in aviation: GE Aerospace (NYSE: GE), t",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:935cc72b73e57e78"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP854: GE Aerospace: Chris Hohn\u2019s Biggest Bet w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-22",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 78
+}
