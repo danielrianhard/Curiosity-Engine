@@ -1,5 +1,5 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "status": {
   "podcasts": true,
   "appstore": true,
@@ -9,5 +9,5 @@
   "google_trends": true
  },
  "provider": "rules",
- "published": 1
+ "published": 0
 }

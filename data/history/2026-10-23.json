@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-23",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Football & more' by KalshiEX LLC is #10 on Apple Top Free Apps (US). Genres: n/a.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Football & more (#10)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-football-more/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-23",
+   "score": 50
+  },
+  {
+   "trend": "BigBear.ai (NYSE:BBAI) Surges As Fresh Defense Contract",
+   "why": "Ticker cited in source: \u201cBigBear.ai (NYSE:BBAI) Surges As Fresh Defense Contract Awards Land Today - Kalkine Media\u201d.",
+   "evidence": "BigBear.ai (NYSE:BBAI) Surges As Fresh Defense Contract Awards Land Today - Kalkine Media. BigBear.ai (NYSE:BBAI) Surges As Fresh Defense Contract Awards Land Today \u00a0\u00a0 Kalkine Media",
+   "confidence": 0.5,
+   "item_ids": [
+    "news:f0bf4e4e21cd2db9"
+   ],
+   "sources": [
+    {
+     "type": "news",
+     "name": "Google News \u2014 small cap defense contract",
+     "title": "BigBear.ai (NYSE:BBAI) Surges As Fresh Defense Contract Awards Land Today - Kalkine Media",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeTludkpXMTZQeW4yWVBmb21FNTdqLW9pX3pUTDRGTWhOVE9vQllaQkpOOXRLc1gwblFoamFCQ3gzdkhkbFIzbWkzMU9rSUhjb3Yyb1JSY2VESU1zQ2l6SEt2eHJhM0pOOEtrYmp0Z1RBaWFWdHpQaml2bm1hR3hfSEZvYTByQ0NxVXI1amJYampVRWJacXBhSnB3cHktZmdDZldkMVRkN04wUFpFYnZN?oc=5"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-23",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 73
+}
