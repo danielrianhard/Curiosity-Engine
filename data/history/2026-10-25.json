@@ -1,0 +1,41 @@
+{
+ "date": "2026-10-25",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP855: Shopify (SHOP): The Big Winner of Agentic Commerce?",
+   "why": "Ticker cited in source: \u201cTIP855: Shopify (SHOP): The Big Winner of Agentic Commerce? w/ Shawn O'Malley & Daniel Mah\u201d.",
+   "evidence": "TIP855: Shopify (SHOP): The Big Winner of Agentic Commerce? w/ Shawn O'Malley & Daniel Mahncke. Shawn O\u2019Malley and Daniel Mahncke revisit Shopify (NASDAQ: SHOP) fifteen months after Shawn pitched it, called it one of the",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:e5e74c90e5baa2fa"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP855: Shopify (SHOP): The Big Winner of Agentic Commerce? w/ Shawn O'Malley & Daniel Mahncke",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-10-25",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 51
+}
