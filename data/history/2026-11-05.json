@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-05",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP858: McDonald's ($MCD): Generational Compounder in",
+   "why": "Ticker cited in source: \u201cTIP858: McDonald's ($MCD): Generational Compounder in Historical Drawdown w/ Daniel Mahnck\u201d.",
+   "evidence": "TIP858: McDonald's ($MCD): Generational Compounder in Historical Drawdown w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley cover their first restaurant stock. Although one could argue it isn\u2019t really",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:a76daeefbe30d30b"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP858: McDonald's ($MCD): Generational Compounder in Historical Drawdown w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-11-05",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 57
+}
