@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "ReelShort",
+   "why": "'ReelShort' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'ReelShort - Stream Drama & TV' by NewLeaf Publishing is #54 -> #18 on Apple Top Free Apps (US). Genres: Entertainment.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:b5e8100f791ff201"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "ReelShort - Stream Drama & TV (#54 -> #18)",
+     "url": "https://apps.apple.com/us/app/reelshort-stream-drama-tv/id1636235979"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "first_seen": "2026-10-19",
+   "status": "repeat",
+   "score": 55
+  },
+  {
+   "trend": "TIP859: Mercado Libre ($MELI): We Doubled Down on Meli w/",
+   "why": "Ticker cited in source: \u201cTIP859: Mercado Libre ($MELI): We Doubled Down on Meli w/ Daniel Mahncke & Shawn O'Malley\u201d.",
+   "evidence": "TIP859: Mercado Libre ($MELI): We Doubled Down on Meli w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley return to Mercado Libre (NASDAQ: MELI), a holding in The Intrinsic Value Portfolio. The \u201cAmazon",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:ee6c2b57b89d7d5b"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP859: Mercado Libre ($MELI): We Doubled Down on Meli w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-11-08",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 45
+}
