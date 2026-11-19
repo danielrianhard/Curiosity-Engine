@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-19",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "TIP862: Apple (AAPL): Is Apple Priced for a Massive",
+   "why": "Ticker cited in source: \u201cTIP862: Apple (AAPL): Is Apple Priced for a Massive Drawdown? w/ Daniel Mahncke & Shawn O'\u201d.",
+   "evidence": "TIP862: Apple (AAPL): Is Apple Priced for a Massive Drawdown? w/ Daniel Mahncke & Shawn O'Malley. Daniel Mahncke and Shawn O\u2019Malley take on Apple (NASDAQ: AAPL). In 2025, Apple was widely seen as the company that missed ",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:c4bce6d5185b4719"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP862: Apple (AAPL): Is Apple Priced for a Massive Drawdown? w/ Daniel Mahncke & Shawn O'Malley",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-11-19",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 98
+}
