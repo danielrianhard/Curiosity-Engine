@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-21",
+ "signals": [
+  {
+   "trend": "Bending Spoons",
+   "why": "'Bending Spoons' surfacing in daily inputs (mapped to Bending Spoons).",
+   "evidence": "Anthropic\u2019s IPO Hangover, Nvidia\u2019s Future Without Jensen, and the Worst Acquisitions Ever. Anthropic\u2019s blockbuster IPO has barely begun trading, but investors are already questioning whether its trillion-dollar valuation",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:2e5c28ae9372a721"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "Motley Fool Money",
+     "title": "Anthropic\u2019s IPO Hangover, Nvidia\u2019s Future Without Jensen, and the Worst Acquisitions Ever",
+     "url": "https://feeds.megaphone.fm/ARML8165884693"
+    }
+   ],
+   "ticker": "BSP",
+   "company": "Bending Spoons S.p.A.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-11-21",
+   "score": 65
+  }
+ ],
+ "watchlist": [],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 97
+}
