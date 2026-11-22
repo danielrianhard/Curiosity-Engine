@@ -1,0 +1,81 @@
+{
+ "date": "2026-11-22",
+ "signals": [
+  {
+   "trend": "SpaceX",
+   "why": "'SpaceX' surfacing in daily inputs (mapped to Space Exploration Technologies).",
+   "evidence": "How an American AI Company Uses Chinese Open-Weight Models. This week, we got news that the Trump administration is reportedly considering a requirement for US companies to publicly disclose their use of Chinese AI model",
+   "confidence": 0.55,
+   "item_ids": [
+    "pod:76a5ca3588cf81ae",
+    "pod:2e5c28ae9372a721",
+    "pod:0bc4a40f31d81de3"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "Odd Lots",
+     "title": "How an American AI Company Uses Chinese Open-Weight Models",
+     "url": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models"
+    },
+    {
+     "type": "podcast",
+     "name": "Motley Fool Money",
+     "title": "Anthropic\u2019s IPO Hangover, Nvidia\u2019s Future Without Jensen, and the Worst Acquisitions Ever",
+     "url": "https://feeds.megaphone.fm/ARML8165884693"
+    },
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP863: S&P Global (SPGI): A Market Titan Goes on a Rare Sale w/ Shawn O\u2019Malley & Daniel Mahncke",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": "SPCX",
+   "company": "Space Exploration Technologies Corp.",
+   "exchange": "NasdaqGS",
+   "method": "brand_map+yfinance",
+   "watchlist": false,
+   "status": "new",
+   "first_seen": "2026-11-22",
+   "score": 60
+  }
+ ],
+ "watchlist": [
+  {
+   "trend": "TIP863: S&P Global (SPGI): A Market Titan Goes on a Rare",
+   "why": "Ticker cited in source: \u201cTIP863: S&P Global (SPGI): A Market Titan Goes on a Rare Sale w/ Shawn O\u2019Malley & Daniel M\u201d.",
+   "evidence": "TIP863: S&P Global (SPGI): A Market Titan Goes on a Rare Sale w/ Shawn O\u2019Malley & Daniel Mahncke. Shawn O\u2019Malley and Daniel Mahncke revisit S&P Global (NYSE: SPGI) a year after Daniel pitched it and the pair put it at th",
+   "confidence": 0.5,
+   "item_ids": [
+    "pod:0bc4a40f31d81de3"
+   ],
+   "sources": [
+    {
+     "type": "podcast",
+     "name": "We Study Billionaires",
+     "title": "TIP863: S&P Global (SPGI): A Market Titan Goes on a Rare Sale w/ Shawn O\u2019Malley & Daniel Mahncke",
+     "url": "https://feeds.megaphone.fm/PPLLC8974708240"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-11-22",
+   "score": 50
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": true
+ },
+ "items_ingested": 66
+}
