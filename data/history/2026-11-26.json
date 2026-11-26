@@ -1,0 +1,41 @@
+{
+ "date": "2026-11-26",
+ "signals": [],
+ "watchlist": [
+  {
+   "trend": "Kalshi",
+   "why": "'Kalshi' surfacing in daily inputs (mapped to private company).",
+   "evidence": "App 'Kalshi: Trade Sports & Events' by KalshiEX LLC is #27 -> #17 on Apple Top Free Apps (US). Genres: Finance, Sports.",
+   "confidence": 0.55,
+   "item_ids": [
+    "app:3c16b20c098478f2"
+   ],
+   "sources": [
+    {
+     "type": "appstore",
+     "name": "Apple Top Free Apps (US)",
+     "title": "Kalshi: Trade Sports & Events (#27 -> #17)",
+     "url": "https://apps.apple.com/us/app/kalshi-trade-sports-events/id1632713844"
+    }
+   ],
+   "ticker": null,
+   "company": null,
+   "exchange": "",
+   "method": "",
+   "watchlist": true,
+   "status": "new",
+   "first_seen": "2026-11-26",
+   "score": 65
+  }
+ ],
+ "provider": "rules",
+ "source_status": {
+  "podcasts": true,
+  "appstore": true,
+  "news": true,
+  "edgar": false,
+  "sec_tickers": false,
+  "google_trends": false
+ },
+ "items_ingested": 75
+}
